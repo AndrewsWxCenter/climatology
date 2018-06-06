@@ -1,0 +1,531 @@
+<div>
+<div style="float: left; width: 50%;">
+
+<style style="text/css">
+   .maxtable{
+  width:100%; 
+  height:auto;
+  border-collapse:collapse; 
+ }
+ .maxtable td{ 
+  padding:5px; border:#000000 1px solid;
+ }
+ /* Define the default color for all the table rows */
+ .maxtable tr{
+  background: #FFFFFF;
+ }
+ /* Define the hover highlight color for the table row */
+    .maxtable tr:hover {
+          background-color: #FF5252;
+    }
+</style>
+
+<table align="center" class="maxtable">
+ <tr>
+ <td bgcolor="#DFDFDF"><center><u>Date of Mean Temperature Change</u></center></td><td bgcolor="#DFDFDF"><center><u>Mean <b>MAXIMUM</b> Temperature [&deg;F]</u></center></td>
+ </tr>
+ <tr>
+  <td><center>January 1</center></td><td><center>50</center></td>
+ </tr>
+ <tr>
+  <td><center>January 12</center></td><td><center>51</center></td>
+ </tr>
+  <td><center>January 23</center></td><td><center>52</center></td>
+ </tr>
+ <tr>
+  <td><center>January 30</center></td><td><center>53</center></td>
+ </tr>
+ <tr>
+  <td><center>February 5</center></td><td><center>54</center></td>
+ </tr>
+  <td><center>February 10</center></td><td><center>55</center></td>
+ </tr>
+ <tr>
+  <td><center>February 15</center></td><td><center>56</center></td>
+ </tr>
+  <td><center>February 19</center></td><td><center>57</center></td>
+ </tr>
+ <tr>
+  <td><center>February 23</center></td><td><center>58</center></td>
+ </tr>
+ <tr>
+  <td><center>February 27</center></td><td><center>59</center></td>
+ </tr>
+  <td><center>March 3</center></td><td><center>60</center></td>
+ </tr>
+ <tr>
+  <td><center>March 6</center></td><td><center>61</center></td>
+ </tr>
+  <td><center>March 10</center></td><td><center>62</center></td>
+ </tr>
+ <tr>
+  <td><center>March 13</center></td><td><center>63</center></td>
+ </tr>
+ <tr>
+  <td><center>March 16</center></td><td><center>64</center></td>
+ </tr>
+ <tr>
+  <td><center>March 20</center></td><td><center>65</center></td>
+ </tr>
+ <tr>
+  <td><center>March 23</center></td><td><center>66</center></td>
+ </tr>
+ <tr>
+  <td><center>March 26</center></td><td><center>67</center></td>
+ </tr>
+ <tr>
+  <td><center>March 29</center></td><td><center>68</center></td>
+ </tr>
+ <tr>
+  <td><center>April 1</center></td><td><center>69</center></td>
+ </tr>
+ <tr>
+  <td><center>April 5</center></td><td><center>70</center></td>
+ </tr>
+ <tr>
+  <td><center>April 8</center></td><td><center>71</center></td>
+ </tr>
+ <tr>
+  <td><center>April 12</center></td><td><center>72</center></td>
+ </tr>
+ <tr>
+  <td><center>April 15</center></td><td><center>73</center></td>
+ </tr>
+ <tr>
+  <td><center>April 19</center></td><td><center>74</center></td>
+ </tr>
+ <tr>
+  <td><center>April 23</center></td><td><center>75</center></td>
+ </tr>
+ <tr>
+  <td><center>April 28</center></td><td><center>76</center></td>
+ </tr>
+ <tr>
+  <td><center>May 2</center></td><td><center>77</center></td>
+ </tr>
+ <tr>
+  <td><center>May 6</center></td><td><center>78</center></td>
+ </tr>
+ <tr>
+  <td><center>May 11</center></td><td><center>79</center></td>
+ </tr>
+ <tr>
+  <td><center>May 15</center></td><td><center>80</center></td>
+ </tr>
+ <tr>
+  <td><center>May 19</center></td><td><center>81</center></td>
+ </tr>
+ <tr>
+  <td><center>May 23</center></td><td><center>82</center></td>
+ </tr>
+ <tr>
+  <td><center>May 27</center></td><td><center>83</center></td>
+ </tr>
+ <tr>
+  <td><center>June 1</center></td><td><center>84</center></td>
+ </tr>
+ <tr>
+  <td><center>June 5</center></td><td><center>85</center></td>
+ </tr>
+ <tr>
+  <td><center>June 9</center></td><td><center>86</center></td>
+ </tr>
+ <tr>
+  <td><center>June 13</center></td><td><center>87</center></td>
+ </tr>
+ <tr>
+  <td><center>June 18</center></td><td><center>88</center></td>
+ </tr>
+ <tr>
+  <td><center>June 24</center></td><td><center>89</center></td>
+ </tr>
+ <tr>
+  <td><center>July 2</center></td><td><center>90</center></td>
+ </tr>
+ <tr>
+  <td><center>July 31</center></td><td><center>89</center></td>
+ </tr>
+ <tr>
+  <td><center>August 15</center></td><td><center>88</center></td>
+ </tr>
+  <td><center>August 24</center></td><td><center>87</center></td>
+ </tr>
+ <tr>
+  <td><center>August 30</center></td><td><center>86</center></td>
+ </tr>
+ <tr>
+  <td><center>September 3</center></td><td><center>85</center></td>
+ </tr>
+  <td><center>September 8</center></td><td><center>84</center></td>
+ </tr>
+ <tr>
+  <td><center>September 11</center></td><td><center>83</center></td>
+ </tr>
+  <td><center>September 14</center></td><td><center>82</center></td>
+ </tr>
+ <tr>
+  <td><center>September 18</center></td><td><center>81</center></td>
+ </tr>
+ <tr>
+  <td><center>September 21</center></td><td><center>80</center></td>
+ </tr>
+  <td><center>September 24</center></td><td><center>79</center></td>
+ </tr>
+ <tr>
+  <td><center>September 27</center></td><td><center>78</center></td>
+ </tr>
+  <td><center>September 30</center></td><td><center>77</center></td>
+ </tr>
+ <tr>
+  <td><center>October 3</center></td><td><center>76</center></td>
+ </tr>
+ <tr>
+  <td><center>October 6</center></td><td><center>75</center></td>
+ </tr>
+ <tr>
+  <td><center>October 9</center></td><td><center>74</center></td>
+ </tr>
+ <tr>
+  <td><center>October 13</center></td><td><center>73</center></td>
+ </tr>
+ <tr>
+  <td><center>October 17</center></td><td><center>72</center></td>
+ </tr>
+ <tr>
+  <td><center>October 21</center></td><td><center>71</center></td>
+ </tr>
+ <tr>
+  <td><center>October 25</center></td><td><center>70</center></td>
+ </tr>
+ <tr>
+  <td><center>October 29</center></td><td><center>69</center></td>
+ </tr>
+ <tr>
+  <td><center>November 2</center></td><td><center>68</center></td>
+ </tr>
+ <tr>
+  <td><center>November 5</center></td><td><center>67</center></td>
+ </tr>
+ <tr>
+  <td><center>November 9</center></td><td><center>66</center></td>
+ </tr>
+ <tr>
+  <td><center>November 12</center></td><td><center>65</center></td>
+ </tr>
+ <tr>
+  <td><center>November 15</center></td><td><center>64</center></td>
+ </tr>
+ <tr>
+  <td><center>November 17</center></td><td><center>63</center></td>
+ </tr>
+ <tr>
+  <td><center>November 20</center></td><td><center>62</center></td>
+ </tr>
+ <tr>
+  <td><center>November 23</center></td><td><center>61</center></td>
+ </tr>
+ <tr>
+  <td><center>November 25</center></td><td><center>60</center></td>
+ </tr>
+ <tr>
+  <td><center>November 28</center></td><td><center>59</center></td>
+ </tr>
+ <tr>
+  <td><center>November 30</center></td><td><center>58</center></td>
+ </tr>
+ <tr>
+  <td><center>December 3</center></td><td><center>57</center></td>
+ </tr>
+ <tr>
+  <td><center>December 5</center></td><td><center>56</center></td>
+ </tr>
+ <tr>
+  <td><center>December 8</center></td><td><center>55</center></td>
+ </tr>
+ <tr>
+  <td><center>December 11</center></td><td><center>54</center></td>
+ </tr>
+ <tr>
+  <td><center>December 14</center></td><td><center>53</center></td>
+ </tr>
+ <tr>
+  <td><center>December 18</center></td><td><center>52</center></td>
+ </tr>
+ <tr>
+  <td><center>December 23</center></td><td><center>51</center></td>
+ </tr>
+ <tr>
+  <td><center>December 30</center></td><td><center>50</center></td>
+ </tr>
+</table>
+
+</div>
+
+
+
+
+
+
+<div style="float: right; width: 50%;">
+
+<style style="text/css">
+   .mintable{
+  width:100%; 
+  height:auto;
+  border-collapse:collapse; 
+ }
+ .mintable td{ 
+  padding:5px; border:#000000 1px solid;
+ }
+ /* Define the default color for all the table rows */
+ .mintable tr{
+  background: #FFFFFF;
+ }
+ /* Define the hover highlight color for the table row */
+    .mintable tr:hover {
+          background-color: #6BB5FF;
+    }
+</style>
+
+<table align="center" class="mintable">
+ <tr>
+ <td bgcolor="#DFDFDF"><center><u>Date of Mean Temperature Change</u></center></td><td bgcolor="#DFDFDF"><center><u>Mean <b>MINIMUM</b> Temperature [&deg;F]</u></center></td>
+ </tr>
+ <tr>
+  <td><center>January 1</center></td><td><center>31</center></td>
+ </tr>
+ <tr>
+  <td><center>January 25</center></td><td><center>32</center></td>
+ </tr>
+  <td><center>February 5</center></td><td><center>33</center></td>
+ </tr>
+ <tr>
+  <td><center>February 13</center></td><td><center>34</center></td>
+ </tr>
+ <tr>
+  <td><center>February 20</center></td><td><center>35</center></td>
+ </tr>
+  <td><center>February 25</center></td><td><center>36</center></td>
+ </tr>
+ <tr>
+  <td><center>March 1</center></td><td><center>37</center></td>
+ </tr>
+  <td><center>March 6</center></td><td><center>38</center></td>
+ </tr>
+ <tr>
+  <td><center>March 10</center></td><td><center>39</center></td>
+ </tr>
+ <tr>
+  <td><center>March 13</center></td><td><center>40</center></td>
+ </tr>
+  <td><center>March 17</center></td><td><center>41</center></td>
+ </tr>
+ <tr>
+  <td><center>March 20</center></td><td><center>42</center></td>
+ </tr>
+  <td><center>March 24</center></td><td><center>43</center></td>
+ </tr>
+ <tr>
+  <td><center>March 28</center></td><td><center>44</center></td>
+ </tr>
+ <tr>
+  <td><center>March 31</center></td><td><center>45</center></td>
+ </tr>
+ <tr>
+  <td><center>April 4</center></td><td><center>46</center></td>
+ </tr>
+ <tr>
+  <td><center>April 8</center></td><td><center>47</center></td>
+ </tr>
+ <tr>
+  <td><center>April 12</center></td><td><center>48</center></td>
+ </tr>
+ <tr>
+  <td><center>April 15</center></td><td><center>49</center></td>
+ </tr>
+ <tr>
+  <td><center>April 20</center></td><td><center>50</center></td>
+ </tr>
+ <tr>
+  <td><center>April 23</center></td><td><center>51</center></td>
+ </tr>
+ <tr>
+  <td><center>April 27</center></td><td><center>52</center></td>
+ </tr>
+ <tr>
+  <td><center>May 1</center></td><td><center>53</center></td>
+ </tr>
+ <tr>
+  <td><center>May 4</center></td><td><center>54</center></td>
+ </tr>
+ <tr>
+  <td><center>May 8</center></td><td><center>55</center></td>
+ </tr>
+ <tr>
+  <td><center>May 11</center></td><td><center>56</center></td>
+ </tr>
+ <tr>
+  <td><center>May 14</center></td><td><center>57</center></td>
+ </tr>
+ <tr>
+  <td><center>May 18</center></td><td><center>58</center></td>
+ </tr>
+ <tr>
+  <td><center>May 21</center></td><td><center>59</center></td>
+ </tr>
+ <tr>
+  <td><center>May 24</center></td><td><center>60</center></td>
+ </tr>
+ <tr>
+  <td><center>May 27</center></td><td><center>61</center></td>
+ </tr>
+ <tr>
+  <td><center>May 30</center></td><td><center>62</center></td>
+ </tr>
+ <tr>
+  <td><center>June 2</center></td><td><center>63</center></td>
+ </tr>
+ <tr>
+  <td><center>June 5</center></td><td><center>64</center></td>
+ </tr>
+ <tr>
+  <td><center>June 8</center></td><td><center>65</center></td>
+ </tr>
+ <tr>
+  <td><center>June 12</center></td><td><center>66</center></td>
+ </tr>
+ <tr>
+  <td><center>June 16</center></td><td><center>67</center></td>
+ </tr>
+ <tr>
+  <td><center>June 20</center></td><td><center>68</center></td>
+ </tr>
+ <tr>
+  <td><center>June 25</center></td><td><center>69</center></td>
+ </tr>
+ <tr>
+  <td><center>July 1</center></td><td><center>70</center></td>
+ </tr>
+ <tr>
+  <td><center>August 10</center></td><td><center>69</center></td>
+ </tr>
+ <tr>
+  <td><center>August 21</center></td><td><center>68</center></td>
+ </tr>
+ <tr>
+  <td><center>August 28</center></td><td><center>67</center></td>
+ </tr>
+  <td><center>September 2</center></td><td><center>66</center></td>
+ </tr>
+ <tr>
+  <td><center>September 6</center></td><td><center>65</center></td>
+ </tr>
+ <tr>
+  <td><center>September 10</center></td><td><center>64</center></td>
+ </tr>
+  <td><center>September 13</center></td><td><center>63</center></td>
+ </tr>
+ <tr>
+  <td><center>September 16</center></td><td><center>62</center></td>
+ </tr>
+  <td><center>September 18</center></td><td><center>61</center></td>
+ </tr>
+ <tr>
+  <td><center>September 21</center></td><td><center>60</center></td>
+ </tr>
+ <tr>
+  <td><center>September 23</center></td><td><center>59</center></td>
+ </tr>
+  <td><center>September 26</center></td><td><center>58</center></td>
+ </tr>
+ <tr>
+  <td><center>September 28</center></td><td><center>57</center></td>
+ </tr>
+  <td><center>September 30</center></td><td><center>56</center></td>
+ </tr>
+ <tr>
+  <td><center>October 3</center></td><td><center>55</center></td>
+ </tr>
+ <tr>
+  <td><center>October 5</center></td><td><center>54</center></td>
+ </tr>
+ <tr>
+  <td><center>October 8</center></td><td><center>53</center></td>
+ </tr>
+ <tr>
+  <td><center>October 10</center></td><td><center>52</center></td>
+ </tr>
+ <tr>
+  <td><center>October 13</center></td><td><center>51</center></td>
+ </tr>
+ <tr>
+  <td><center>October 15</center></td><td><center>50</center></td>
+ </tr>
+ <tr>
+  <td><center>October 18</center></td><td><center>49</center></td>
+ </tr>
+ <tr>
+  <td><center>October 21</center></td><td><center>48</center></td>
+ </tr>
+ <tr>
+  <td><center>October 24</center></td><td><center>47</center></td>
+ </tr>
+ <tr>
+  <td><center>October 27</center></td><td><center>46</center></td>
+ </tr>
+ <tr>
+  <td><center>October 31</center></td><td><center>45</center></td>
+ </tr>
+ <tr>
+  <td><center>November 3</center></td><td><center>44</center></td>
+ </tr>
+ <tr>
+  <td><center>November 7</center></td><td><center>43</center></td>
+ </tr>
+ <tr>
+  <td><center>November 11</center></td><td><center>42</center></td>
+ </tr>
+ <tr>
+  <td><center>November 14</center></td><td><center>41</center></td>
+ </tr>
+ <tr>
+  <td><center>November 18</center></td><td><center>40</center></td>
+ </tr>
+ <tr>
+  <td><center>November 22</center></td><td><center>39</center></td>
+ </tr>
+ <tr>
+  <td><center>November 26</center></td><td><center>38</center></td>
+ </tr>
+ <tr>
+  <td><center>November 29</center></td><td><center>37</center></td>
+ </tr>
+ <tr>
+  <td><center>December 3</center></td><td><center>36</center></td>
+ </tr>
+ <tr>
+  <td><center>December 6</center></td><td><center>35</center></td>
+ </tr>
+ <tr>
+  <td><center>December 11</center></td><td><center>34</center></td>
+ </tr>
+ <tr>
+  <td><center>December 15</center></td><td><center>33</center></td>
+ </tr>
+ <tr>
+  <td><center>December 20</center></td><td><center>32</center></td>
+ </tr>
+ <tr>
+  <td><center>December 28</center></td><td><center>31</center></td>
+ </tr>
+ <tr>
+  <td><center>-</center></td><td><center>-</center></td>
+ </tr>
+ <tr>
+  <td><center>-</center></td><td><center>-</center></td>
+ </tr>
+
+</table>
+
+</div>
+</div>
