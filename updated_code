@@ -172,9 +172,9 @@
 <tr>
 <td>March 16</td>
 <td align="right">64</td>
-<td>June 05</td>
+<td>June 5</td>
 <td align="right">85</td>
-<td>October 09</td>
+<td>October 9</td>
 <td align="right">74</td>
 <td>December 14</td>
 <td>53</td>
@@ -236,6 +236,232 @@
 <td align="right">89</td>
 <td>November 2</td>
 <td align="right">68</td>
+<td>-</td>
+<td>-</td>
+</tr>
+</tbody></table>
+
+
+<br>
+<br>
+<hr>
+<br>
+<br>
+
+
+<table class="minchange" id="minchange">
+
+<thead>
+<tr>
+<th>Day</th>
+<th>Temp</th>
+<th>Day</th>
+<th>Temp</th>
+<th>Day</th>
+<th>Temp</th>
+<th>Day</th>
+<th >Temp</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td>January 1</td>
+<td align="right">31</td>
+<td>April 23</td>
+<td align="right">51</td>
+<td>August 10</td>
+<td align="right">69</td>
+<td>October 18</td>
+<td>49</td>
+</tr>
+<tr>
+<td>January 25</td>
+<td align="right">32</td>
+<td>April 27</td>
+<td align="right">52</td>
+<td>August 21</td>
+<td align="right">68</td>
+<td>October 21</td>
+<td>48</td>
+</tr>
+<tr>
+<td>February 5</td>
+<td align="right">33</td>
+<td>May 1</td>
+<td align="right">53</td>
+<td>August 28</td>
+<td align="right">67</td>
+<td>October 24</td>
+<td>47</td>
+</tr>
+<tr>
+<td>February 13</td>
+<td align="right">34</td>
+<td>May 4</td>
+<td align="right">54</td>
+<td>September 2</td>
+<td align="right">66</td>
+<td>October 27</td>
+<td>46</td>
+</tr>
+<tr>
+<td>February 20</td>
+<td align="right">35</td>
+<td>May 8</td>
+<td align="right">55</td>
+<td>September 6</td>
+<td align="right">65</td>
+<td>October 31</td>
+<td>45</td>
+</tr>
+<tr>
+<td>February 25</td>
+<td align="right">36</td>
+<td>May 11</td>
+<td align="right">56</td>
+<td>September 10</td>
+<td align="right">64</td>
+<td>November 3</td>
+<td>44</td>
+</tr>
+<tr>
+<td>March 1</td>
+<td align="right">37</td>
+<td>May 14</td>
+<td align="right">57</td>
+<td>September 13</td>
+<td align="right">63</td>
+<td>November 7</td>
+<td>43</td>
+</tr>
+<tr>
+<td>March 6</td>
+<td align="right">38</td>
+<td>May 18</td>
+<td align="right">58</td>
+<td>September 16</td>
+<td align="right">62</td>
+<td>November 11</td>
+<td>42</td>
+</tr>
+<tr>
+<td>March 10</td>
+<td align="right">39</td>
+<td>May 21</td>
+<td align="right">59</td>
+<td>September 18</td>
+<td align="right">61</td>
+<td>November 14</td>
+<td>41</td>
+</tr>
+<tr>
+<td>March 13</td>
+<td align="right">40</td>
+<td>May 24</td>
+<td align="right">60</td>
+<td>September 21</td>
+<td align="right">60</td>
+<td>November 18</td>
+<td>40</td>
+</tr>
+<tr>
+<td>March 17</td>
+<td align="right">41</td>
+<td>May 27</td>
+<td align="right">61</td>
+<td>September 23</td>
+<td align="right">59</td>
+<td>November 22</td>
+<td>39</td>
+</tr>
+<tr>
+<td>March 20</td>
+<td align="right">42</td>
+<td>May 30</td>
+<td align="right">62</td>
+<td>September 26</td>
+<td align="right">58</td>
+<td>November 26</td>
+<td>38</td>
+</tr>
+<tr>
+<td>March 24</td>
+<td align="right">43</td>
+<td>June 2</td>
+<td align="right">63</td>
+<td>September 28</td>
+<td align="right">57</td>
+<td>November 29</td>
+<td>37</td>
+</tr>
+<tr>
+<td>March 28</td>
+<td align="right">44</td>
+<td>June 5</td>
+<td align="right">64</td>
+<td>September 30</td>
+<td align="right">56</td>
+<td>December 3</td>
+<td>36</td>
+</tr>
+<tr>
+<td>March 31</td>
+<td align="right">45</td>
+<td>June 8</td>
+<td align="right">65</td>
+<td>October 3</td>
+<td align="right">55</td>
+<td>December 6</td>
+<td>35</td>
+</tr>
+<tr>
+<td>April 4</td>
+<td align="right">46</td>
+<td>June 12</td>
+<td align="right">66</td>
+<td>October 5</td>
+<td align="right">54</td>
+<td>December 11</td>
+<td>34</td>
+</tr>
+<tr>
+<td>April 8</td>
+<td align="right">47</td>
+<td>June 16</td>
+<td align="right">67</td>
+<td>October 8</td>
+<td align="right">53</td>
+<td>December 15</td>
+<td>33</td>
+</tr>
+<tr>
+<td>April 12</td>
+<td align="right">48</td>
+<td>June 20</td>
+<td align="right">68</td>
+<td>October 10</td>
+<td align="right">52</td>
+<td>December 20</td>
+<td>32</td>
+</tr>
+<tr>
+<td>April 15</td>
+<td align="right">49</td>
+<td>June 25</td>
+<td align="right">69</td>
+<td>October 13</td>
+<td align="right">51</td>
+<td>December 28</td>
+<td>31</td>
+</tr>
+<tr>
+<td>April 20</td>
+<td align="right">50</td>
+<td>July 1</td>
+<td align="right">70</td>
+<td>October 15</td>
+<td align="right">50</td>
 <td>-</td>
 <td>-</td>
 </tr>
