@@ -121,6 +121,8 @@ function updateValue2() {
 
 
 <body>
+
+<h3>Climatological Average Minimum Daily Temperatures:</h3>
 <form oninput="amount.value=rangeInput2.value">
   <input type="range" id="rangeInput2" name="rangeInput2" min="1" max="24" value="12" step="1" class="slider2" onchange="updateValue2()">
 </form>
