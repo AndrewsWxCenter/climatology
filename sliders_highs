@@ -121,10 +121,39 @@ function updateValue() {
 
 
 <body>
+<h3>Climatological Average Maximum Daily Temperatures:</h3>
 <form oninput="amount.value=rangeInput.value">
   <input type="range" id="rangeInput" name="rangeInput" min="1" max="24" value="12" step="1" class="slider" onchange="updateValue()">
 </form>
 
+  <div class="sliderticks">
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;January</p>
+    <p></p>
+    <p>February</p>
+    <p></p>
+    <p>March</p>
+    <p></p>
+    <p>April</p>
+    <p></p>
+    <p>May</p>
+    <p></p>
+    <p>June</p>
+    <p></p>
+    <p>July</p>
+    <p></p>
+    <p>August</p>
+    <p></p>
+    <p>September</p>
+    <p></p>
+    <p>October</p>
+    <p></p>
+    <p>November</p>
+    <p></p>
+    <p>December&nbsp;&nbsp;&nbsp;&nbsp;</p>
+  </div>
+  
+  <br>
+  
 <center><h1 id="text"></h1></center>
 
 </body>
