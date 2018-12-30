@@ -3,11 +3,11 @@
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
-.slidecontainer {
+.slidecontainer2 {
   width: 100%;
 }
 
-.slider {
+.slider2 {
   -webkit-appearance: none;
   width: 100%;
   height: 25px;
@@ -18,11 +18,11 @@
   transition: opacity .2s;
 }
 
-.slider:hover {
+.slider2:hover {
   opacity: 1;
 }
 
-.slider::-webkit-slider-thumb {
+.slider2::-webkit-slider-thumb {
   -webkit-appearance: none;
   appearance: none;
   width: 25px;
@@ -31,7 +31,7 @@
   cursor: pointer;
 }
 
-.slider::-moz-range-thumb {
+.slider2::-moz-range-thumb {
   width: 25px;
   height: 25px;
   background: #305CFF;
@@ -40,58 +40,58 @@
 </style>
 
 <script>
-function updateValue() {
-  var rangeInput = document.getElementById("rangeInput").value
-  if (rangeInput == 1) {
-    document.getElementById("text").innerHTML = 'Late December/Early January: ~50&deg;F'
-  } else if (rangeInput == 2) {
-    document.getElementById("text").innerHTML = 'Mid January: 51-52&deg;F'
-      } else if (rangeInput == 3) {
-    document.getElementById("text").innerHTML = 'Late January/Early February: 53-55&deg;F'
-          } else if (rangeInput == 4) {
-    document.getElementById("text").innerHTML = 'Mid February: 56-57&deg;F'
-          } else if (rangeInput == 5) {
-    document.getElementById("text").innerHTML = 'Late February/Early March: 58-62&deg;F'
-          } else if (rangeInput == 6) {
-    document.getElementById("text").innerHTML = 'Mid March: 63-66&deg;F'
-          } else if (rangeInput == 7) {
-    document.getElementById("text").innerHTML = 'Late March/Early April: 67-71&deg;F'
-          } else if (rangeInput == 8) {
-    document.getElementById("text").innerHTML = 'Mid April: 72-75&deg;F'
-          } else if (rangeInput == 9) {
-    document.getElementById("text").innerHTML = 'Late April/Early May: 76-79&deg;F'
-          } else if (rangeInput == 10) {
-    document.getElementById("text").innerHTML = 'Mid May: 80-82&deg;F'
-          } else if (rangeInput == 11) {
-    document.getElementById("text").innerHTML = 'Late May/Early June: 83-86&deg;F'
-          } else if (rangeInput == 12) {
-    document.getElementById("text").innerHTML = 'Mid June: 87-88&deg;F'
-          } else if (rangeInput == 13) {
-    document.getElementById("text").innerHTML = 'Lae June/Early July: 89-90&deg;F'
-          } else if (rangeInput == 14) {
-    document.getElementById("text").innerHTML = 'Mid July: ~90&deg;F'
-          } else if (rangeInput == 15) {
-    document.getElementById("text").innerHTML = 'Late July/Early August: 89-90&deg;F'
-          } else if (rangeInput == 16) {
-    document.getElementById("text").innerHTML = 'Mid August: 88-89&deg;F'
-          } else if (rangeInput == 17) {
-    document.getElementById("text").innerHTML = 'Late August/Early September: 84-87&deg;F'
-          } else if (rangeInput == 18) {
-    document.getElementById("text").innerHTML = 'Mid September: 80-83&deg;F'
-          } else if (rangeInput == 19) {
-    document.getElementById("text").innerHTML = 'Late September/Early October: 75-79&deg;F'
-          } else if (rangeInput == 20) {
-    document.getElementById("text").innerHTML = 'Mid October: 71-74&deg;F'
-          } else if (rangeInput == 21) {
-    document.getElementById("text").innerHTML = 'Late October/Early November: 66-70&deg;F'
-          } else if (rangeInput == 22) {
-    document.getElementById("text").innerHTML = 'Mid November: 62-66&deg;F'
-          } else if (rangeInput == 23) {
-    document.getElementById("text").innerHTML = 'Late November/Early December: 55-61&deg;F'
-          } else if (rangeInput == 24) {
-    document.getElementById("text").innerHTML = 'Mid December: 51-54&deg;F'
+function updateValue2() {
+  var rangeInput2 = document.getElementById("rangeInput2").value
+  if (rangeInput2 == 1) {
+    document.getElementById("text2").innerHTML = 'Late December/Early January: ~31&deg;F'
+  } else if (rangeInput2 == 2) {
+    document.getElementById("text2").innerHTML = 'Mid January: 31-32&deg;F'
+      } else if (rangeInput2 == 3) {
+    document.getElementById("text2").innerHTML = 'Late January/Early February: 32-33&deg;F'
+          } else if (rangeInput2 == 4) {
+    document.getElementById("text2").innerHTML = 'Mid February: 34-35&deg;F'
+          } else if (rangeInput2 == 5) {
+    document.getElementById("text2").innerHTML = 'Late February/Early March: 36-39&deg;F'
+          } else if (rangeInput2 == 6) {
+    document.getElementById("text2").innerHTML = 'Mid March: 40-42&deg;F'
+          } else if (rangeInput2 == 7) {
+    document.getElementById("text2").innerHTML = 'Late March/Early April: 43-47&deg;F'
+          } else if (rangeInput2 == 8) {
+    document.getElementById("text2").innerHTML = 'Mid April: 48-51&deg;F'
+          } else if (rangeInput2 == 9) {
+    document.getElementById("text2").innerHTML = 'Late April/Early May: 52-55&deg;F'
+          } else if (rangeInput2 == 10) {
+    document.getElementById("text2").innerHTML = 'Mid May: 56-59&deg;F'
+          } else if (rangeInput2 == 11) {
+    document.getElementById("text2").innerHTML = 'Late May/Early June: 60-65&deg;F'
+          } else if (rangeInput2 == 12) {
+    document.getElementById("text2").innerHTML = 'Mid June: 66-68&deg;F'
+          } else if (rangeInput2 == 13) {
+    document.getElementById("text2").innerHTML = 'Lae June/Early July: 69-70&deg;F'
+          } else if (rangeInput2 == 14) {
+    document.getElementById("text2").innerHTML = 'Mid July: ~70&deg;F'
+          } else if (rangeInput2 == 15) {
+    document.getElementById("text2").innerHTML = 'Late July/Early August: 69-70&deg;F'
+          } else if (rangeInput2 == 16) {
+    document.getElementById("text2").innerHTML = 'Mid August: 68-69&deg;F'
+          } else if (rangeInput2 == 17) {
+    document.getElementById("text2").innerHTML = 'Late August/Early September: 65-67&deg;F'
+          } else if (rangeInput2 == 18) {
+    document.getElementById("text2").innerHTML = 'Mid September: 61-64&deg;F'
+          } else if (rangeInput2 == 19) {
+    document.getElementById("text2").innerHTML = 'Late September/Early October: 53-60&deg;F'
+          } else if (rangeInput2 == 20) {
+    document.getElementById("text2").innerHTML = 'Mid October: 48-52&deg;F'
+          } else if (rangeInput2 == 21) {
+    document.getElementById("text2").innerHTML = 'Late October/Early November: 43-47&deg;F'
+          } else if (rangeInput2 == 22) {
+    document.getElementById("text2").innerHTML = 'Mid November: 40-42&deg;F'
+          } else if (rangeInput2 == 23) {
+    document.getElementById("text2").innerHTML = 'Late November/Early December: 35-39&deg;F'
+          } else if (rangeInput2 == 24) {
+    document.getElementById("text2").innerHTML = 'Mid December: 32-34&deg;F'
   } else {
-    document.getElementById("text").innerHTML = ''
+    document.getElementById("text2").innerHTML = ''
   }
 }
 </script>
@@ -104,10 +104,10 @@ function updateValue() {
 
 
 <body>
-<form oninput="amount.value=rangeInput.value">
-  <input type="range" id="rangeInput" name="rangeInput" min="1" max="24" value="12" step="1" class="slider" onchange="updateValue()">
+<form oninput="amount.value=rangeInput2.value">
+  <input type="range" id="rangeInput2" name="rangeInput2" min="1" max="24" value="12" step="1" class="slider2" onchange="updateValue2()">
 </form>
 
-<center><h1 id="text"></h1></center>
+<center><h1 id="text2"></h1></center>
 
 </body>
