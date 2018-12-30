@@ -38,64 +38,6 @@
   cursor: pointer;
 }
 </style>
-</head>
-<body>
-
-<h1>Climatological Maximum Temperatures</h1>
-<p>Drag the slider to display the current value.</p>
-
-
-
-
-
-
-
-
-<div class="slidecontainer">
-  <input type="range" min="1" max="24" value="12" step="1" class="slider" id="myRange">
-  <p>Average Maximum Temperature: <span id="demo"></span></p>
-</div>
-
-<script>
-var slider = document.getElementById("myRange");
-var output;
-
-slider.oninput = function() {
-  if (slider = 1) {
-  output = "January";
-  } else if (slider = 3) {
-    output = "March";
-  } else {
-    output ="Month here";
-  }
-output.innerHTML = output;
-}
-
-//slider.oninput = function() {
-//  output.innerHTML = this.value;
-//}
-
-
-</script>
-
-</body>
-</html>
-
-
-
-
-
-----------------------------------------------------------------------------------------------------
-
-
-
-
-
-<form oninput="amount.value=rangeInput.value">
-  <input type="range" id="rangeInput" name="rangeInput" min="1" max="24" value="12" step="1" class="slider" onchange="updateValue()">
-</form>
-
-<div id="text"></div>
 
 <script>
 function updateValue() {
@@ -154,4 +96,18 @@ function updateValue() {
 }
 </script>
 
+</head>
 
+
+
+
+
+
+<body>
+<form oninput="amount.value=rangeInput.value">
+  <input type="range" id="rangeInput" name="rangeInput" min="1" max="24" value="12" step="1" class="slider" onchange="updateValue()">
+</form>
+
+<center><h1 id="text"></h1></center>
+
+</body>
