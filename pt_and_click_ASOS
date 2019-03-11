@@ -1,0 +1,4048 @@
+
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+<!-- Reference to tables.css script in Hostinger File Manager -->
+    <link rel="stylesheet" type="text/css" href="https://www.andrewswxcenter.com/files/style.css">
+
+
+<script type="text/javascript">
+
+function showInfo(id,nu){
+ var obj=document.getElementById(id);
+ var frames=zxcByClassName(id,obj);
+ if (frames[nu]){
+  if (obj.lst){
+   obj.lst.style.zIndex=0;
+  }
+  obj.lst=frames[nu];
+  obj.lst.style.zIndex=1;
+ }
+}
+
+function zxcByClassName(nme,el,tag){
+ if (typeof(el)=='string') el=document.getElementById(el);
+ el=el||document;
+ for (var tag=tag||'*',reg=new RegExp('\\b'+nme+'\\b'),els=el.getElementsByTagName(tag),ary=[],z0=0; z0<els.length;z0++){
+  if(reg.test(els[z0].className)) ary.push(els[z0]);
+ }
+ return ary;
+}
+
+</script>
+
+</head>
+
+<br>
+<hr>
+<br>
+
+<center>
+<body>
+<img src="https://www.andrewswxcenter.com/images/pt_and_click_ASOS.PNG" name="interactiverig" width="1115" height="434" border="0" usemap="#showcompartments" id="interactiverig"></center>
+<div id="info" >
+<div class="info" >
+<div style="float: left; width: 32%;">
+<p style="font-size:16px">
+<b>County Population:</b> 1,046,791<br>
+<b>State Population Rank:</b> #2<br>
+<b>County Seat:</b> Raleigh</p>
+<p style="font-size:16px"><b><u>Cities with Population > 10,000:</u></b><br>
+<ul style="font-size:12.5px">
+<li>Raleigh: 451,066
+<li>Cary: 159,769
+<li>Apex: 43,907
+<li>Holly Springs: 33,181
+<li>Garner: 27,814
+<li>Morrisville: 21,932
+<li>Fuquay-Varina: 21,277
+<li>Knightdale: 13,291</ul>
+</p></div>
+<div style="float: right; width: 32%;">
+<p><b>Mean Annual Severe Weather Days:</b> 26-27<br>
+<ul style="font-size:15px">
+<li>Mean Tornado Days: 2-3
+<li>Mean Damaging Wind Days: 16-18
+<li>Mean Hail Days: 6-7</ul>
+<b>Mean Annual Temperature:</b> 57-62&deg;F<br>
+<b>Mean Annual Precipitation:</b> 44-48"<br><br>
+<b>Highest Elevation:</b> 545'<br>
+<b>River Basin(s):</b> Neuse, Cape Fear<br>
+<b>Tornadoes since 1950:</b> 35<br>
+</p></div>
+<div algin="center width: 32%;">
+<center><p style="font-size:22px"><b><u>WAKE County</u></b></p></center>
+<p style="font-size:16px">
+<b>Land Area:</b> 835.22 sq. mi.<br>
+<b>State Land Area Rank:</b> #7<br><br>
+<b>Water Area:</b> 22 sq. mi. / 2.6%<br>
+<b>State Water Area Rank:</b> #30<br><br>
+<b>Year Founded:</b> 1771<br><br>
+<b>NWS Office:</b> Raleigh, NC (RAH)
+</p></div></div>
+<div class="info" >
+<div style="float: left; width: 32%;">
+<p style="font-size:16px">
+<b>County Population:</b> 191,450<br>
+<b>State Population Rank:</b> #12<br>
+<b>County Seat:</b> Smithfield</p>
+<p style="font-size:16px"><b><u>Cities with Population > 10,000:</u></b><br>
+<ul style="font-size:12.5px">
+<li>Clayton: 19,304
+<li>Smithfield: 12,022
+<br>
+<br>
+<br>
+<br>
+<br>
+<br></ul>
+</p></div>
+<div style="float: right; width: 32%;">
+<p><b>Mean Annual Severe Weather Days:</b> 25-27<br>
+<ul style="font-size:15px">
+<li>Mean Tornado Days: 1-2
+<li>Mean Damaging Wind Days: 15-18
+<li>Mean Hail Days: 5-7</ul>
+<b>Mean Annual Temperature:</b> 57-62&deg;F<br>
+<b>Mean Annual Precipitation:</b> 44-48"<br><br>
+<b>Highest Elevation:</b> 370'<br>
+<b>River Basin(s):</b> Neuse, Cape Fear<br>
+<b>Tornadoes since 1950:</b> 21<br>
+</p></div>
+<div algin="center width: 32%;">
+<center><p style="font-size:22px"><b><u>JOHNSTON County</u></b></p></center>
+<p style="font-size:16px">
+<b>Land Area:</b> 791.30 sq. mi.<br>
+<b>State Land Area Rank:</b> #10<br><br>
+<b>Water Area:</b> 4.2 sq. mi. / 0.5%<br>
+<b>State Water Area Rank:</b> #79<br><br>
+<b>Year Founded:</b> 1746<br><br>
+<b>NWS Office:</b> Raleigh, NC (RAH)
+</p></div></div>
+<div class="info" >
+<div style="float: left; width: 32%;">
+<p style="font-size:16px">
+<b>County Population:</b> 130,881<br>
+<b>State Population Rank:</b> #23<br>
+<b>County Seat:</b> Lillington</p>
+<p style="font-size:16px"><b><u>Cities with Population > 10,000:</u></b><br>
+<ul style="font-size:12.5px">
+<li>None
+<li>Largest City - Dunn: 9,723
+<br>
+<br>
+<br>
+<br>
+<br>
+<br></ul>
+</p></div>
+<div style="float: right; width: 32%;">
+<p><b>Mean Annual Severe Weather Days:</b> 22-27<br>
+<ul style="font-size:15px">
+<li>Mean Tornado Days: 1-2
+<li>Mean Damaging Wind Days: 16-18
+<li>Mean Hail Days: 5-7</ul>
+<b>Mean Annual Temperature:</b> 57-62&deg;F<br>
+<b>Mean Annual Precipitation:</b> 51-55"<br><br>
+<b>Highest Elevation:</b> 490'<br>
+<b>River Basin(s):</b> Cape Fear<br>
+<b>Tornadoes since 1950:</b> 25<br>
+</p></div>
+<div algin="center width: 32%;">
+<center><p style="font-size:22px"><b><u>HARNETT County</u></b></p></center>
+<p style="font-size:16px">
+<b>Land Area:</b> 594.99 sq. mi.<br>
+<b>State Land Area Rank:</b> #25<br><br>
+<b>Water Area:</b> 6.3 sq. mi. / 1.1%<br>
+<b>State Water Area Rank:</b> #54<br><br>
+<b>Year Founded:</b> 1855<br><br>
+<b>NWS Office:</b> Raleigh, NC (RAH)
+</p></div></div>
+<div class="info" >
+<div style="float: left; width: 32%;">
+<p style="font-size:16px">
+<b>County Population:</b> 26,924<br>
+<b>State Population Rank:</b> #73<br>
+<b>County Seat:</b> Jefferson</p>
+<p style="font-size:16px"><b><u>Cities with Population > 10,000:</u></b><br>
+<ul style="font-size:12.5px">
+<li>None
+<li>Largest City - Jefferson: 1,615
+<br>
+<br>
+<br>
+<br>
+<br>
+<br></ul>
+</p></div>
+<div style="float: right; width: 32%;">
+<p><b>Mean Annual Severe Weather Days:</b> 23-25<br>
+<ul style="font-size:15px">
+<li>Mean Tornado Days: 0-1
+<li>Mean Damaging Wind Days: 16-24
+<li>Mean Hail Days: 7-9</ul>
+<b>Mean Annual Temperature:</b> 49-54&deg;F<br>
+<b>Mean Annual Precipitation:</b> 46-50"<br><br>
+<b>Highest Elevation:</b> 5208'<br>
+<b>River Basin(s):</b> New<br>
+<b>Tornadoes since 1950:</b> 0<br>
+</p></div>
+<div algin="center width: 32%;">
+<center><p style="font-size:22px"><b><u>ASHE County</u></b></p></center>
+<p style="font-size:16px">
+<b>Land Area:</b> 426.14 sq. mi.<br>
+<b>State Land Area Rank:</b> #57<br><br>
+<b>Water Area:</b> 3.1 sq. mi. / 0.7%<br>
+<b>State Water Area Rank:</b> #70<br><br>
+<b>Year Founded:</b> 1799<br><br>
+<b>NWS Office:</b> Blacksburg, VA (RNK)
+</p></div></div>
+<div class="info" >
+<div style="float: left; width: 32%;">
+<p style="font-size:16px">
+<b>County Population:</b> 10,848<br>
+<b>State Population Rank:</b> #95<br>
+<b>County Seat:</b> Sparta</p>
+<p style="font-size:16px"><b><u>Cities with Population > 10,000:</u></b><br>
+<ul style="font-size:12.5px">
+<li>None
+<li>Largest City - Sparta: 1,743
+<br>
+<br>
+<br>
+<br>
+<br>
+<br></ul>
+</p></div>
+<div style="float: right; width: 32%;">
+<p><b>Mean Annual Severe Weather Days:</b> 23-34<br>
+<ul style="font-size:15px">
+<li>Mean Tornado Days: 1-2
+<li>Mean Damaging Wind Days: 16-24
+<li>Mean Hail Days: 7-9</ul>
+<b>Mean Annual Temperature:</b> 47-52&deg;F<br>
+<b>Mean Annual Precipitation:</b> 52-56"<br><br>
+<b>Highest Elevation:</b> 4175'<br>
+<b>River Basin(s):</b> New<br>
+<b>Tornadoes since 1950:</b> 3<br>
+</p></div>
+<div algin="center width: 32%;">
+<center><p style="font-size:22px"><b><u>ALLEGHANY County</u></b></p></center>
+<p style="font-size:16px">
+<b>Land Area:</b> 235.06 sq. mi.<br>
+<b>State Land Area Rank:</b> #95<br><br>
+<b>Water Area:</b> 1.5 sq. mi. / 0.6%<br>
+<b>State Water Area Rank:</b> #74<br><br>
+<b>Year Founded:</b> 1859<br><br>
+<b>NWS Office:</b> Blacksburg, VA (RNK)
+</p></div></div>
+<div class="info" >
+<div style="float: left; width: 32%;">
+<p style="font-size:16px">
+<b>County Population:</b> 72,113<br>
+<b>State Population Rank:</b> #37<br>
+<b>County Seat:</b> Dobson</p>
+<p style="font-size:16px"><b><u>Cities with Population > 10,000:</u></b><br>
+<ul style="font-size:12.5px">
+<li>Mount Airy: 10,417
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br></ul>
+</p></div>
+<div style="float: right; width: 32%;">
+<p><b>Mean Annual Severe Weather Days:</b> 30-34<br>
+<ul style="font-size:15px">
+<li>Mean Tornado Days: 1-2
+<li>Mean Damaging Wind Days: 16-24
+<li>Mean Hail Days: 7-9</ul>
+<b>Mean Annual Temperature:</b> 52-57&deg;F<br>
+<b>Mean Annual Precipitation:</b> 45-49"<br><br>
+<b>Highest Elevation:</b> 3580'<br>
+<b>River Basin(s):</b> Yadkin-Pee Dee, Roanoke<br>
+<b>Tornadoes since 1950:</b> 8<br>
+</p></div>
+<div algin="center width: 32%;">
+<center><p style="font-size:22px"><b><u>SURRY County</u></b></p></center>
+<p style="font-size:16px">
+<b>Land Area:</b> 532.17 sq. mi.<br>
+<b>State Land Area Rank:</b> #34<br><br>
+<b>Water Area:</b> 4.1 sq. mi. / 0.8%<br>
+<b>State Water Area Rank:</b> #65<br><br>
+<b>Year Founded:</b> 1771<br><br>
+<b>NWS Office:</b> Blacksburg, VA (RNK)
+</p></div></div>
+<div class="info" >
+<div style="float: left; width: 32%;">
+<p style="font-size:16px">
+<b>County Population:</b> 46,097<br>
+<b>State Population Rank:</b> #56<br>
+<b>County Seat:</b> Danbury</p>
+<p style="font-size:16px"><b><u>Cities with Population > 10,000:</u></b><br>
+<ul style="font-size:12.5px">
+<li>None
+<li>Largest City - King: 6,906
+<br>
+<br>
+<br>
+<br>
+<br>
+<br></ul>
+</p></div>
+<div style="float: right; width: 32%;">
+<p><b>Mean Annual Severe Weather Days:</b> 22-33<br>
+<ul style="font-size:15px">
+<li>Mean Tornado Days: 1-2
+<li>Mean Damaging Wind Days: 16-24
+<li>Mean Hail Days: 5-8</ul>
+<b>Mean Annual Temperature:</b> 55-60&deg;F<br>
+<b>Mean Annual Precipitation:</b> 44-48"<br><br>
+<b>Highest Elevation:</b> 2579'<br>
+<b>River Basin(s):</b> Roanoke, Yadkin-Pee Dee<br>
+<b>Tornadoes since 1950:</b> 9<br>
+</p></div>
+<div algin="center width: 32%;">
+<center><p style="font-size:22px"><b><u>STOKES County</u></b></p></center>
+<p style="font-size:16px">
+<b>Land Area:</b> 448.86 sq. mi.<br>
+<b>State Land Area Rank:</b> #54<br><br>
+<b>Water Area:</b> 6.8 sq. mi. / 1.5%<br>
+<b>State Water Area Rank:</b> #44<br><br>
+<b>Year Founded:</b> 1789<br><br>
+<b>NWS Office:</b> Blacksburg, VA (RNK)
+</p></div></div>
+<div class="info" >
+<div style="float: left; width: 32%;">
+<p style="font-size:16px">
+<b>County Population:</b> 91,393<br>
+<b>State Population Rank:</b> #31<br>
+<b>County Seat:</b> Wentworth</p>
+<p style="font-size:16px"><b><u>Cities with Population > 10,000:</u></b><br>
+<ul style="font-size:12.5px">
+<li>Eden: 15,488
+<li>Reidsville: 14,162
+<br>
+<br>
+<br>
+<br>
+<br>
+<br></ul>
+</p></div>
+<div style="float: right; width: 32%;">
+<p><b>Mean Annual Severe Weather Days:</b> 22-33<br>
+<ul style="font-size:15px">
+<li>Mean Tornado Days: 1-2
+<li>Mean Damaging Wind Days: 17-23
+<li>Mean Hail Days: 8-9</ul>
+<b>Mean Annual Temperature:</b> 55-60&deg;F<br>
+<b>Mean Annual Precipitation:</b> 44-48"<br><br>
+<b>Highest Elevation:</b> 1040'<br>
+<b>River Basin(s):</b> Roanoke, Cape Fear<br>
+<b>Tornadoes since 1950:</b> 9<br>
+</p></div>
+<div algin="center width: 32%;">
+<center><p style="font-size:22px"><b><u>ROCKINGHAM County</u></b></p></center>
+<p style="font-size:16px">
+<b>Land Area:</b> 565.55 sq. mi.<br>
+<b>State Land Area Rank:</b> #27<br><br>
+<b>Water Area:</b> 7.2 sq. mi. / 1.2%<br>
+<b>State Water Area Rank:</b> #52<br><br>
+<b>Year Founded:</b> 1785<br><br>
+<b>NWS Office:</b> Blacksburg, VA (RNK)
+</p></div></div>
+<div class="info" >
+<div style="float: left; width: 32%;">
+<p style="font-size:16px">
+<b>County Population:</b> 22,910<br>
+<b>State Population Rank:</b> #78<br>
+<b>County Seat:</b> Yanceyville</p>
+<p style="font-size:16px"><b><u>Cities with Population > 10,000:</u></b><br>
+<ul style="font-size:12.5px">
+<li>None
+<li>Largest City - Yanceyville: 2,014
+<br>
+<br>
+<br>
+<br>
+<br>
+<br></ul>
+</p></div>
+<div style="float: right; width: 32%;">
+<p><b>Mean Annual Severe Weather Days:</b> 22-33<br>
+<ul style="font-size:15px">
+<li>Mean Tornado Days: 1-2
+<li>Mean Damaging Wind Days: 17-23
+<li>Mean Hail Days: 5-8</ul>
+<b>Mean Annual Temperature:</b> 55-60&deg;F<br>
+<b>Mean Annual Precipitation:</b> 44-48"<br><br>
+<b>Highest Elevation:</b> 880'<br>
+<b>River Basin(s):</b> Roanoke, Cape Fear<br>
+<b>Tornadoes since 1950:</b> 6<br>
+</p></div>
+<div algin="center width: 32%;">
+<center><p style="font-size:22px"><b><u>CASWELL County</u></b></p></center>
+<p style="font-size:16px">
+<b>Land Area:</b> 424.92 sq. mi.<br>
+<b>State Land Area Rank:</b> #58<br><br>
+<b>Water Area:</b> 3.3 sq. mi. / 0.8%<br>
+<b>State Water Area Rank:</b> #65<br><br>
+<b>Year Founded:</b> 1777<br><br>
+<b>NWS Office:</b> Blacksburg, VA (RNK)
+</p></div></div>
+<div class="info" >
+<div style="float: left; width: 32%;">
+<p style="font-size:16px">
+<b>County Population:</b> 39,284<br>
+<b>State Population Rank:</b> #63<br>
+<b>County Seat:</b> Roxboro</p>
+<p style="font-size:16px"><b><u>Cities with Population > 10,000:</u></b><br>
+<ul style="font-size:12.5px">
+<li>None
+<li>Largest City - Roxboro: 8,344
+<br>
+<br>
+<br>
+<br>
+<br>
+<br></ul>
+</p></div>
+<div style="float: right; width: 32%;">
+<p><b>Mean Annual Severe Weather Days:</b> 17-23<br>
+<ul style="font-size:15px">
+<li>Mean Tornado Days: 1-2
+<li>Mean Damaging Wind Days: 17-23
+<li>Mean Hail Days: 5-8</ul>
+<b>Mean Annual Temperature:</b> 55-60&deg;F<br>
+<b>Mean Annual Precipitation:</b> 44-48"<br><br>
+<b>Highest Elevation:</b> 888'<br>
+<b>River Basin(s):</b> Roanoke, Neuse, Tar-Pamlico<br>
+<b>Tornadoes since 1950:</b> 11<br>
+</p></div>
+<div algin="center width: 32%;">
+<center><p style="font-size:22px"><b><u>PERSON County</u></b></p></center>
+<p style="font-size:16px">
+<b>Land Area:</b> 392.32 sq. mi.<br>
+<b>State Land Area Rank:</b> #65<br><br>
+<b>Water Area:</b> 12 sq. mi. / 3.0%<br>
+<b>State Water Area Rank:</b> #27<br><br>
+<b>Year Founded:</b> 1792<br><br>
+<b>NWS Office:</b> Raleigh, NC (RAH)
+</p></div></div>
+<div class="info" >
+<div style="float: left; width: 32%;">
+<p style="font-size:16px">
+<b>County Population:</b> 59,031<br>
+<b>State Population Rank:</b> #47<br>
+<b>County Seat:</b> Oxford</p>
+<p style="font-size:16px"><b><u>Cities with Population > 10,000:</u></b><br>
+<ul style="font-size:12.5px">
+<li>None
+<li>Largest City - Oxford: 8,695
+<br>
+<br>
+<br>
+<br>
+<br>
+<br></ul>
+</p></div>
+<div style="float: right; width: 32%;">
+<p><b>Mean Annual Severe Weather Days:</b> 17-23<br>
+<ul style="font-size:15px">
+<li>Mean Tornado Days: 1-2
+<li>Mean Damaging Wind Days: 17-23
+<li>Mean Hail Days: 3-7</ul>
+<b>Mean Annual Temperature:</b> 55-60&deg;F<br>
+<b>Mean Annual Precipitation:</b> 44-48"<br><br>
+<b>Highest Elevation:</b> 743'<br>
+<b>River Basin(s):</b> Roanoke, Tar-Pamlico, Neuse<br>
+<b>Tornadoes since 1950:</b> 7<br>
+</p></div>
+<div algin="center width: 32%;">
+<center><p style="font-size:22px"><b><u>GRANVILLE County</u></b></p></center>
+<p style="font-size:16px">
+<b>Land Area:</b> 531.57 sq. mi.<br>
+<b>State Land Area Rank:</b> #35<br><br>
+<b>Water Area:</b> 4.9 sq. mi. / 0.9%<br>
+<b>State Water Area Rank:</b> #60<br><br>
+<b>Year Founded:</b> 1746<br><br>
+<b>NWS Office:</b> Raleigh, NC (RAH)
+</p></div></div>
+<div class="info" >
+<div style="float: left; width: 32%;">
+<p style="font-size:16px">
+<b>County Population:</b> 44,244<br>
+<b>State Population Rank:</b> #59<br>
+<b>County Seat:</b> Henderson</p>
+<p style="font-size:16px"><b><u>Cities with Population > 10,000:</u></b><br>
+<ul style="font-size:12.5px">
+<li>Henderson: 15,345
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br></ul>
+</p></div>
+<div style="float: right; width: 32%;">
+<p><b>Mean Annual Severe Weather Days:</b> 17-23<br>
+<ul style="font-size:15px">
+<li>Mean Tornado Days: 1-2
+<li>Mean Damaging Wind Days: 12-17
+<li>Mean Hail Days: 5-8</ul>
+<b>Mean Annual Temperature:</b> 55-60&deg;F<br>
+<b>Mean Annual Precipitation:</b> 44-48"<br><br>
+<b>Highest Elevation:</b> 570'<br>
+<b>River Basin(s):</b> Roanoke, Tar-Pamlico<br>
+<b>Tornadoes since 1950:</b> 6<br>
+</p></div>
+<div algin="center width: 32%;">
+<center><p style="font-size:22px"><b><u>VANCE County</u></b></p></center>
+<p style="font-size:16px">
+<b>Land Area:</b> 253.52 sq. mi.<br>
+<b>State Land Area Rank:</b> #90<br><br>
+<b>Water Area:</b> 16 sq. mi. / 6.0%<br>
+<b>State Water Area Rank:</b> #18<br><br>
+<b>Year Founded:</b> 1881<br><br>
+<b>NWS Office:</b> Raleigh, NC (RAH)
+</p></div></div>
+<div class="info" >
+<div style="float: left; width: 32%;">
+<p style="font-size:16px">
+<b>County Population:</b> 19,907<br>
+<b>State Population Rank:</b> #83<br>
+<b>County Seat:</b> Warrenton</p>
+<p style="font-size:16px"><b><u>Cities with Population > 10,000:</u></b><br>
+<ul style="font-size:12.5px">
+<li>None
+<li>Largest City - Norlina: 1.098
+<br>
+<br>
+<br>
+<br>
+<br>
+<br></ul>
+</p></div>
+<div style="float: right; width: 32%;">
+<p><b>Mean Annual Severe Weather Days:</b> 17-23<br>
+<ul style="font-size:15px">
+<li>Mean Tornado Days: 1-2
+<li>Mean Damaging Wind Days: 12-17
+<li>Mean Hail Days: 3-5</ul>
+<b>Mean Annual Temperature:</b> 55-60&deg;F<br>
+<b>Mean Annual Precipitation:</b> 44-48"<br><br>
+<b>Highest Elevation:</b> 480'<br>
+<b>River Basin(s):</b> Tar-Pamlico, Roanoke<br>
+<b>Tornadoes since 1950:</b> 5<br>
+</p></div>
+<div algin="center width: 32%;">
+<center><p style="font-size:22px"><b><u>WARREN County</u></b></p></center>
+<p style="font-size:16px">
+<b>Land Area:</b> 428.46 sq. mi.<br>
+<b>State Land Area Rank:</b> #56<br><br>
+<b>Water Area:</b> 15 sq. mi. / 3.4%<br>
+<b>State Water Area Rank:</b> #25<br><br>
+<b>Year Founded:</b> 1779<br><br>
+<b>NWS Office:</b> Raleigh, NC (RAH)
+</p></div></div>
+<div class="info" >
+<div style="float: left; width: 32%;">
+<p style="font-size:16px">
+<b>County Population:</b> 51,766<br>
+<b>State Population Rank:</b> #54<br>
+<b>County Seat:</b> Halifax</p>
+<p style="font-size:16px"><b><u>Cities with Population > 10,000:</u></b><br>
+<ul style="font-size:12.5px">
+<li>Roanoke Rapids: 15,623
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br></ul>
+</p></div>
+<div style="float: right; width: 32%;">
+<p><b>Mean Annual Severe Weather Days:</b> 17-23<br>
+<ul style="font-size:15px">
+<li>Mean Tornado Days: 2-3
+<li>Mean Damaging Wind Days: 12-18
+<li>Mean Hail Days: 5-7</ul>
+<b>Mean Annual Temperature:</b> 55-60&deg;F<br>
+<b>Mean Annual Precipitation:</b> 44-48"<br><br>
+<b>Highest Elevation:</b> 391'<br>
+<b>River Basin(s):</b> Tar-Pamlico<br>
+<b>Tornadoes since 1950:</b> 14<br>
+</p></div>
+<div algin="center width: 32%;">
+<center><p style="font-size:22px"><b><u>HALIFAX County</u></b></p></center>
+<p style="font-size:16px">
+<b>Land Area:</b> 724.09 sq. mi.<br>
+<b>State Land Area Rank:</b> #14<br><br>
+<b>Water Area:</b> 7.1 sq. mi. / 1.0%<br>
+<b>State Water Area Rank:</b> #59<br><br>
+<b>Year Founded:</b> 1759<br><br>
+<b>NWS Office:</b> Raleigh, NC (RAH)
+</p></div></div>
+<div class="info" >
+<div style="float: left; width: 32%;">
+<p style="font-size:16px">
+<b>County Population:</b> 20,000<br>
+<b>State Population Rank:</b> #82<br>
+<b>County Seat:</b> Jackson</p>
+<p style="font-size:16px"><b><u>Cities with Population > 10,000:</u></b><br>
+<ul style="font-size:12.5px">
+<li>None
+<li>Largest City - Gaston: 1,092
+<br>
+<br>
+<br>
+<br>
+<br>
+<br></ul>
+</p></div>
+<div style="float: right; width: 32%;">
+<p><b>Mean Annual Severe Weather Days:</b> 17-19<br>
+<ul style="font-size:15px">
+<li>Mean Tornado Days: 1-2
+<li>Mean Damaging Wind Days: 12-15
+<li>Mean Hail Days: 3-5</ul>
+<b>Mean Annual Temperature:</b> 55-60&deg;F<br>
+<b>Mean Annual Precipitation:</b> 44-48"<br><br>
+<b>Highest Elevation:</b> 370'<br>
+<b>River Basin(s):</b> Chowan, Roanoke<br>
+<b>Tornadoes since 1950:</b> 15<br>
+</p></div>
+<div algin="center width: 32%;">
+<center><p style="font-size:22px"><b><u>NORTHAMPTON County</u></b></p></center>
+<p style="font-size:16px">
+<b>Land Area:</b> 536.59 sq. mi.<br>
+<b>State Land Area Rank:</b> #33<br><br>
+<b>Water Area:</b> 14 sq. mi. / 2.5%<br>
+<b>State Water Area Rank:</b> #31<br><br>
+<b>Year Founded:</b> 1741<br><br>
+<b>NWS Office:</b> Wakefield, VA (AKQ)
+</p></div></div>
+<div class="info" >
+<div style="float: left; width: 32%;">
+<p style="font-size:16px">
+<b>County Population:</b> 24,136<br>
+<b>State Population Rank:</b> #76<br>
+<b>County Seat:</b> Winton</p>
+<p style="font-size:16px"><b><u>Cities with Population > 10,000:</u></b><br>
+<ul style="font-size:12.5px">
+<li>None
+<li>Largest City - Ahoskie: 5,023
+<br>
+<br>
+<br>
+<br>
+<br>
+<br></ul>
+</p></div>
+<div style="float: right; width: 32%;">
+<p><b>Mean Annual Severe Weather Days:</b> 17-19<br>
+<ul style="font-size:15px">
+<li>Mean Tornado Days: 1-2
+<li>Mean Damaging Wind Days: 12-17
+<li>Mean Hail Days: 3-7</ul>
+<b>Mean Annual Temperature:</b> 55-60&deg;F<br>
+<b>Mean Annual Precipitation:</b> 48-52"<br><br>
+<b>Highest Elevation:</b> 95'<br>
+<b>River Basin(s):</b> Chowan<br>
+<b>Tornadoes since 1950:</b> 15<br>
+</p></div>
+<div algin="center width: 32%;">
+<center><p style="font-size:22px"><b><u>HERTFORD County</u></b></p></center>
+<p style="font-size:16px">
+<b>Land Area:</b> 353.06 sq. mi.<br>
+<b>State Land Area Rank:</b> #74<br><br>
+<b>Water Area:</b> 7.3 sq. mi. / 2.0%<br>
+<b>State Water Area Rank:</b> #39<br><br>
+<b>Year Founded:</b> 1760<br><br>
+<b>NWS Office:</b> Wakefield, VA (AKQ)
+</p></div></div>
+<div class="info" >
+<div style="float: left; width: 32%;">
+<p style="font-size:16px">
+<b>County Population:</b> 11,478<br>
+<b>State Population Rank:</b> #93<br>
+<b>County Seat:</b> Gatesville</p>
+<p style="font-size:16px"><b><u>Cities with Population > 10,000:</u></b><br>
+<ul style="font-size:12.5px">
+<li>None
+<li>Largest City - Gatesville: 308
+<br>
+<br>
+<br>
+<br>
+<br>
+<br></ul>
+</p></div>
+<div style="float: right; width: 32%;">
+<p><b>Mean Annual Severe Weather Days:</b> 17-19<br>
+<ul style="font-size:15px">
+<li>Mean Tornado Days: 2-3
+<li>Mean Damaging Wind Days: 4-12
+<li>Mean Hail Days: 3-5</ul>
+<b>Mean Annual Temperature:</b> 56-61&deg;F<br>
+<b>Mean Annual Precipitation:</b> 52-56"<br><br>
+<b>Highest Elevation:</b> 85'<br>
+<b>River Basin(s):</b> Chowan, Pasquotank<br>
+<b>Tornadoes since 1950:</b> 5<br>
+</p></div>
+<div algin="center width: 32%;">
+<center><p style="font-size:22px"><b><u>GATES County</u></b></p></center>
+<p style="font-size:16px">
+<b>Land Area:</b> 340.45 sq. mi.<br>
+<b>State Land Area Rank:</b> #76<br><br>
+<b>Water Area:</b> 5.2 sq. mi. / 1.5%<br>
+<b>State Water Area Rank:</b> #44<br><br>
+<b>Year Founded:</b> 1779<br><br>
+<b>NWS Office:</b> Wakefield, VA (AKQ)
+</p></div></div>
+<div class="info" >
+<div style="float: left; width: 32%;">
+<p style="font-size:16px">
+<b>County Population:</b> 14,383<br>
+<b>State Population Rank:</b> #88<br>
+<b>County Seat:</b> Edenton</p>
+<p style="font-size:16px"><b><u>Cities with Population > 10,000:</u></b><br>
+<ul style="font-size:12.5px">
+<li>None
+<li>Largest City - Edenton: 4,983
+<br>
+<br>
+<br>
+<br>
+<br>
+<br></ul>
+</p></div>
+<div style="float: right; width: 32%;">
+<p><b>Mean Annual Severe Weather Days:</b> 3-19<br>
+<ul style="font-size:15px">
+<li>Mean Tornado Days: 1-2
+<li>Mean Damaging Wind Days: 4-12
+<li>Mean Hail Days: 1-2</ul>
+<b>Mean Annual Temperature:</b> 60-65&deg;F<br>
+<b>Mean Annual Precipitation:</b> 49-53"<br><br>
+<b>Highest Elevation:</b> 52'<br>
+<b>River Basin(s):</b> Chowan, Pasquotank<br>
+<b>Tornadoes since 1950:</b> 13<br>
+</p></div>
+<div algin="center width: 32%;">
+<center><p style="font-size:22px"><b><u>CHOWAN County</u></b></p></center>
+<p style="font-size:16px">
+<b>Land Area:</b> 172.47 sq. mi.<br>
+<b>State Land Area Rank:</b> #100 (NC's smallest county!)<br><br>
+<b>Water Area:</b> 61 sq. mi. / 26.0%<br>
+<b>State Water Area Rank:</b> #8<br><br>
+<b>Year Founded:</b> 1668<br><br>
+<b>NWS Office:</b> Wakefield, VA (AKQ)
+</p></div></div>
+<div class="info" >
+<div style="float: left; width: 32%;">
+<p style="font-size:16px">
+<b>County Population:</b> 13,335<br>
+<b>State Population Rank:</b> #90<br>
+<b>County Seat:</b> Hertford</p>
+<p style="font-size:16px"><b><u>Cities with Population > 10,000:</u></b><br>
+<ul style="font-size:12.5px">
+<li>None
+<li>Largest City - Hertford: 2,176
+<br>
+<br>
+<br>
+<br>
+<br>
+<br></ul>
+</p></div>
+<div style="float: right; width: 32%;">
+<p><b>Mean Annual Severe Weather Days:</b> 3-19<br>
+<ul style="font-size:15px">
+<li>Mean Tornado Days: 2-3
+<li>Mean Damaging Wind Days: 4-12
+<li>Mean Hail Days: 1-2</ul>
+<b>Mean Annual Temperature:</b> 60-65&deg;F<br>
+<b>Mean Annual Precipitation:</b> 49-53"<br><br>
+<b>Highest Elevation:</b> 52'<br>
+<b>River Basin(s):</b> Pasquotank, Chowan<br>
+<b>Tornadoes since 1950:</b> 10<br>
+</p></div>
+<div algin="center width: 32%;">
+<center><p style="font-size:22px"><b><u>PERQUIMANS County</u></b></p></center>
+<p style="font-size:16px">
+<b>Land Area:</b> 247.09 sq. mi.<br>
+<b>State Land Area Rank:</b> #92<br><br>
+<b>Water Area:</b> 82 sq. mi. / 25.0%<br>
+<b>State Water Area Rank:</b> #9<br><br>
+<b>Year Founded:</b> 1668<br><br>
+<b>NWS Office:</b> Wakefield, VA (AKQ)
+</p></div></div>
+<div class="info" >
+<div style="float: left; width: 32%;">
+<p style="font-size:16px">
+<b>County Population:</b> 39,864<br>
+<b>State Population Rank:</b> #62<br>
+<b>County Seat:</b> Elizabeth City</p>
+<p style="font-size:16px"><b><u>Cities with Population > 10,000:</u></b><br>
+<ul style="font-size:12.5px">
+<li>Elizabeth City: 17,988
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br></ul>
+</p></div>
+<div style="float: right; width: 32%;">
+<p><b>Mean Annual Severe Weather Days:</b> 3-19<br>
+<ul style="font-size:15px">
+<li>Mean Tornado Days: 1-2
+<li>Mean Damaging Wind Days: 4-12
+<li>Mean Hail Days: 1-2</ul>
+<b>Mean Annual Temperature:</b> 60-65&deg;F<br>
+<b>Mean Annual Precipitation:</b> 46-50"<br><br>
+<b>Highest Elevation:</b> 21'<br>
+<b>River Basin(s):</b> Pasquotank<br>
+<b>Tornadoes since 1950:</b> 20<br>
+</p></div>
+<div algin="center width: 32%;">
+<center><p style="font-size:22px"><b><u>PASQUOTANK County</u></b></p></center>
+<p style="font-size:16px">
+<b>Land Area:</b> 226.88 sq. mi.<br>
+<b>State Land Area Rank:</b> #96<br><br>
+<b>Water Area:</b> 63 sq. mi. / 22.0%<br>
+<b>State Water Area Rank:</b> #10<br><br>
+<b>Year Founded:</b> 1668<br><br>
+<b>NWS Office:</b> Wakefield, VA (AKQ)
+</p></div></div>
+<div class="info" >
+<div style="float: left; width: 32%;">
+<p style="font-size:16px">
+<b>County Population:</b> 10,418<br>
+<b>State Population Rank:</b> #96<br>
+<b>County Seat:</b> Camden</p>
+<p style="font-size:16px"><b><u>Cities with Population > 10,000:</u></b><br>
+<ul style="font-size:12.5px">
+<li>None
+<li>Largest City - Camden: 599
+<br>
+<br>
+<br>
+<br>
+<br>
+<br></ul>
+</p></div>
+<div style="float: right; width: 32%;">
+<p><b>Mean Annual Severe Weather Days:</b> 17-19<br>
+<ul style="font-size:15px">
+<li>Mean Tornado Days: 1-2
+<li>Mean Damaging Wind Days: 4-12
+<li>Mean Hail Days: 2-5</ul>
+<b>Mean Annual Temperature:</b> 60-65&deg;F<br>
+<b>Mean Annual Precipitation:</b> 50-54"<br><br>
+<b>Highest Elevation:</b> 24'<br>
+<b>River Basin(s):</b> Pasquotank<br>
+<b>Tornadoes since 1950:</b> 4<br>
+</p></div>
+<div algin="center width: 32%;">
+<center><p style="font-size:22px"><b><u>CAMDEN County</u></b></p></center>
+<p style="font-size:16px">
+<b>Land Area:</b> 240.56 sq. mi.<br>
+<b>State Land Area Rank:</b> #93<br><br>
+<b>Water Area:</b> 70 sq. mi. / 22.0%<br>
+<b>State Water Area Rank:</b> #10<br><br>
+<b>Year Founded:</b> 1777<br><br>
+<b>NWS Office:</b> Wakefield, VA (AKQ)
+</p></div></div>
+<div class="info" >
+<div style="float: left; width: 32%;">
+<p style="font-size:16px">
+<b>County Population:</b> 25,809<br>
+<b>State Population Rank:</b> #74<br>
+<b>County Seat:</b> Currituck</p>
+<p style="font-size:16px"><b><u>Cities with Population > 10,000:</u></b><br>
+<ul style="font-size:12.5px">
+<li>None
+<li>Largest City - Moyock: 3,759
+<br>
+<br>
+<br>
+<br>
+<br>
+<br></ul>
+</p></div>
+<div style="float: right; width: 32%;">
+<p><b>Mean Annual Severe Weather Days:</b> 3-19<br>
+<ul style="font-size:15px">
+<li>Mean Tornado Days: 1-2
+<li>Mean Damaging Wind Days: 4-12
+<li>Mean Hail Days: 1-2</ul>
+<b>Mean Annual Temperature:</b> 60-65&deg;F<br>
+<b>Mean Annual Precipitation:</b> 48-52"<br><br>
+<b>Highest Elevation:</b> 23'<br>
+<b>River Basin(s):</b> Pasquotank<br>
+<b>Tornadoes since 1950:</b> 8<br>
+</p></div>
+<div algin="center width: 32%;">
+<center><p style="font-size:22px"><b><u>CURRITUCK County</u></b></p></center>
+<p style="font-size:16px">
+<b>Land Area:</b> 261.85 sq. mi.<br>
+<b>State Land Area Rank:</b> #87<br><br>
+<b>Water Area:</b> 265 sq. mi. / 50.0%<br>
+<b>State Water Area Rank:</b> #4<br><br>
+<b>Year Founded:</b> 1668<br><br>
+<b>NWS Office:</b> Wakefield, VA (AKQ)
+</p></div></div>
+<div class="info" >
+<div style="float: left; width: 32%;">
+<p style="font-size:16px">
+<b>County Population:</b> 53,922<br>
+<b>State Population Rank:</b> #51<br>
+<b>County Seat:</b> Boone</p>
+<p style="font-size:16px"><b><u>Cities with Population > 10,000:</u></b><br>
+<ul style="font-size:12.5px">
+<li>Boone: 18,211
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br></ul>
+</p></div>
+<div style="float: right; width: 32%;">
+<p><b>Mean Annual Severe Weather Days:</b> 23-30<br>
+<ul style="font-size:15px">
+<li>Mean Tornado Days: 0-1
+<li>Mean Damaging Wind Days: 16-26
+<li>Mean Hail Days: 4-10</ul>
+<b>Mean Annual Temperature:</b> 46-51&deg;F<br>
+<b>Mean Annual Precipitation:</b> 48-52"<br><br>
+<b>Highest Elevation:</b> 5920'<br>
+<b>River Basin(s):</b> Watauga, New, Yadkin-Pee Dee<br>
+<b>Tornadoes since 1950:</b> 2<br>
+</p></div>
+<div algin="center width: 32%;">
+<center><p style="font-size:22px"><b><u>WATAUGA County</u></b></p></center>
+<p style="font-size:16px">
+<b>Land Area:</b> 312.56 sq. mi.<br>
+<b>State Land Area Rank:</b> #81<br><br>
+<b>Water Area:</b> 0.9 sq. mi. / 0.3%<br>
+<b>State Water Area Rank:</b> #88<br><br>
+<b>Year Founded:</b> 1849<br><br>
+<b>NWS Office:</b> Blacksburg, VA (RNK)
+</p></div></div>
+<div class="info" >
+<div style="float: left; width: 32%;">
+<p style="font-size:16px">
+<b>County Population:</b> 68,740<br>
+<b>State Population Rank:</b> #39<br>
+<b>County Seat:</b> Wilkesboro</p>
+<p style="font-size:16px"><b><u>Cities with Population > 10,000:</u></b><br>
+<ul style="font-size:12.5px">
+<li>None
+<li>Largest City - North Wilkesboro: 4,234
+<br>
+<br>
+<br>
+<br>
+<br>
+<br></ul>
+</p></div>
+<div style="float: right; width: 32%;">
+<p><b>Mean Annual Severe Weather Days:</b> 23-34<br>
+<ul style="font-size:15px">
+<li>Mean Tornado Days: 1-2
+<li>Mean Damaging Wind Days: 16-24
+<li>Mean Hail Days: 7-10</ul>
+<b>Mean Annual Temperature:</b> 51-56&deg;F<br>
+<b>Mean Annual Precipitation:</b> 49-53"<br><br>
+<b>Highest Elevation:</b> 4079'<br>
+<b>River Basin(s):</b> Yadkin-Pee Dee<br>
+<b>Tornadoes since 1950:</b> 6<br>
+</p></div>
+<div algin="center width: 32%;">
+<center><p style="font-size:22px"><b><u>WILKES County</u></b></p></center>
+<p style="font-size:16px">
+<b>Land Area:</b> 754.28 sq. mi.<br>
+<b>State Land Area Rank:</b> #13<br><br>
+<b>Water Area:</b> 2.6 sq. mi. / 0.3%<br>
+<b>State Water Area Rank:</b> #88<br><br>
+<b>Year Founded:</b> 1778<br><br>
+<b>NWS Office:</b> Blacksburg, VA (RNK)
+</p></div></div>
+<div class="info" >
+<div style="float: left; width: 32%;">
+<p style="font-size:16px">
+<b>County Population:</b> 37,532<br>
+<b>State Population Rank:</b> #64<br>
+<b>County Seat:</b> Yadkinville</p>
+<p style="font-size:16px"><b><u>Cities with Population > 10,000:</u></b><br>
+<ul style="font-size:12.5px">
+<li>None
+<li>Largest City - Yadkinville: 2,952
+<br>
+<br>
+<br>
+<br>
+<br>
+<br></ul>
+</p></div>
+<div style="float: right; width: 32%;">
+<p><b>Mean Annual Severe Weather Days:</b> 23-34<br>
+<ul style="font-size:15px">
+<li>Mean Tornado Days: 1-2
+<li>Mean Damaging Wind Days: 16-24
+<li>Mean Hail Days: 5-8</ul>
+<b>Mean Annual Temperature:</b> 55-60&deg;F<br>
+<b>Mean Annual Precipitation:</b> 44-48"<br><br>
+<b>Highest Elevation:</b> 1755'<br>
+<b>River Basin(s):</b> Yadkin-Pee Dee<br>
+<b>Tornadoes since 1950:</b> 8<br>
+</p></div>
+<div algin="center width: 32%;">
+<center><p style="font-size:22px"><b><u>YADKIN County</u></b></p></center>
+<p style="font-size:16px">
+<b>Land Area:</b> 334.83 sq. mi.<br>
+<b>State Land Area Rank:</b> #78<br><br>
+<b>Water Area:</b> 2.7 sq. mi. / 0.8%<br>
+<b>State Water Area Rank:</b> #65<br><br>
+<b>Year Founded:</b> 1850<br><br>
+<b>NWS Office:</b> Blacksburg, VA (RNK)
+</p></div></div>
+<div class="info" >
+<div style="float: left; width: 32%;">
+<p style="font-size:16px">
+<b>County Population:</b> 371,511<br>
+<b>State Population Rank:</b> #4<br>
+<b>County Seat:</b> Winston-Salem</p>
+<p style="font-size:16px"><b><u>Cities with Population > 10,000:</u></b><br>
+<ul style="font-size:12.5px">
+<li>Winston-Salem: 241,218
+<li>Kernersville: 23,811
+<li>Clemmons: 19,844
+<li>Lewisville: 13,567
+<br>
+<br>
+<br>
+<br></ul>
+</p></div>
+<div style="float: right; width: 32%;">
+<p><b>Mean Annual Severe Weather Days:</b> 22-27<br>
+<ul style="font-size:15px">
+<li>Mean Tornado Days: 1-2
+<li>Mean Damaging Wind Days: 16-23
+<li>Mean Hail Days: 5-9</ul>
+<b>Mean Annual Temperature:</b> 55-60&deg;F<br>
+<b>Mean Annual Precipitation:</b> 44-48"<br><br>
+<b>Highest Elevation:</b> 1100'<br>
+<b>River Basin(s):</b> Yadkin-Pee Dee, Roanoke, Cape Fear<br>
+<b>Tornadoes since 1950:</b> 16<br>
+</p></div>
+<div algin="center width: 32%;">
+<center><p style="font-size:22px"><b><u>FORSYTH County</u></b></p></center>
+<p style="font-size:16px">
+<b>Land Area:</b> 408.15 sq. mi.<br>
+<b>State Land Area Rank:</b> #60<br><br>
+<b>Water Area:</b> 4.5 sq. mi. / 1.1%<br>
+<b>State Water Area Rank:</b> #54<br><br>
+<b>Year Founded:</b> 1849<br><br>
+<b>NWS Office:</b> Raleigh, NC (RAH)
+</p></div></div>
+<div class="info" >
+<div style="float: left; width: 32%;">
+<p style="font-size:16px">
+<b>County Population:</b> 521,330<br>
+<b>State Population Rank:</b> #3<br>
+<b>County Seat:</b> Greensboro</p>
+<p style="font-size:16px"><b><u>Cities with Population > 10,000:</u></b><br>
+<ul style="font-size:12.5px">
+<li>Greensboro: 285,342
+<li>High Point: 110,268
+<li>Summerfield: 10,861
+<br>
+<br>
+<br>
+<br>
+<br></ul>
+</p></div>
+<div style="float: right; width: 32%;">
+<p><b>Mean Annual Severe Weather Days:</b> 22-27<br>
+<ul style="font-size:15px">
+<li>Mean Tornado Days: 1-2
+<li>Mean Damaging Wind Days: 16-23
+<li>Mean Hail Days: 5-8</ul>
+<b>Mean Annual Temperature:</b> 55-60&deg;F<br>
+<b>Mean Annual Precipitation:</b> 44-48"<br><br>
+<b>Highest Elevation:</b> 1000'<br>
+<b>River Basin(s):</b> Cape Fear, Roanoke, Yadkin-Pee Dee<br>
+<b>Tornadoes since 1950:</b> 13<br>
+</p></div>
+<div algin="center width: 32%;">
+<center><p style="font-size:22px"><b><u>GUILFORD County</u></b></p></center>
+<p style="font-size:16px">
+<b>Land Area:</b> 645.70 sq. mi.<br>
+<b>State Land Area Rank:</b> #22<br><br>
+<b>Water Area:</b> 12 sq. mi. / 1.8%<br>
+<b>State Water Area Rank:</b> #41<br><br>
+<b>Year Founded:</b> 1771<br><br>
+<b>NWS Office:</b> Raleigh, NC (RAH)
+</p></div></div>
+<div class="info" >
+<div style="float: left; width: 32%;">
+<p style="font-size:16px">
+<b>County Population:</b> 159,688<br>
+<b>State Population Rank:</b> #17<br>
+<b>County Seat:</b> Graham</p>
+<p style="font-size:16px"><b><u>Cities with Population > 10,000:</u></b><br>
+<ul style="font-size:12.5px">
+<li>Burlington: 52,472
+<li>Graham: 14,647
+<li>Mebane: 13,698
+<li>Elon: 10,024
+<br>
+<br>
+<br>
+<br></ul>
+</p></div>
+<div style="float: right; width: 32%;">
+<p><b>Mean Annual Severe Weather Days:</b> 23-27<br>
+<ul style="font-size:15px">
+<li>Mean Tornado Days: 1-2
+<li>Mean Damaging Wind Days: 16-18
+<li>Mean Hail Days: 5-8</ul>
+<b>Mean Annual Temperature:</b> 55-60&deg;F<br>
+<b>Mean Annual Precipitation:</b> 44-48"<br><br>
+<b>Highest Elevation:</b> 970'<br>
+<b>River Basin(s):</b> Cape Fear<br>
+<b>Tornadoes since 1950:</b> 6<br>
+</p></div>
+<div algin="center width: 32%;">
+<center><p style="font-size:22px"><b><u>ALAMANCE County</u></b></p></center>
+<p style="font-size:16px">
+<b>Land Area:</b> 423.94 sq. mi.<br>
+<b>State Land Area Rank:</b> #59<br><br>
+<b>Water Area:</b> 11 sq. mi. / 2.5%<br>
+<b>State Water Area Rank:</b> #31<br><br>
+<b>Year Founded:</b> 1849<br><br>
+<b>NWS Office:</b> Raleigh, NC (RAH)
+</p></div></div>
+<div class="info" >
+<div style="float: left; width: 32%;">
+<p style="font-size:16px">
+<b>County Population:</b> 141,796<br>
+<b>State Population Rank:</b> #20<br>
+<b>County Seat:</b> Hillsborough</p>
+<p style="font-size:16px"><b><u>Cities with Population > 10,000:</u></b><br>
+<ul style="font-size:12.5px">
+<li>Chapel Hill: 59,568
+<li>Carrboro: 21,156
+<br>
+<br>
+<br>
+<br>
+<br>
+<br></ul>
+</p></div>
+<div style="float: right; width: 32%;">
+<p><b>Mean Annual Severe Weather Days:</b> 23-27<br>
+<ul style="font-size:15px">
+<li>Mean Tornado Days: 1-2
+<li>Mean Damaging Wind Days: 17-18
+<li>Mean Hail Days: 5-7</ul>
+<b>Mean Annual Temperature:</b> 55-60&deg;F<br>
+<b>Mean Annual Precipitation:</b> 44-48"<br><br>
+<b>Highest Elevation:</b> 860'<br>
+<b>River Basin(s):</b> Neuse, Cape Fear<br>
+<b>Tornadoes since 1950:</b> 8<br>
+</p></div>
+<div algin="center width: 32%;">
+<center><p style="font-size:22px"><b><u>ORANGE County</u></b></p></center>
+<p style="font-size:16px">
+<b>Land Area:</b> 397.96 sq. mi.<br>
+<b>State Land Area Rank:</b> #63<br><br>
+<b>Water Area:</b> 3.5 sq. mi. / 0.9%<br>
+<b>State Water Area Rank:</b> #60<br><br>
+<b>Year Founded:</b> 1752<br><br>
+<b>NWS Office:</b> Raleigh, NC (RAH)
+</p></div></div>
+<div class="info" >
+<div style="float: left; width: 32%;">
+<p style="font-size:16px">
+<b>County Population:</b> 306,212<br>
+<b>State Population Rank:</b> #6<br>
+<b>County Seat:</b> Durham</p>
+<p style="font-size:16px"><b><u>Cities with Population > 10,000:</u></b><br>
+<ul style="font-size:12.5px">
+<li>Durham: 257,636
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br></ul>
+</p></div>
+<div style="float: right; width: 32%;">
+<p><b>Mean Annual Severe Weather Days:</b> 23-27<br>
+<ul style="font-size:15px">
+<li>Mean Tornado Days: 1-2
+<li>Mean Damaging Wind Days: 17-18
+<li>Mean Hail Days: 5-7</ul>
+<b>Mean Annual Temperature:</b> 55-60&deg;F<br>
+<b>Mean Annual Precipitation:</b> 44-48"<br><br>
+<b>Highest Elevation:</b> 770'<br>
+<b>River Basin(s):</b> Neuse, Cape Fear<br>
+<b>Tornadoes since 1950:</b> 7<br>
+</p></div>
+<div algin="center width: 32%;">
+<center><p style="font-size:22px"><b><u>DURHAM County</u></b></p></center>
+<p style="font-size:16px">
+<b>Land Area:</b> 285.98 sq. mi.<br>
+<b>State Land Area Rank:</b> #84<br><br>
+<b>Water Area:</b> 12 sq. mi. / 4.0%<br>
+<b>State Water Area Rank:</b> #20<br><br>
+<b>Year Founded:</b> 1881<br><br>
+<b>NWS Office:</b> Raleigh, NC (RAH)
+</p></div></div>
+<div class="info" >
+<div style="float: left; width: 32%;">
+<p style="font-size:16px">
+<b>County Population:</b> 64,705<br>
+<b>State Population Rank:</b> #41<br>
+<b>County Seat:</b> Louisburg</p>
+<p style="font-size:16px"><b><u>Cities with Population > 10,000:</u></b><br>
+<ul style="font-size:12.5px">
+<li>None
+<li>Largest City - Louisburg: 3,488
+<br>
+<br>
+<br>
+<br>
+<br>
+<br></ul>
+</p></div>
+<div style="float: right; width: 32%;">
+<p><b>Mean Annual Severe Weather Days:</b> 23-27<br>
+<ul style="font-size:15px">
+<li>Mean Tornado Days: 1-2
+<li>Mean Damaging Wind Days: 12-18
+<li>Mean Hail Days: 5-7</ul>
+<b>Mean Annual Temperature:</b> 55-60&deg;F<br>
+<b>Mean Annual Precipitation:</b> 44-48"<br><br>
+<b>Highest Elevation:</b> 562'<br>
+<b>River Basin(s):</b> Tar-Pamlico, Neuse<br>
+<b>Tornadoes since 1950:</b> 10<br>
+</p></div>
+<div algin="center width: 32%;">
+<center><p style="font-size:22px"><b><u>FRANKLIN County</u></b></p></center>
+<p style="font-size:16px">
+<b>Land Area:</b> 491.68 sq. mi.<br>
+<b>State Land Area Rank:</b> #45<br><br>
+<b>Water Area:</b> 2.8 sq. mi. / 0.6%<br>
+<b>State Water Area Rank:</b> #74<br><br>
+<b>Year Founded:</b> 1779<br><br>
+<b>NWS Office:</b> Raleigh, NC (RAH)
+</p></div></div>
+<div class="info" >
+<div style="float: left; width: 32%;">
+<p style="font-size:16px">
+<b>County Population:</b> 94,005<br>
+<b>State Population Rank:</b> #30<br>
+<b>County Seat:</b> Nashville</p>
+<p style="font-size:16px"><b><u>Cities with Population > 10,000:</u></b><br>
+<ul style="font-size:12.5px">
+<li>Rocky Mount (partial): 55,806
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br></ul>
+</p></div>
+<div style="float: right; width: 32%;">
+<p><b>Mean Annual Severe Weather Days:</b> 17-25<br>
+<ul style="font-size:15px">
+<li>Mean Tornado Days: 2-3
+<li>Mean Damaging Wind Days: 15-18
+<li>Mean Hail Days: 5-7</ul>
+<b>Mean Annual Temperature:</b> 55-60&deg;F<br>
+<b>Mean Annual Precipitation:</b> 43-47"<br><br>
+<b>Highest Elevation:</b> 360'<br>
+<b>River Basin(s):</b> Tar-Pamlico, Neuse<br>
+<b>Tornadoes since 1950:</b> 14<br>
+</p></div>
+<div algin="center width: 32%;">
+<center><p style="font-size:22px"><b><u>NASH County</u></b></p></center>
+<p style="font-size:16px">
+<b>Land Area:</b> 540.41 sq. mi.<br>
+<b>State Land Area Rank:</b> #32<br><br>
+<b>Water Area:</b> 2.4 sq. mi. / 0.4%<br>
+<b>State Water Area Rank:</b> #84<br><br>
+<b>Year Founded:</b> 1777<br><br>
+<b>NWS Office:</b> Raleigh, NC (RAH)
+</p></div></div>
+<div class="info" >
+<div style="float: left; width: 32%;">
+<p style="font-size:16px">
+<b>County Population:</b> 53,518<br>
+<b>State Population Rank:</b> #52<br>
+<b>County Seat:</b> Tarboro</p>
+<p style="font-size:16px"><b><u>Cities with Population > 10,000:</u></b><br>
+<ul style="font-size:12.5px">
+<li>Rocky Mount (partial): 55,806
+<li>Tarboro: 11,348
+<br>
+<br>
+<br>
+<br>
+<br>
+<br></ul>
+</p></div>
+<div style="float: right; width: 32%;">
+<p><b>Mean Annual Severe Weather Days:</b> 17-25<br>
+<ul style="font-size:15px">
+<li>Mean Tornado Days: 2-3
+<li>Mean Damaging Wind Days: 12-15
+<li>Mean Hail Days: 6-7</ul>
+<b>Mean Annual Temperature:</b> 56-61&deg;F<br>
+<b>Mean Annual Precipitation:</b> 44-48"<br><br>
+<b>Highest Elevation:</b> 140'<br>
+<b>River Basin(s):</b> Tar-Pamlico<br>
+<b>Tornadoes since 1950:</b> 10<br>
+</p></div>
+<div algin="center width: 32%;">
+<center><p style="font-size:22px"><b><u>EDGECOMBE County</u></b></p></center>
+<p style="font-size:16px">
+<b>Land Area:</b> 505.34 sq. mi.<br>
+<b>State Land Area Rank:</b> #43<br><br>
+<b>Water Area:</b> 1.3 sq. mi. / 0.3%<br>
+<b>State Water Area Rank:</b> #88<br><br>
+<b>Year Founded:</b> 1741<br><br>
+<b>NWS Office:</b> Raleigh, NC (RAH)
+</p></div></div>
+<div class="info" >
+<div style="float: left; width: 32%;">
+<p style="font-size:16px">
+<b>County Population:</b> 23,172<br>
+<b>State Population Rank:</b> #77<br>
+<b>County Seat:</b> Williamston</p>
+<p style="font-size:16px"><b><u>Cities with Population > 10,000:</u></b><br>
+<ul style="font-size:12.5px">
+<li>None
+<li>Largest City - Williamston: 5,379
+<br>
+<br>
+<br>
+<br>
+<br>
+<br></ul>
+</p></div>
+<div style="float: right; width: 32%;">
+<p><b>Mean Annual Severe Weather Days:</b> 9-25<br>
+<ul style="font-size:15px">
+<li>Mean Tornado Days: 2-3
+<li>Mean Damaging Wind Days: 12-15
+<li>Mean Hail Days: 2-6</ul>
+<b>Mean Annual Temperature:</b> 57-62&deg;F<br>
+<b>Mean Annual Precipitation:</b> 49-53"<br><br>
+<b>Highest Elevation:</b> 92'<br>
+<b>River Basin(s):</b> Roanoke, Tar-Pamlico<br>
+<b>Tornadoes since 1950:</b> 20<br>
+</p></div>
+<div algin="center width: 32%;">
+<center><p style="font-size:22px"><b><u>MARTIN County</u></b></p></center>
+<p style="font-size:16px">
+<b>Land Area:</b> 461.22 sq. mi.<br>
+<b>State Land Area Rank:</b> #51<br><br>
+<b>Water Area:</b> 0.3 sq. mi. / 0.06%<br>
+<b>State Water Area Rank:</b> #99<br><br>
+<b>Year Founded:</b> 1774<br><br>
+<b>NWS Office:</b> Newport/Morehead City, NC (MHX)
+</p></div></div>
+<div class="info" >
+<div style="float: left; width: 32%;">
+<p style="font-size:16px">
+<b>County Population:</b> 19,854<br>
+<b>State Population Rank:</b> #84<br>
+<b>County Seat:</b> Windsor</p>
+<p style="font-size:16px"><b><u>Cities with Population > 10,000:</u></b><br>
+<ul style="font-size:12.5px">
+<li>None
+<li>Largest City - Windsor: 3,476
+<br>
+<br>
+<br>
+<br>
+<br>
+<br></ul>
+</p></div>
+<div style="float: right; width: 32%;">
+<p><b>Mean Annual Severe Weather Days:</b> 9-25<br>
+<ul style="font-size:15px">
+<li>Mean Tornado Days: 2-3
+<li>Mean Damaging Wind Days: 4-15
+<li>Mean Hail Days: 2-6</ul>
+<b>Mean Annual Temperature:</b> 58-63&deg;F<br>
+<b>Mean Annual Precipitation:</b> 52-56"<br><br>
+<b>Highest Elevation:</b> 103'<br>
+<b>River Basin(s):</b> Roanoke, Chowan<br>
+<b>Tornadoes since 1950:</b> 25<br>
+</p></div>
+<div algin="center width: 32%;">
+<center><p style="font-size:22px"><b><u>BERTIE County</u></b></p></center>
+<p style="font-size:16px">
+<b>Land Area:</b> 699.27 sq. mi.<br>
+<b>State Land Area Rank:</b> #16<br><br>
+<b>Water Area:</b> 42 sq. mi. / 5.7%<br>
+<b>State Water Area Rank:</b> #19<br><br>
+<b>Year Founded:</b> 1722<br><br>
+<b>NWS Office:</b> Wakefield, VA (AKQ)
+</p></div></div>
+<div class="info" >
+<div style="float: left; width: 32%;">
+<p style="font-size:16px">
+<b>County Population:</b> 12,195<br>
+<b>State Population Rank:</b> #92<br>
+<b>County Seat:</b> Plymouth</p>
+<p style="font-size:16px"><b><u>Cities with Population > 10,000:</u></b><br>
+<ul style="font-size:12.5px">
+<li>None
+<li>Largest City - Plymouth: 3,766
+<br>
+<br>
+<br>
+<br>
+<br>
+<br></ul>
+</p></div>
+<div style="float: right; width: 32%;">
+<p><b>Mean Annual Severe Weather Days:</b> 9-25<br>
+<ul style="font-size:15px">
+<li>Mean Tornado Days: 2-3
+<li>Mean Damaging Wind Days: 4-15
+<li>Mean Hail Days: 2-6</ul>
+<b>Mean Annual Temperature:</b> 60-65&deg;F<br>
+<b>Mean Annual Precipitation:</b> 48-52"<br><br>
+<b>Highest Elevation:</b> 50'<br>
+<b>River Basin(s):</b> Pasquotank, Tar-Pamlico, Roanoke<br>
+<b>Tornadoes since 1950:</b> 12<br>
+</p></div>
+<div algin="center width: 32%;">
+<center><p style="font-size:22px"><b><u>WASHINGTON County</u></b></p></center>
+<p style="font-size:16px">
+<b>Land Area:</b> 348.14 sq. mi.<br>
+<b>State Land Area Rank:</b> #75<br><br>
+<b>Water Area:</b> 76 sq. mi. / 18.0%<br>
+<b>State Water Area Rank:</b> #13<br><br>
+<b>Year Founded:</b> 1799<br><br>
+<b>NWS Office:</b> Newport/Morehead City, NC (MHX)
+</p></div></div>
+<div class="info" >
+<div style="float: left; width: 32%;">
+<p style="font-size:16px">
+<b>County Population:</b> 4,141<br>
+<b>State Population Rank:</b> #100 (NC's least populous county!)<br>
+<b>County Seat:</b> Columbia</p>
+<p style="font-size:16px"><b><u>Cities with Population > 10,000:</u></b><br>
+<ul style="font-size:12.5px">
+<li>None
+<li>Largest City - Columbia: 850
+<br>
+<br>
+<br>
+<br>
+<br>
+<br></ul>
+</p></div>
+<div style="float: right; width: 32%;">
+<p><b>Mean Annual Severe Weather Days:</b> 5-9<br>
+<ul style="font-size:15px">
+<li>Mean Tornado Days: 1-2
+<li>Mean Damaging Wind Days: 4-12
+<li>Mean Hail Days: 1-2</ul>
+<b>Mean Annual Temperature:</b> 60-65&deg;F<br>
+<b>Mean Annual Precipitation:</b> 48-52"<br><br>
+<b>Highest Elevation:</b> 16'<br>
+<b>River Basin(s):</b> Pasquotank<br>
+<b>Tornadoes since 1950:</b> 16<br>
+</p></div>
+<div algin="center width: 32%;">
+<center><p style="font-size:22px"><b><u>TYRRELL County</u></b></p></center>
+<p style="font-size:16px">
+<b>Land Area:</b> 389.04 sq. mi.<br>
+<b>State Land Area Rank:</b> #67<br><br>
+<b>Water Area:</b> 205 sq. mi. / 35.0%<br>
+<b>State Water Area Rank:</b> #7<br><br>
+<b>Year Founded:</b> 1729<br><br>
+<b>NWS Office:</b> Newport/Morehead City, NC (MHX)
+</p></div></div>
+<div class="info" >
+<div style="float: left; width: 32%;">
+<p style="font-size:16px">
+<b>County Population:</b> 35,964<br>
+<b>State Population Rank:</b> #66<br>
+<b>County Seat:</b> Manteo</p>
+<p style="font-size:16px"><b><u>Cities with Population > 10,000:</u></b><br>
+<ul style="font-size:12.5px">
+<li>None
+<li>Largest City - Kill Devil Hills: 6,920
+<br>
+<br>
+<br>
+<br>
+<br>
+<br></ul>
+</p></div>
+<div style="float: right; width: 32%;">
+<p><b>Mean Annual Severe Weather Days:</b> 3-9<br>
+<ul style="font-size:15px">
+<li>Mean Tornado Days: 1-2
+<li>Mean Damaging Wind Days: 4-12
+<li>Mean Hail Days: 1-2</ul>
+<b>Mean Annual Temperature:</b> 60-65&deg;F<br>
+<b>Mean Annual Precipitation:</b> 49-53"<br><br>
+<b>Highest Elevation:</b> 138'<br>
+<b>River Basin(s):</b> Pasquotank<br>
+<b>Tornadoes since 1950:</b> 39<br>
+</p></div>
+<div algin="center width: 32%;">
+<center><p style="font-size:22px"><b><u>DARE County</u></b></p></center>
+<p style="font-size:16px">
+<b>Land Area:</b> 383.42 sq. mi.<br>
+<b>State Land Area Rank:</b> #68<br><br>
+<b>Water Area:</b> 1179 sq. mi. / 75.0%<br>
+<b>State Water Area Rank:</b> #1<br><br>
+<b>Year Founded:</b> 1870<br><br>
+<b>NWS Office:</b> Newport/Morehead City, NC (MHX)
+</p></div></div>
+<div class="info" >
+<div style="float: left; width: 32%;">
+<p style="font-size:16px">
+<b>County Population:</b> 17,516<br>
+<b>State Population Rank:</b> #86<br>
+<b>County Seat:</b> Newland</p>
+<p style="font-size:16px"><b><u>Cities with Population > 10,000:</u></b><br>
+<ul style="font-size:12.5px">
+<li>None
+<li>Largest City - Banner Elk: 1,067
+<br>
+<br>
+<br>
+<br>
+<br>
+<br></ul>
+</p></div>
+<div style="float: right; width: 32%;">
+<p><b>Mean Annual Severe Weather Days:</b> 25-30<br>
+<ul style="font-size:15px">
+<li>Mean Tornado Days: 0-1
+<li>Mean Damaging Wind Days: 16-21
+<li>Mean Hail Days: 7-10</ul>
+<b>Mean Annual Temperature:</b> 45-50&deg;F<br>
+<b>Mean Annual Precipitation:</b> 53-57"<br><br>
+<b>Highest Elevation:</b> 6160'<br>
+<b>River Basin(s):</b> French Broad, Catawba, Watauga<br>
+<b>Tornadoes since 1950:</b> 1<br>
+</p></div>
+<div algin="center width: 32%;">
+<center><p style="font-size:22px"><b><u>AVERY County</u></b></p></center>
+<p style="font-size:16px">
+<b>Land Area:</b> 247.09 sq. mi.<br>
+<b>State Land Area Rank:</b> #91<br><br>
+<b>Water Area:</b> 0.1 sq. mi. / 0.06%<br>
+<b>State Water Area Rank:</b> #99<br><br>
+<b>Year Founded:</b> 1911<br><br>
+<b>NWS Office:</b> Greenville-Spartanburg, SC (GSP)
+</p></div></div>
+<div class="info" >
+<div style="float: left; width: 32%;">
+<p style="font-size:16px">
+<b>County Population:</b> 81,449<br>
+<b>State Population Rank:</b> #34<br>
+<b>County Seat:</b> Lenoir</p>
+<p style="font-size:16px"><b><u>Cities with Population > 10,000:</u></b><br>
+<ul style="font-size:12.5px">
+<li>Lenoir: 18,042
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br></ul>
+</p></div>
+<div style="float: right; width: 32%;">
+<p><b>Mean Annual Severe Weather Days:</b> 30-40<br>
+<ul style="font-size:15px">
+<li>Mean Tornado Days: 1-3
+<li>Mean Damaging Wind Days: 16-26
+<li>Mean Hail Days: 4-8</ul>
+<b>Mean Annual Temperature:</b> 52-57&deg;F<br>
+<b>Mean Annual Precipitation:</b> 53-57"<br><br>
+<b>Highest Elevation:</b> 5920'<br>
+<b>River Basin(s):</b> Catawba, Yadkin-Pee Dee<br>
+<b>Tornadoes since 1950:</b> 8<br>
+</p></div>
+<div algin="center width: 32%;">
+<center><p style="font-size:22px"><b><u>CALDWELL County</u></b></p></center>
+<p style="font-size:16px">
+<b>Land Area:</b> 471.57 sq. mi.<br>
+<b>State Land Area Rank:</b> #48<br><br>
+<b>Water Area:</b> 2.7 sq. mi. / 0.6%<br>
+<b>State Water Area Rank:</b> #74<br><br>
+<b>Year Founded:</b> 1841<br><br>
+<b>NWS Office:</b> Greenville-Spartanburg, SC (GSP)
+</p></div></div>
+<div class="info" >
+<div style="float: left; width: 32%;">
+<p style="font-size:16px">
+<b>County Population:</b> 37,428<br>
+<b>State Population Rank:</b> #65<br>
+<b>County Seat:</b> Taylorsville</p>
+<p style="font-size:16px"><b><u>Cities with Population > 10,000:</u></b><br>
+<ul style="font-size:12.5px">
+<li>None
+<li>Largest City - Taylorsville: 2,063
+<br>
+<br>
+<br>
+<br>
+<br>
+<br></ul>
+</p></div>
+<div style="float: right; width: 32%;">
+<p><b>Mean Annual Severe Weather Days:</b> 34-40<br>
+<ul style="font-size:15px">
+<li>Mean Tornado Days: 2-3
+<li>Mean Damaging Wind Days: 16-24
+<li>Mean Hail Days: 7-10</ul>
+<b>Mean Annual Temperature:</b> 55-60&deg;F<br>
+<b>Mean Annual Precipitation:</b> 46-50"<br><br>
+<b>Highest Elevation:</b> 2564'<br>
+<b>River Basin(s):</b> Catawba, Yadkin-Pee Dee<br>
+<b>Tornadoes since 1950:</b> 6<br>
+</p></div>
+<div algin="center width: 32%;">
+<center><p style="font-size:22px"><b><u>ALEXANDER County</u></b></p></center>
+<p style="font-size:16px">
+<b>Land Area:</b> 259.99 sq. mi.<br>
+<b>State Land Area Rank:</b> #88<br><br>
+<b>Water Area:</b> 3.7 sq. mi. / 1.4%<br>
+<b>State Water Area Rank:</b> #48<br><br>
+<b>Year Founded:</b> 1847<br><br>
+<b>NWS Office:</b> Greenville-Spartanburg, SC (GSP)
+</p></div></div>
+<div class="info" >
+<div style="float: left; width: 32%;">
+<p style="font-size:16px">
+<b>County Population:</b> 172,916<br>
+<b>State Population Rank:</b> #15<br>
+<b>County Seat:</b> Statesville</p>
+<p style="font-size:16px"><b><u>Cities with Population > 10,000:</u></b><br>
+<ul style="font-size:12.5px">
+<li>Mooresville: 36,009
+<li>Statesville: 26,221
+<br>
+<br>
+<br>
+<br>
+<br>
+<br></ul>
+</p></div>
+<div style="float: right; width: 32%;">
+<p><b>Mean Annual Severe Weather Days:</b> 34-40<br>
+<ul style="font-size:15px">
+<li>Mean Tornado Days: 2-3
+<li>Mean Damaging Wind Days: 16-26
+<li>Mean Hail Days: 8-10</ul>
+<b>Mean Annual Temperature:</b> 55-60&deg;F<br>
+<b>Mean Annual Precipitation:</b> 44-48"<br><br>
+<b>Highest Elevation:</b> 1740'<br>
+<b>River Basin(s):</b> Yadkin-Pee Dee, Catawba<br>
+<b>Tornadoes since 1950:</b> 16<br>
+</p></div>
+<div algin="center width: 32%;">
+<center><p style="font-size:22px"><b><u>IREDELL County</u></b></p></center>
+<p style="font-size:16px">
+<b>Land Area:</b> 573.83 sq. mi.<br>
+<b>State Land Area Rank:</b> #26<br><br>
+<b>Water Area:</b> 23 sq. mi. / 3.9%<br>
+<b>State Water Area Rank:</b> #22<br><br>
+<b>Year Founded:</b> 1788<br><br>
+<b>NWS Office:</b> Greenville-Spartanburg, SC (GSP)
+</p></div></div>
+<div class="info" >
+<div style="float: left; width: 32%;">
+<p style="font-size:16px">
+<b>County Population:</b> 139,933<br>
+<b>State Population Rank:</b> #21<br>
+<b>County Seat:</b> Salisbury</p>
+<p style="font-size:16px"><b><u>Cities with Population > 10,000:</u></b><br>
+<ul style="font-size:12.5px">
+<li>Salisbury: 34,017
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br></ul>
+</p></div>
+<div style="float: right; width: 32%;">
+<p><b>Mean Annual Severe Weather Days:</b> 34-40<br>
+<ul style="font-size:15px">
+<li>Mean Tornado Days: 2-3
+<li>Mean Damaging Wind Days: 16-25
+<li>Mean Hail Days: 5-8</ul>
+<b>Mean Annual Temperature:</b> 57-62&deg;F<br>
+<b>Mean Annual Precipitation:</b> 43-47"<br><br>
+<b>Highest Elevation:</b> 1090'<br>
+<b>River Basin(s):</b> Yadkin-Pee Dee<br>
+<b>Tornadoes since 1950:</b> 11<br>
+</p></div>
+<div algin="center width: 32%;">
+<center><p style="font-size:22px"><b><u>ROWAN County</u></b></p></center>
+<p style="font-size:16px">
+<b>Land Area:</b> 511.37 sq. mi.<br>
+<b>State Land Area Rank:</b> #40<br><br>
+<b>Water Area:</b> 12 sq. mi. / 2.4%<br>
+<b>State Water Area Rank:</b> #34<br><br>
+<b>Year Founded:</b> 1753<br><br>
+<b>NWS Office:</b> Greenville-Spartanburg, SC (GSP)
+</p></div></div>
+<div class="info" >
+<div style="float: left; width: 32%;">
+<p style="font-size:16px">
+<b>County Population:</b> 42,013<br>
+<b>State Population Rank:</b> #61<br>
+<b>County Seat:</b> Mocksville</p>
+<p style="font-size:16px"><b><u>Cities with Population > 10,000:</u></b><br>
+<ul style="font-size:12.5px">
+<li>None
+<li>Largest City - Mocksville: 5,131
+<br>
+<br>
+<br>
+<br>
+<br>
+<br></ul>
+</p></div>
+<div style="float: right; width: 32%;">
+<p><b>Mean Annual Severe Weather Days:</b> 22-34<br>
+<ul style="font-size:15px">
+<li>Mean Tornado Days: 2-3
+<li>Mean Damaging Wind Days: 16-25
+<li>Mean Hail Days: 8-9</ul>
+<b>Mean Annual Temperature:</b> 55-60&deg;F<br>
+<b>Mean Annual Precipitation:</b> 44-48"<br><br>
+<b>Highest Elevation:</b> 1010'<br>
+<b>River Basin(s):</b> Yadkin-Pee Dee<br>
+<b>Tornadoes since 1950:</b> 6<br>
+</p></div>
+<div algin="center width: 32%;">
+<center><p style="font-size:22px"><b><u>DAVIE County</u></b></p></center>
+<p style="font-size:16px">
+<b>Land Area:</b> 264.11 sq. mi.<br>
+<b>State Land Area Rank:</b> #86<br><br>
+<b>Water Area:</b> 3.0 sq. mi. / 1.1%<br>
+<b>State Water Area Rank:</b> #54<br><br>
+<b>Year Founded:</b> 1836<br><br>
+<b>NWS Office:</b> Greenville-Spartanburg, SC (GSP)
+</p></div></div>
+<div class="info" >
+<div style="float: left; width: 32%;">
+<p style="font-size:16px">
+<b>County Population:</b> 164,926<br>
+<b>State Population Rank:</b> #16<br>
+<b>County Seat:</b> Lexington</p>
+<p style="font-size:16px"><b><u>Cities with Population > 10,000:</u></b><br>
+<ul style="font-size:12.5px">
+<li>Thomasville: 27,061
+<li>Lexington: 19,326
+<br>
+<br>
+<br>
+<br>
+<br>
+<br></ul>
+</p></div>
+<div style="float: right; width: 32%;">
+<p><b>Mean Annual Severe Weather Days:</b> 22-34<br>
+<ul style="font-size:15px">
+<li>Mean Tornado Days: 1-2
+<li>Mean Damaging Wind Days: 16-25
+<li>Mean Hail Days: 5-8</ul>
+<b>Mean Annual Temperature:</b> 56-61&deg;F<br>
+<b>Mean Annual Precipitation:</b> 44-48"<br><br>
+<b>Highest Elevation:</b> 1188'<br>
+<b>River Basin(s):</b> Yadkin-Pee Dee<br>
+<b>Tornadoes since 1950:</b> 13<br>
+</p></div>
+<div algin="center width: 32%;">
+<center><p style="font-size:22px"><b><u>DAVIDSON County</u></b></p></center>
+<p style="font-size:16px">
+<b>Land Area:</b> 552.68 sq. mi.<br>
+<b>State Land Area Rank:</b> #31<br><br>
+<b>Water Area:</b> 14 sq. mi. / 2.5%<br>
+<b>State Water Area Rank:</b> #31<br><br>
+<b>Year Founded:</b> 1822<br><br>
+<b>NWS Office:</b> Raleigh, NC (RAH)
+</p></div></div>
+<div class="info" >
+<div style="float: left; width: 32%;">
+<p style="font-size:16px">
+<b>County Population:</b> 143,416<br>
+<b>State Population Rank:</b> #19<br>
+<b>County Seat:</b> Asheboro</p>
+<p style="font-size:16px"><b><u>Cities with Population > 10,000:</u></b><br>
+<ul style="font-size:12.5px">
+<li>Asheboro: 26,103
+<li>Archdale: 11,564
+<br>
+<br>
+<br>
+<br>
+<br>
+<br></ul>
+</p></div>
+<div style="float: right; width: 32%;">
+<p><b>Mean Annual Severe Weather Days:</b> 22-34<br>
+<ul style="font-size:15px">
+<li>Mean Tornado Days: 1-2
+<li>Mean Damaging Wind Days: 16-25
+<li>Mean Hail Days: 5-8</ul>
+<b>Mean Annual Temperature:</b> 55-60&deg;F<br>
+<b>Mean Annual Precipitation:</b> 44-48"<br><br>
+<b>Highest Elevation:</b> 1150'<br>
+<b>River Basin(s):</b> Cape Fear, Yadkin-Pee Dee<br>
+<b>Tornadoes since 1950:</b> 16<br>
+</p></div>
+<div algin="center width: 32%;">
+<center><p style="font-size:22px"><b><u>RANDOLPH County</u></b></p></center>
+<p style="font-size:16px">
+<b>Land Area:</b> 782.52 sq. mi.<br>
+<b>State Land Area Rank:</b> #11<br><br>
+<b>Water Area:</b> 6.8 sq. mi. / 0.9%<br>
+<b>State Water Area Rank:</b> #60<br><br>
+<b>Year Founded:</b> 1779<br><br>
+<b>NWS Office:</b> Raleigh, NC (RAH)
+</p></div></div>
+<div class="info" >
+<div style="float: left; width: 32%;">
+<p style="font-size:16px">
+<b>County Population:</b> 72,243<br>
+<b>State Population Rank:</b> #36<br>
+<b>County Seat:</b> Pittsboro</p>
+<p style="font-size:16px"><b><u>Cities with Population > 10,000:</u></b><br>
+<ul style="font-size:12.5px">
+<li>None
+<li>Largest City - Siler City: 8,169
+<br>
+<br>
+<br>
+<br>
+<br>
+<br></ul>
+</p></div>
+<div style="float: right; width: 32%;">
+<p><b>Mean Annual Severe Weather Days:</b> 22-27<br>
+<ul style="font-size:15px">
+<li>Mean Tornado Days: 1-2
+<li>Mean Damaging Wind Days: 16-18
+<li>Mean Hail Days: 5-7</ul>
+<b>Mean Annual Temperature:</b> 55-60&deg;F<br>
+<b>Mean Annual Precipitation:</b> 46-50"<br><br>
+<b>Highest Elevation:</b> 774'<br>
+<b>River Basin(s):</b> Cape Fear<br>
+<b>Tornadoes since 1950:</b> 10<br>
+</p></div>
+<div algin="center width: 32%;">
+<center><p style="font-size:22px"><b><u>CHATHAM County</u></b></p></center>
+<p style="font-size:16px">
+<b>Land Area:</b> 682.19 sq. mi.<br>
+<b>State Land Area Rank:</b> #18<br><br>
+<b>Water Area:</b> 28 sq. mi. / 3.9%<br>
+<b>State Water Area Rank:</b> #22<br><br>
+<b>Year Founded:</b> 1771<br><br>
+<b>NWS Office:</b> Raleigh, NC (RAH)
+</p></div></div>
+<div class="info" >
+<div style="float: left; width: 32%;">
+<p style="font-size:16px">
+<b>County Population:</b> 81,661<br>
+<b>State Population Rank:</b> #33<br>
+<b>County Seat:</b> Wilson</p>
+<p style="font-size:16px"><b><u>Cities with Population > 10,000:</u></b><br>
+<ul style="font-size:12.5px">
+<li>Wilson: 49,643
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br></ul>
+</p></div>
+<div style="float: right; width: 32%;">
+<p><b>Mean Annual Severe Weather Days:</b> 25-27<br>
+<ul style="font-size:15px">
+<li>Mean Tornado Days: 2-3
+<li>Mean Damaging Wind Days: 15-18
+<li>Mean Hail Days: 6-7</ul>
+<b>Mean Annual Temperature:</b> 59-64&deg;F<br>
+<b>Mean Annual Precipitation:</b> 45-49"<br><br>
+<b>Highest Elevation:</b> 320'<br>
+<b>River Basin(s):</b> Neuse, Tar-Pamlico<br>
+<b>Tornadoes since 1950:</b> 16<br>
+</p></div>
+<div algin="center width: 32%;">
+<center><p style="font-size:22px"><b><u>WILSON County</u></b></p></center>
+<p style="font-size:16px">
+<b>Land Area:</b> 368.17 sq. mi.<br>
+<b>State Land Area Rank:</b> #71<br><br>
+<b>Water Area:</b> 5.6 sq. mi. / 1.5%<br>
+<b>State Water Area Rank:</b> #44<br><br>
+<b>Year Founded:</b> 1855<br><br>
+<b>NWS Office:</b> Raleigh, NC (RAH)
+</p></div></div>
+<div class="info" >
+<div style="float: left; width: 32%;">
+<p style="font-size:16px">
+<b>County Population:</b> 177,220<br>
+<b>State Population Rank:</b> #14<br>
+<b>County Seat:</b> Greenville</p>
+<p style="font-size:16px"><b><u>Cities with Population > 10,000:</u></b><br>
+<ul style="font-size:12.5px">
+<li>Greenville: 90,597
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br></ul>
+</p></div>
+<div style="float: right; width: 32%;">
+<p><b>Mean Annual Severe Weather Days:</b> 17-25<br>
+<ul style="font-size:15px">
+<li>Mean Tornado Days: 3-4
+<li>Mean Damaging Wind Days: 4-15
+<li>Mean Hail Days: 2-6</ul>
+<b>Mean Annual Temperature:</b> 59-64&deg;F<br>
+<b>Mean Annual Precipitation:</b> 48-52"<br><br>
+<b>Highest Elevation:</b> 127'<br>
+<b>River Basin(s):</b> Tar-Pamlico, Neuse<br>
+<b>Tornadoes since 1950:</b> 33<br>
+</p></div>
+<div algin="center width: 32%;">
+<center><p style="font-size:22px"><b><u>PITT County</u></b></p></center>
+<p style="font-size:16px">
+<b>Land Area:</b> 651.98 sq. mi.<br>
+<b>State Land Area Rank:</b> #21<br><br>
+<b>Water Area:</b> 2.9 sq. mi. / 0.4%<br>
+<b>State Water Area Rank:</b> #84<br><br>
+<b>Year Founded:</b> 1762<br><br>
+<b>NWS Office:</b> Newport/Morehead City, NC (MHX)
+</p></div></div>
+<div class="info" >
+<div style="float: left; width: 32%;">
+<p style="font-size:16px">
+<b>County Population:</b> 47,526<br>
+<b>State Population Rank:</b> #55<br>
+<b>County Seat:</b> Washington</p>
+<p style="font-size:16px"><b><u>Cities with Population > 10,000:</u></b><br>
+<ul style="font-size:12.5px">
+<li>None
+<li>Largest City - Washington: 9,811
+<br>
+<br>
+<br>
+<br>
+<br>
+<br></ul>
+</p></div>
+<div style="float: right; width: 32%;">
+<p><b>Mean Annual Severe Weather Days:</b> 9-25<br>
+<ul style="font-size:15px">
+<li>Mean Tornado Days: 2-3
+<li>Mean Damaging Wind Days: 4-15
+<li>Mean Hail Days: 2-6</ul>
+<b>Mean Annual Temperature:</b> 60-65&deg;F<br>
+<b>Mean Annual Precipitation:</b> 48-52"<br><br>
+<b>Highest Elevation:</b> 66'<br>
+<b>River Basin(s):</b> Tar-Pamlico, Neuse<br>
+<b>Tornadoes since 1950:</b> 34<br>
+</p></div>
+<div algin="center width: 32%;">
+<center><p style="font-size:22px"><b><u>BEAUFORT County</u></b></p></center>
+<p style="font-size:16px">
+<b>Land Area:</b> 827.19 sq. mi.<br>
+<b>State Land Area Rank:</b> #8<br><br>
+<b>Water Area:</b> 131 sq. mi. / 14.0%<br>
+<b>State Water Area Rank:</b> #15<br><br>
+<b>Year Founded:</b> 1705<br><br>
+<b>NWS Office:</b> Newport/Morehead City, NC (MHX)
+</p></div></div>
+<div class="info" >
+<div style="float: left; width: 32%;">
+<p style="font-size:16px">
+<b>County Population:</b> 5,517<br>
+<b>State Population Rank:</b> #99<br>
+<b>County Seat:</b> Swan Quarter</p>
+<p style="font-size:16px"><b><u>Cities with Population > 10,000:</u></b><br>
+<ul style="font-size:12.5px">
+<li>None
+<li>Largest City - Swan Quarter: 324
+<br>
+<br>
+<br>
+<br>
+<br>
+<br></ul>
+</p></div>
+<div style="float: right; width: 32%;">
+<p><b>Mean Annual Severe Weather Days:</b> 5-9<br>
+<ul style="font-size:15px">
+<li>Mean Tornado Days: 1-2
+<li>Mean Damaging Wind Days: 4-12
+<li>Mean Hail Days: 1-2</ul>
+<b>Mean Annual Temperature:</b> 60-65&deg;F<br>
+<b>Mean Annual Precipitation:</b> 51-55"<br><br>
+<b>Highest Elevation:</b> 27'<br>
+<b>River Basin(s):</b> Tar-Pamlico, Pasquotank<br>
+<b>Tornadoes since 1950:</b> 19<br>
+</p></div>
+<div algin="center width: 32%;">
+<center><p style="font-size:22px"><b><u>HYDE County</u></b></p></center>
+<p style="font-size:16px">
+<b>Land Area:</b> 612.70 sq. mi.<br>
+<b>State Land Area Rank:</b> #24<br><br>
+<b>Water Area:</b> 811 sq. mi. / 57.0%<br>
+<b>State Water Area Rank:</b> #3<br><br>
+<b>Year Founded:</b> 1705<br><br>
+<b>NWS Office:</b> Newport/Morehead City, NC (MHX)
+</p></div></div>
+<div class="info" >
+<div style="float: left; width: 32%;">
+<p style="font-size:16px">
+<b>County Population:</b> 21,340<br>
+<b>State Population Rank:</b> #79<br>
+<b>County Seat:</b> Marshall</p>
+<p style="font-size:16px"><b><u>Cities with Population > 10,000:</u></b><br>
+<ul style="font-size:12.5px">
+<li>None
+<li>Largest City - Mars Hill: 2,145
+<br>
+<br>
+<br>
+<br>
+<br>
+<br></ul>
+</p></div>
+<div style="float: right; width: 32%;">
+<p><b>Mean Annual Severe Weather Days:</b> 28-30<br>
+<ul style="font-size:15px">
+<li>Mean Tornado Days: 0-1
+<li>Mean Damaging Wind Days: 20-21
+<li>Mean Hail Days: 5-8</ul>
+<b>Mean Annual Temperature:</b> 51-56&deg;F<br>
+<b>Mean Annual Precipitation:</b> 42-46"<br><br>
+<b>Highest Elevation:</b> 5152'<br>
+<b>River Basin(s):</b> French Broad<br>
+<b>Tornadoes since 1950:</b> 5<br>
+</p></div>
+<div algin="center width: 32%;">
+<center><p style="font-size:22px"><b><u>MADISON County</u></b></p></center>
+<p style="font-size:16px">
+<b>Land Area:</b> 449.57 sq. mi.<br>
+<b>State Land Area Rank:</b> #53<br><br>
+<b>Water Area:</b> 1.9 sq. mi. / 0.4%<br>
+<b>State Water Area Rank:</b> #84<br><br>
+<b>Year Founded:</b> 1851<br><br>
+<b>NWS Office:</b> Greenville-Spartanburg, SC (GSP)
+</p></div></div>
+<div class="info" >
+<div style="float: left; width: 32%;">
+<p style="font-size:16px">
+<b>County Population:</b> 17,678<br>
+<b>State Population Rank:</b> #85<br>
+<b>County Seat:</b> Burnsville</p>
+<p style="font-size:16px"><b><u>Cities with Population > 10,000:</u></b><br>
+<ul style="font-size:12.5px">
+<li>None
+<li>Largest City - Burnsville: 1,669
+<br>
+<br>
+<br>
+<br>
+<br>
+<br></ul>
+</p></div>
+<div style="float: right; width: 32%;">
+<p><b>Mean Annual Severe Weather Days:</b> 25-30<br>
+<ul style="font-size:15px">
+<li>Mean Tornado Days: 0-1
+<li>Mean Damaging Wind Days: 16-21
+<li>Mean Hail Days: 8-10</ul>
+<b>Mean Annual Temperature:</b> 46-51&deg;F<br>
+<b>Mean Annual Precipitation:</b> 57-61"<br><br>
+<b>Highest Elevation:</b> 6684' (Mt. Mitchell)<br>
+<b>River Basin(s):</b> French Broad<br>
+<b>Tornadoes since 1950:</b> 2<br>
+</p></div>
+<div algin="center width: 32%;">
+<center><p style="font-size:22px"><b><u>YANCEY County</u></b></p></center>
+<p style="font-size:16px">
+<b>Land Area:</b> 312.60 sq. mi.<br>
+<b>State Land Area Rank:</b> #80<br><br>
+<b>Water Area:</b> 0.6 sq. mi. / 0.2%<br>
+<b>State Water Area Rank:</b> #94<br><br>
+<b>Year Founded:</b> 1833<br><br>
+<b>NWS Office:</b> Greenville-Spartanburg, SC (GSP)
+</p></div></div>
+<div class="info" >
+<div style="float: left; width: 32%;">
+<p style="font-size:16px">
+<b>County Population:</b> 15,126<br>
+<b>State Population Rank:</b> #87<br>
+<b>County Seat:</b> Bakersville</p>
+<p style="font-size:16px"><b><u>Cities with Population > 10,000:</u></b><br>
+<ul style="font-size:12.5px">
+<li>None
+<li>Largest City - Spruce Pine: 2,123
+<br>
+<br>
+<br>
+<br>
+<br>
+<br></ul>
+</p></div>
+<div style="float: right; width: 32%;">
+<p><b>Mean Annual Severe Weather Days:</b> 25-30<br>
+<ul style="font-size:15px">
+<li>Mean Tornado Days: 0-1
+<li>Mean Damaging Wind Days: 16-21
+<li>Mean Hail Days: 5-8</ul>
+<b>Mean Annual Temperature:</b> 50-55&deg;F<br>
+<b>Mean Annual Precipitation:</b> 48-52"<br><br>
+<b>Highest Elevation:</b> 6285'<br>
+<b>River Basin(s):</b> French Broad<br>
+<b>Tornadoes since 1950:</b> 0<br>
+</p></div>
+<div algin="center width: 32%;">
+<center><p style="font-size:22px"><b><u>MITCHELL County</u></b></p></center>
+<p style="font-size:16px">
+<b>Land Area:</b> 221.43 sq. mi.<br>
+<b>State Land Area Rank:</b> #97<br><br>
+<b>Water Area:</b> 0.7 sq. mi. / 0.3%<br>
+<b>State Water Area Rank:</b> #88<br><br>
+<b>Year Founded:</b> 1861<br><br>
+<b>NWS Office:</b> Greenville-Spartanburg, SC (GSP)
+</p></div></div>
+<div class="info" >
+<div style="float: left; width: 32%;">
+<p style="font-size:16px">
+<b>County Population:</b> 88,851<br>
+<b>State Population Rank:</b> #32<br>
+<b>County Seat:</b> Morganton</p>
+<p style="font-size:16px"><b><u>Cities with Population > 10,000:</u></b><br>
+<ul style="font-size:12.5px">
+<li>Morganton: 16,692
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br></ul>
+</p></div>
+<div style="float: right; width: 32%;">
+<p><b>Mean Annual Severe Weather Days:</b> 23-40<br>
+<ul style="font-size:15px">
+<li>Mean Tornado Days: 1-3
+<li>Mean Damaging Wind Days: 21-26
+<li>Mean Hail Days: 5-8</ul>
+<b>Mean Annual Temperature:</b> 54-59&deg;F<br>
+<b>Mean Annual Precipitation:</b> 49-53"<br><br>
+<b>Highest Elevation:</b> 4280'<br>
+<b>River Basin(s):</b> Catawba<br>
+<b>Tornadoes since 1950:</b> 7<br>
+</p></div>
+<div algin="center width: 32%;">
+<center><p style="font-size:22px"><b><u>BURKE County</u></b></p></center>
+<p style="font-size:16px">
+<b>Land Area:</b> 507.10 sq. mi.<br>
+<b>State Land Area Rank:</b> #41<br><br>
+<b>Water Area:</b> 8 sq. mi. / 1.5%<br>
+<b>State Water Area Rank:</b> #44<br><br>
+<b>Year Founded:</b> 1777<br><br>
+<b>NWS Office:</b> Greenville-Spartanburg, SC (GSP)
+</p></div></div>
+<div class="info" >
+<div style="float: left; width: 32%;">
+<p style="font-size:16px">
+<b>County Population:</b> 156,459<br>
+<b>State Population Rank:</b> #18<br>
+<b>County Seat:</b> Newton</p>
+<p style="font-size:16px"><b><u>Cities with Population > 10,000:</u></b><br>
+<ul style="font-size:12.5px">
+<li>Hickory: 40,374
+<li>Newton: 13,035
+<br>
+<br>
+<br>
+<br>
+<br>
+<br></ul>
+</p></div>
+<div style="float: right; width: 32%;">
+<p><b>Mean Annual Severe Weather Days:</b> 34-40<br>
+<ul style="font-size:15px">
+<li>Mean Tornado Days: 2-3
+<li>Mean Damaging Wind Days: 21-26
+<li>Mean Hail Days: 8-10</ul>
+<b>Mean Annual Temperature:</b> 55-60&deg;F<br>
+<b>Mean Annual Precipitation:</b> 45-49"<br><br>
+<b>Highest Elevation:</b> 1780'<br>
+<b>River Basin(s):</b> Catawba<br>
+<b>Tornadoes since 1950:</b> 15<br>
+</p></div>
+<div algin="center width: 32%;">
+<center><p style="font-size:22px"><b><u>CATAWBA County</u></b></p></center>
+<p style="font-size:16px">
+<b>Land Area:</b> 398.72 sq. mi.<br>
+<b>State Land Area Rank:</b> #62<br><br>
+<b>Water Area:</b> 15 sq. mi. / 3.6%<br>
+<b>State Water Area Rank:</b> #24<br><br>
+<b>Year Founded:</b> 1842<br><br>
+<b>NWS Office:</b> Greenville-Spartanburg, SC (GSP)
+</p></div></div>
+<div class="info" >
+<div style="float: left; width: 32%;">
+<p style="font-size:16px">
+<b>County Population:</b> 81,168<br>
+<b>State Population Rank:</b> #35<br>
+<b>County Seat:</b> Lincolnton</p>
+<p style="font-size:16px"><b><u>Cities with Population > 10,000:</u></b><br>
+<ul style="font-size:12.5px">
+<li>Lincolnton: 10,900
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br></ul>
+</p></div>
+<div style="float: right; width: 32%;">
+<p><b>Mean Annual Severe Weather Days:</b> 34-40<br>
+<ul style="font-size:15px">
+<li>Mean Tornado Days: 2-3
+<li>Mean Damaging Wind Days: 21-26
+<li>Mean Hail Days: 7-10</ul>
+<b>Mean Annual Temperature:</b> 55-60&deg;F<br>
+<b>Mean Annual Precipitation:</b> 45-49"<br><br>
+<b>Highest Elevation:</b> 1480'<br>
+<b>River Basin(s):</b> Catawba, Broad<br>
+<b>Tornadoes since 1950:</b> 19<br>
+</p></div>
+<div algin="center width: 32%;">
+<center><p style="font-size:22px"><b><u>LINCOLN County</u></b></p></center>
+<p style="font-size:16px">
+<b>Land Area:</b> 297.94 sq. mi.<br>
+<b>State Land Area Rank:</b> #82<br><br>
+<b>Water Area:</b> 9.1 sq. mi. / 3.0%<br>
+<b>State Water Area Rank:</b> #27<br><br>
+<b>Year Founded:</b> 1779<br><br>
+<b>NWS Office:</b> Greenville-Spartanburg, SC (GSP)
+</p></div></div>
+<div class="info" >
+<div style="float: left; width: 32%;">
+<p style="font-size:16px">
+<b>County Population:</b> 216,965<br>
+<b>State Population Rank:</b> #10<br>
+<b>County Seat:</b> Gastonia</p>
+<p style="font-size:16px"><b><u>Cities with Population > 10,000:</u></b><br>
+<ul style="font-size:12.5px">
+<li>Gastonia: 74,543
+<li>Mount Holly: 14,176
+<li>Belmont: 10,533
+<br>
+<br>
+<br>
+<br>
+<br></ul>
+</p></div>
+<div style="float: right; width: 32%;">
+<p><b>Mean Annual Severe Weather Days:</b> 30-40<br>
+<ul style="font-size:15px">
+<li>Mean Tornado Days: 2-3
+<li>Mean Damaging Wind Days: 25-26
+<li>Mean Hail Days: 8-10</ul>
+<b>Mean Annual Temperature:</b> 56-61&deg;F<br>
+<b>Mean Annual Precipitation:</b> 44-48"<br><br>
+<b>Highest Elevation:</b> 1690'<br>
+<b>River Basin(s):</b> Catawba<br>
+<b>Tornadoes since 1950:</b> 15<br>
+</p></div>
+<div algin="center width: 32%;">
+<center><p style="font-size:22px"><b><u>GASTON County</u></b></p></center>
+<p style="font-size:16px">
+<b>Land Area:</b> 356.03 sq. mi.<br>
+<b>State Land Area Rank:</b> #73<br><br>
+<b>Water Area:</b> 8.1 sq. mi. / 2.2%<br>
+<b>State Water Area Rank:</b> #38<br><br>
+<b>Year Founded:</b> 1846<br><br>
+<b>NWS Office:</b> Greenville-Spartanburg, SC (GSP)
+</p></div></div>
+<div class="info" >
+<div style="float: left; width: 32%;">
+<p style="font-size:16px">
+<b>County Population:</b> 97,144<br>
+<b>State Population Rank:</b> #28<br>
+<b>County Seat:</b> Shelby</p>
+<p style="font-size:16px"><b><u>Cities with Population > 10,000:</u></b><br>
+<ul style="font-size:12.5px">
+<li>Shelby: 20,940
+<li>Kings Mountain: 10,760
+<br>
+<br>
+<br>
+<br>
+<br>
+<br></ul>
+</p></div>
+<div style="float: right; width: 32%;">
+<p><b>Mean Annual Severe Weather Days:</b> 30-38<br>
+<ul style="font-size:15px">
+<li>Mean Tornado Days: 2-3
+<li>Mean Damaging Wind Days: 21-26
+<li>Mean Hail Days: 7-10</ul>
+<b>Mean Annual Temperature:</b> 55-60&deg;F<br>
+<b>Mean Annual Precipitation:</b> 48-52"<br><br>
+<b>Highest Elevation:</b> 2880'<br>
+<b>River Basin(s):</b> Broad<br>
+<b>Tornadoes since 1950:</b> 20<br>
+</p></div>
+<div algin="center width: 32%;">
+<center><p style="font-size:22px"><b><u>CLEVELAND County</u></b></p></center>
+<p style="font-size:16px">
+<b>Land Area:</b> 464.26 sq. mi.<br>
+<b>State Land Area Rank:</b> #50<br><br>
+<b>Water Area:</b> 4 sq. mi. / 0.9%<br>
+<b>State Water Area Rank:</b> #60<br><br>
+<b>Year Founded:</b> 1841<br><br>
+<b>NWS Office:</b> Greenville-Spartanburg, SC (GSP)
+</p></div></div>
+<div class="info" >
+<div style="float: left; width: 32%;">
+<p style="font-size:16px">
+<b>County Population:</b> 66,421<br>
+<b>State Population Rank:</b> #40<br>
+<b>County Seat:</b> Rutherfordton</p>
+<p style="font-size:16px"><b><u>Cities with Population > 10,000:</u></b><br>
+<ul style="font-size:12.5px">
+<li>None
+<li>Largest City - Forest City: 7,404
+<br>
+<br>
+<br>
+<br>
+<br>
+<br></ul>
+</p></div>
+<div style="float: right; width: 32%;">
+<p><b>Mean Annual Severe Weather Days:</b> 30-40<br>
+<ul style="font-size:15px">
+<li>Mean Tornado Days: 1-3
+<li>Mean Damaging Wind Days: 21-26
+<li>Mean Hail Days: 8-10</ul>
+<b>Mean Annual Temperature:</b> 55-60&deg;F<br>
+<b>Mean Annual Precipitation:</b> 49-53"<br><br>
+<b>Highest Elevation:</b> 3965'<br>
+<b>River Basin(s):</b> Broad<br>
+<b>Tornadoes since 1950:</b> 8<br>
+</p></div>
+<div algin="center width: 32%;">
+<center><p style="font-size:22px"><b><u>RUTHERFORD County</u></b></p></center>
+<p style="font-size:16px">
+<b>Land Area:</b> 564.15 sq. mi.<br>
+<b>State Land Area Rank:</b> #28<br><br>
+<b>Water Area:</b> 1.7 sq. mi. / 0.3%<br>
+<b>State Water Area Rank:</b> #88<br><br>
+<b>Year Founded:</b> 1779<br><br>
+<b>NWS Office:</b> Greenville-Spartanburg, SC (GSP)
+</p></div></div>
+<div class="info" >
+<div style="float: left; width: 32%;">
+<p style="font-size:16px">
+<b>County Population:</b> 45,075<br>
+<b>State Population Rank:</b> #57<br>
+<b>County Seat:</b> Marion</p>
+<p style="font-size:16px"><b><u>Cities with Population > 10,000:</u></b><br>
+<ul style="font-size:12.5px">
+<li>None
+<li>Largest City - Marion: 7,930
+<br>
+<br>
+<br>
+<br>
+<br>
+<br></ul>
+</p></div>
+<div style="float: right; width: 32%;">
+<p><b>Mean Annual Severe Weather Days:</b> 23-30<br>
+<ul style="font-size:15px">
+<li>Mean Tornado Days: 1-3
+<li>Mean Damaging Wind Days: 21-26
+<li>Mean Hail Days: 7-10</ul>
+<b>Mean Annual Temperature:</b> 53-58&deg;F<br>
+<b>Mean Annual Precipitation:</b> 55-59"<br><br>
+<b>Highest Elevation:</b> 5665'<br>
+<b>River Basin(s):</b> Catawba, Broad<br>
+<b>Tornadoes since 1950:</b> 4<br>
+</p></div>
+<div algin="center width: 32%;">
+<center><p style="font-size:22px"><b><u>MCDOWELL County</u></b></p></center>
+<p style="font-size:16px">
+<b>Land Area:</b> 440.61 sq. mi.<br>
+<b>State Land Area Rank:</b> #55<br><br>
+<b>Water Area:</b> 5.4 sq. mi. / 1.2%<br>
+<b>State Water Area Rank:</b> #52<br><br>
+<b>Year Founded:</b> 1842<br><br>
+<b>NWS Office:</b> Greenville-Spartanburg, SC (GSP)
+</p></div></div>
+<div class="info" >
+<div style="float: left; width: 32%;">
+<p style="font-size:16px">
+<b>County Population:</b> 20,334<br>
+<b>State Population Rank:</b> #81<br>
+<b>County Seat:</b> Columbus</p>
+<p style="font-size:16px"><b><u>Cities with Population > 10,000:</u></b><br>
+<ul style="font-size:12.5px">
+<li>None
+<li>Largest City - Tryon: 1,638
+<br>
+<br>
+<br>
+<br>
+<br>
+<br></ul>
+</p></div>
+<div style="float: right; width: 32%;">
+<p><b>Mean Annual Severe Weather Days:</b> 28-30<br>
+<ul style="font-size:15px">
+<li>Mean Tornado Days: 0-1
+<li>Mean Damaging Wind Days: 21-25
+<li>Mean Hail Days: 7-10</ul>
+<b>Mean Annual Temperature:</b> 55-60&deg;F<br>
+<b>Mean Annual Precipitation:</b> 56-60"<br><br>
+<b>Highest Elevation:</b> 3280'<br>
+<b>River Basin(s):</b> Broad<br>
+<b>Tornadoes since 1950:</b> 2<br>
+</p></div>
+<div algin="center width: 32%;">
+<center><p style="font-size:22px"><b><u>POLK County</u></b></p></center>
+<p style="font-size:16px">
+<b>Land Area:</b> 237.79 sq. mi.<br>
+<b>State Land Area Rank:</b> #94<br><br>
+<b>Water Area:</b> 0.7 sq. mi. / 0.3%<br>
+<b>State Water Area Rank:</b> #88<br><br>
+<b>Year Founded:</b> 1855<br><br>
+<b>NWS Office:</b> Greenville-Spartanburg, SC (GSP)
+</p></div></div>
+<div class="info" >
+<div style="float: left; width: 32%;">
+<p style="font-size:16px">
+<b>County Population:</b> 114,209<br>
+<b>State Population Rank:</b> #26<br>
+<b>County Seat:</b> Hendersonville</p>
+<p style="font-size:16px"><b><u>Cities with Population > 10,000:</u></b><br>
+<ul style="font-size:12.5px">
+<li>Hendersonville: 13,814
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br></ul>
+</p></div>
+<div style="float: right; width: 32%;">
+<p><b>Mean Annual Severe Weather Days:</b> 30-38<br>
+<ul style="font-size:15px">
+<li>Mean Tornado Days: 1-2
+<li>Mean Damaging Wind Days: 21-26
+<li>Mean Hail Days: 8-10</ul>
+<b>Mean Annual Temperature:</b> 52-57&deg;F<br>
+<b>Mean Annual Precipitation:</b> 59-63"<br><br>
+<b>Highest Elevation:</b> 5280'<br>
+<b>River Basin(s):</b> French Broad, Broad<br>
+<b>Tornadoes since 1950:</b> 3<br>
+</p></div>
+<div algin="center width: 32%;">
+<center><p style="font-size:22px"><b><u>HENDERSON County</u></b></p></center>
+<p style="font-size:16px">
+<b>Land Area:</b> 373.07 sq. mi.<br>
+<b>State Land Area Rank:</b> #70<br><br>
+<b>Water Area:</b> 2.2 sq. mi. / 0.6%<br>
+<b>State Water Area Rank:</b> #74<br><br>
+<b>Year Founded:</b> 1838<br><br>
+<b>NWS Office:</b> Greenville-Spartanburg, SC (GSP)
+</p></div></div>
+<div class="info" >
+<div style="float: left; width: 32%;">
+<p style="font-size:16px">
+<b>County Population:</b> 256,088<br>
+<b>State Population Rank:</b> #7<br>
+<b>County Seat:</b> Asheville</p>
+<p style="font-size:16px"><b><u>Cities with Population > 10,000:</u></b><br>
+<ul style="font-size:12.5px">
+<li>Asheville: 88,512
+<li>Arden (Uninc. Comm. 2000): 16,042
+<br>
+<br>
+<br>
+<br>
+<br>
+<br></ul>
+</p></div>
+<div style="float: right; width: 32%;">
+<p><b>Mean Annual Severe Weather Days:</b> 25-30<br>
+<ul style="font-size:15px">
+<li>Mean Tornado Days: 0-1
+<li>Mean Damaging Wind Days: 21-26
+<li>Mean Hail Days: 5-8</ul>
+<b>Mean Annual Temperature:</b> 50-55&deg;F<br>
+<b>Mean Annual Precipitation:</b> 41-45"<br><br>
+<b>Highest Elevation:</b> 6400'<br>
+<b>River Basin(s):</b> French Broad, Broad<br>
+<b>Tornadoes since 1950:</b> 6<br>
+</p></div>
+<div algin="center width: 32%;">
+<center><p style="font-size:22px"><b><u>BUNCOMBE County</u></b></p></center>
+<p style="font-size:16px">
+<b>Land Area:</b> 656.67 sq. mi.<br>
+<b>State Land Area Rank:</b> #19<br><br>
+<b>Water Area:</b> 3.5 sq. mi. / 0.5%<br>
+<b>State Water Area Rank:</b> #79<br><br>
+<b>Year Founded:</b> 1791<br><br>
+<b>NWS Office:</b> Greenville-Spartanburg, SC (GSP)
+</p></div></div>
+<div class="info" >
+<div style="float: left; width: 32%;">
+<p style="font-size:16px">
+<b>County Population:</b> 60,682<br>
+<b>State Population Rank:</b> #44<br>
+<b>County Seat:</b> Waynesville</p>
+<p style="font-size:16px"><b><u>Cities with Population > 10,000:</u></b><br>
+<ul style="font-size:12.5px">
+<li>None
+<li>Largest City - Waynesville: 9,739
+<br>
+<br>
+<br>
+<br>
+<br>
+<br></ul>
+</p></div>
+<div style="float: right; width: 32%;">
+<p><b>Mean Annual Severe Weather Days:</b> 28-30<br>
+<ul style="font-size:15px">
+<li>Mean Tornado Days: 0-1
+<li>Mean Damaging Wind Days: 16-21
+<li>Mean Hail Days: 4-8</ul>
+<b>Mean Annual Temperature:</b> 50-55&deg;F<br>
+<b>Mean Annual Precipitation:</b> 44-48"<br><br>
+<b>Highest Elevation:</b> 6621'<br>
+<b>River Basin(s):</b> French Broad<br>
+<b>Tornadoes since 1950:</b> 2<br>
+</p></div>
+<div algin="center width: 32%;">
+<center><p style="font-size:22px"><b><u>HAYWOOD County</u></b></p></center>
+<p style="font-size:16px">
+<b>Land Area:</b> 553.69 sq. mi.<br>
+<b>State Land Area Rank:</b> #29<br><br>
+<b>Water Area:</b> 0.9 sq. mi. / 0.2%<br>
+<b>State Water Area Rank:</b> #94<br><br>
+<b>Year Founded:</b> 1808<br><br>
+<b>NWS Office:</b> Greenville-Spartanburg, SC (GSP)
+</p></div></div>
+<div class="info" >
+<div style="float: left; width: 32%;">
+<p style="font-size:16px">
+<b>County Population:</b> 33,482<br>
+<b>State Population Rank:</b> #70<br>
+<b>County Seat:</b> Brevard</p>
+<p style="font-size:16px"><b><u>Cities with Population > 10,000:</u></b><br>
+<ul style="font-size:12.5px">
+<li>None
+<li>Largest City - Brevard: 7,645
+<br>
+<br>
+<br>
+<br>
+<br>
+<br></ul>
+</p></div>
+<div style="float: right; width: 32%;">
+<p><b>Mean Annual Severe Weather Days:</b> 30-38<br>
+<ul style="font-size:15px">
+<li>Mean Tornado Days: 0-1
+<li>Mean Damaging Wind Days: 18-22
+<li>Mean Hail Days: 8-10</ul>
+<b>Mean Annual Temperature:</b> 50-55&deg;F<br>
+<b>Mean Annual Precipitation:</b> 68-72"<br><br>
+<b>Highest Elevation:</b> 6000'<br>
+<b>River Basin(s):</b> French Broad, Savannah<br>
+<b>Tornadoes since 1950:</b> 3<br>
+</p></div>
+<div algin="center width: 32%;">
+<center><p style="font-size:22px"><b><u>TRANSYLVANIA County</u></b></p></center>
+<p style="font-size:16px">
+<b>Land Area:</b> 378.53 sq. mi.<br>
+<b>State Land Area Rank:</b> #69<br><br>
+<b>Water Area:</b> 2.0 sq. mi. / 0.5%<br>
+<b>State Water Area Rank:</b> #79<br><br>
+<b>Year Founded:</b> 1861<br><br>
+<b>NWS Office:</b> Greenville-Spartanburg, SC (GSP)
+</p></div></div>
+<div class="info" >
+<div style="float: left; width: 32%;">
+<p style="font-size:16px">
+<b>County Population:</b> 42,241<br>
+<b>State Population Rank:</b> #60<br>
+<b>County Seat:</b> Sylva</p>
+<p style="font-size:16px"><b><u>Cities with Population > 10,000:</u></b><br>
+<ul style="font-size:12.5px">
+<li>None
+<li>Largest City - Sylva: 2,603
+<br>
+<br>
+<br>
+<br>
+<br>
+<br></ul>
+</p></div>
+<div style="float: right; width: 32%;">
+<p><b>Mean Annual Severe Weather Days:</b> 30-38<br>
+<ul style="font-size:15px">
+<li>Mean Tornado Days: 0-1
+<li>Mean Damaging Wind Days: 18-22
+<li>Mean Hail Days: 5-9</ul>
+<b>Mean Annual Temperature:</b> 51-56&deg;F<br>
+<b>Mean Annual Precipitation:</b> 58-62"<br><br>
+<b>Highest Elevation:</b> 6410'<br>
+<b>River Basin(s):</b> Little Tennessee, Savannah<br>
+<b>Tornadoes since 1950:</b> 3<br>
+</p></div>
+<div algin="center width: 32%;">
+<center><p style="font-size:22px"><b><u>JACKSON County</u></b></p></center>
+<p style="font-size:16px">
+<b>Land Area:</b> 490.76 sq. mi.<br>
+<b>State Land Area Rank:</b> #46<br><br>
+<b>Water Area:</b> 3.8 sq. mi. / 0.8%<br>
+<b>State Water Area Rank:</b> #65<br><br>
+<b>Year Founded:</b> 1851<br><br>
+<b>NWS Office:</b> Greenville-Spartanburg, SC (GSP)
+</p></div></div>
+<div class="info" >
+<div style="float: left; width: 32%;">
+<p style="font-size:16px">
+<b>County Population:</b> 34,376<br>
+<b>State Population Rank:</b> #68<br>
+<b>County Seat:</b> Franklin</p>
+<p style="font-size:16px"><b><u>Cities with Population > 10,000:</u></b><br>
+<ul style="font-size:12.5px">
+<li>None
+<li>Largest City - Franklin: 3,898
+<br>
+<br>
+<br>
+<br>
+<br>
+<br></ul>
+</p></div>
+<div style="float: right; width: 32%;">
+<p><b>Mean Annual Severe Weather Days:</b> 28-32<br>
+<ul style="font-size:15px">
+<li>Mean Tornado Days: 0-1
+<li>Mean Damaging Wind Days: 18-22
+<li>Mean Hail Days: 5-8</ul>
+<b>Mean Annual Temperature:</b> 52-57&deg;F<br>
+<b>Mean Annual Precipitation:</b> 65-69"<br><br>
+<b>Highest Elevation:</b> 5499'<br>
+<b>River Basin(s):</b> Little Tennessee, Savannah<br>
+<b>Tornadoes since 1950:</b> 4<br>
+</p></div>
+<div algin="center width: 32%;">
+<center><p style="font-size:22px"><b><u>MACON County</u></b></p></center>
+<p style="font-size:16px">
+<b>Land Area:</b> 515.56 sq. mi.<br>
+<b>State Land Area Rank:</b> #39<br><br>
+<b>Water Area:</b> 4.1 sq. mi. / 0.8%<br>
+<b>State Water Area Rank:</b> #65<br><br>
+<b>Year Founded:</b> 1828<br><br>
+<b>NWS Office:</b> Greenville-Spartanburg, SC (GSP)
+</p></div></div>
+<div class="info" >
+<div style="float: left; width: 32%;">
+<p style="font-size:16px">
+<b>County Population:</b> 14,346<br>
+<b>State Population Rank:</b> #89<br>
+<b>County Seat:</b> Bryson City</p>
+<p style="font-size:16px"><b><u>Cities with Population > 10,000:</u></b><br>
+<ul style="font-size:12.5px">
+<li>None
+<li>Largest City - Bryson City: 1,422
+<br>
+<br>
+<br>
+<br>
+<br>
+<br></ul>
+</p></div>
+<div style="float: right; width: 32%;">
+<p><b>Mean Annual Severe Weather Days:</b> 28-32<br>
+<ul style="font-size:15px">
+<li>Mean Tornado Days: 0-1
+<li>Mean Damaging Wind Days: 18-22
+<li>Mean Hail Days: 5-8</ul>
+<b>Mean Annual Temperature:</b> 54-59&deg;F<br>
+<b>Mean Annual Precipitation:</b> 56-60"<br><br>
+<b>Highest Elevation:</b> 6643'<br>
+<b>River Basin(s):</b> Little Tennessee<br>
+<b>Tornadoes since 1950:</b> 3<br>
+</p></div>
+<div algin="center width: 32%;">
+<center><p style="font-size:22px"><b><u>SWAIN County</u></b></p></center>
+<p style="font-size:16px">
+<b>Land Area:</b> 528.00 sq. mi.<br>
+<b>State Land Area Rank:</b> #37<br><br>
+<b>Water Area:</b> 13 sq. mi. / 2.3%<br>
+<b>State Water Area Rank:</b> #37<br><br>
+<b>Year Founded:</b> 1871<br><br>
+<b>NWS Office:</b> Greenville-Spartanburg, SC (GSP)
+</p></div></div>
+<div class="info" >
+<div style="float: left; width: 32%;">
+<p style="font-size:16px">
+<b>County Population:</b> 8,558<br>
+<b>State Population Rank:</b> #98<br>
+<b>County Seat:</b> Robbinsville</p>
+<p style="font-size:16px"><b><u>Cities with Population > 10,000:</u></b><br>
+<ul style="font-size:12.5px">
+<li>None
+<li>Largest City - Robbinsville: 607
+<br>
+<br>
+<br>
+<br>
+<br>
+<br></ul>
+</p></div>
+<div style="float: right; width: 32%;">
+<p><b>Mean Annual Severe Weather Days:</b> 28-32<br>
+<ul style="font-size:15px">
+<li>Mean Tornado Days: 0-1
+<li>Mean Damaging Wind Days: 18-22
+<li>Mean Hail Days: 5-8</ul>
+<b>Mean Annual Temperature:</b> 55-60&deg;F<br>
+<b>Mean Annual Precipitation:</b> 60-64"<br><br>
+<b>Highest Elevation:</b> 5560'<br>
+<b>River Basin(s):</b> Little Tennessee<br>
+<b>Tornadoes since 1950:</b> 1<br>
+</p></div>
+<div algin="center width: 32%;">
+<center><p style="font-size:22px"><b><u>GRAHAM County</u></b></p></center>
+<p style="font-size:16px">
+<b>Land Area:</b> 292.08 sq. mi.<br>
+<b>State Land Area Rank:</b> #83<br><br>
+<b>Water Area:</b> 9.6 sq. mi. / 3.2%<br>
+<b>State Water Area Rank:</b> #26<br><br>
+<b>Year Founded:</b> 1872<br><br>
+<b>NWS Office:</b> Greenville-Spartanburg, SC (GSP)
+</p></div></div>
+<div class="info" >
+<div style="float: left; width: 32%;">
+<p style="font-size:16px">
+<b>County Population:</b> 10,915<br>
+<b>State Population Rank:</b> #94<br>
+<b>County Seat:</b> Hayesville</p>
+<p style="font-size:16px"><b><u>Cities with Population > 10,000:</u></b><br>
+<ul style="font-size:12.5px">
+<li>None
+<li>Largest City - Hayesville: 338
+<br>
+<br>
+<br>
+<br>
+<br>
+<br></ul>
+</p></div>
+<div style="float: right; width: 32%;">
+<p><b>Mean Annual Severe Weather Days:</b> 28-30<br>
+<ul style="font-size:15px">
+<li>Mean Tornado Days: 0-1
+<li>Mean Damaging Wind Days: 18-22
+<li>Mean Hail Days: 5-8</ul>
+<b>Mean Annual Temperature:</b> 55-60&deg;F<br>
+<b>Mean Annual Precipitation:</b> 64-68"<br><br>
+<b>Highest Elevation:</b> 5499'<br>
+<b>River Basin(s):</b> Hiwassee, Savannah<br>
+<b>Tornadoes since 1950:</b> 4<br>
+</p></div>
+<div algin="center width: 32%;">
+<center><p style="font-size:22px"><b><u>CLAY County</u></b></p></center>
+<p style="font-size:16px">
+<b>Land Area:</b> 214.75 sq. mi.<br>
+<b>State Land Area Rank:</b> #98<br><br>
+<b>Water Area:</b> 5.9 sq. mi. / 2.7%<br>
+<b>State Water Area Rank:</b> #29<br><br>
+<b>Year Founded:</b> 1861<br><br>
+<b>NWS Office:</b> Morristown, TN (MRX)
+</p></div></div>
+<div class="info" >
+<div style="float: left; width: 32%;">
+<p style="font-size:16px">
+<b>County Population:</b> 27,905<br>
+<b>State Population Rank:</b> #71<br>
+<b>County Seat:</b> Murphy</p>
+<p style="font-size:16px"><b><u>Cities with Population > 10,000:</u></b><br>
+<ul style="font-size:12.5px">
+<li>None
+<li>Largest City - Andrews: 1,758
+<br>
+<br>
+<br>
+<br>
+<br>
+<br></ul>
+</p></div>
+<div style="float: right; width: 32%;">
+<p><b>Mean Annual Severe Weather Days:</b> 24-28<br>
+<ul style="font-size:15px">
+<li>Mean Tornado Days: 0-1
+<li>Mean Damaging Wind Days: 18-22
+<li>Mean Hail Days: 5-9</ul>
+<b>Mean Annual Temperature:</b> 55-60&deg;F<br>
+<b>Mean Annual Precipitation:</b> 56-60"<br><br>
+<b>Highest Elevation:</b> 5040'<br>
+<b>River Basin(s):</b> Hiwassee<br>
+<b>Tornadoes since 1950:</b> 8<br>
+</p></div>
+<div algin="center width: 32%;">
+<center><p style="font-size:22px"><b><u>CHEROKEE County</u></b></p></center>
+<p style="font-size:16px">
+<b>Land Area:</b> 455.43 sq. mi.<br>
+<b>State Land Area Rank:</b> #52<br><br>
+<b>Water Area:</b> 11 sq. mi. / 2.4%<br>
+<b>State Water Area Rank:</b> #34<br><br>
+<b>Year Founded:</b> 1839<br><br>
+<b>NWS Office:</b> Morristown, TN (MRX)
+</p></div></div>
+<div class="info" >
+<div style="float: left; width: 32%;">
+<p style="font-size:16px">
+<b>County Population:</b> 1,054,835<br>
+<b>State Population Rank:</b> #1<br>
+<b>County Seat:</b> Charlotte</p>
+<p style="font-size:16px"><b><u>Cities with Population > 10,000:</u></b><br>
+<ul style="font-size:12.5px">
+<li>Charlotte: 809,958
+<li>Huntersville: 52,704
+<li>Matthews: 29,384
+<li>Cornelius: 26,898
+<li>Mint Hill: 24,542
+<br>
+<br>
+<br></ul>
+</p></div>
+<div style="float: right; width: 32%;">
+<p><b>Mean Annual Severe Weather Days:</b> 31-34<br>
+<ul style="font-size:15px">
+<li>Mean Tornado Days: 2-3
+<li>Mean Damaging Wind Days: 21-26
+<li>Mean Hail Days: 8-10</ul>
+<b>Mean Annual Temperature:</b> 60-65&deg;F<br>
+<b>Mean Annual Precipitation:</b> 44-48"<br><br>
+<b>Highest Elevation:</b> 890'<br>
+<b>River Basin(s):</b> Catawba, Yadkin-Pee Dee<br>
+<b>Tornadoes since 1950:</b> 24<br>
+</p></div>
+<div algin="center width: 32%;">
+<center><p style="font-size:22px"><b><u>MECKLENBURG County</u></b></p></center>
+<p style="font-size:16px">
+<b>Land Area:</b> 523.84 sq. mi.<br>
+<b>State Land Area Rank:</b> #38<br><br>
+<b>Water Area:</b> 22 sq. mi. / 4.0%<br>
+<b>State Water Area Rank:</b> #20<br><br>
+<b>Year Founded:</b> 1763<br><br>
+<b>NWS Office:</b> Greenville-Spartanburg, SC (GSP)
+</p></div></div>
+<div class="info" >
+<div style="float: left; width: 32%;">
+<p style="font-size:16px">
+<b>County Population:</b> 201,590<br>
+<b>State Population Rank:</b> #11<br>
+<b>County Seat:</b> Concord</p>
+<p style="font-size:16px"><b><u>Cities with Population > 10,000:</u></b><br>
+<ul style="font-size:12.5px">
+<li>Concord: 87,696
+<li>Kannapolis: 46,144
+<li>Harrisburg: 14,593
+<br>
+<br>
+<br>
+<br>
+<br></ul>
+</p></div>
+<div style="float: right; width: 32%;">
+<p><b>Mean Annual Severe Weather Days:</b> 22-34<br>
+<ul style="font-size:15px">
+<li>Mean Tornado Days: 1-2
+<li>Mean Damaging Wind Days: 16-25
+<li>Mean Hail Days: 8-10</ul>
+<b>Mean Annual Temperature:</b> 56-61&deg;F<br>
+<b>Mean Annual Precipitation:</b> 44-48"<br><br>
+<b>Highest Elevation:</b> 890'<br>
+<b>River Basin(s):</b> Yadkin-Pee Dee<br>
+<b>Tornadoes since 1950:</b> 13<br>
+</p></div>
+<div algin="center width: 32%;">
+<center><p style="font-size:22px"><b><u>CABARRUS County</u></b></p></center>
+<p style="font-size:16px">
+<b>Land Area:</b> 361.75 sq. mi.<br>
+<b>State Land Area Rank:</b> #72<br><br>
+<b>Water Area:</b> 2.7 sq. mi. / 0.7%<br>
+<b>State Water Area Rank:</b> #70<br><br>
+<b>Year Founded:</b> 1792<br><br>
+<b>NWS Office:</b> Greenville-Spartanburg, SC (GSP)
+</p></div></div>
+<div class="info" >
+<div style="float: left; width: 32%;">
+<p style="font-size:16px">
+<b>County Population:</b> 226,606<br>
+<b>State Population Rank:</b> #8<br>
+<b>County Seat:</b> Monroe</p>
+<p style="font-size:16px"><b><u>Cities with Population > 10,000:</u></b><br>
+<ul style="font-size:12.5px">
+<li>Indian Trail: 37,073
+<li>Monroe: 34,623
+<li>Waxhaw: 13,495
+<li>Weddington: 10,531
+<br>
+<br>
+<br>
+<br></ul>
+</p></div>
+<div style="float: right; width: 32%;">
+<p><b>Mean Annual Severe Weather Days:</b> 31-34<br>
+<ul style="font-size:15px">
+<li>Mean Tornado Days: 1-2
+<li>Mean Damaging Wind Days: 23-25
+<li>Mean Hail Days: 7-8</ul>
+<b>Mean Annual Temperature:</b> 60-65&deg;F<br>
+<b>Mean Annual Precipitation:</b> 47-51"<br><br>
+<b>Highest Elevation:</b> 786'<br>
+<b>River Basin(s):</b> Yadkin-Pee Dee, Catawba<br>
+<b>Tornadoes since 1950:</b> 21<br>
+</p></div>
+<div algin="center width: 32%;">
+<center><p style="font-size:22px"><b><u>UNION County</u></b></p></center>
+<p style="font-size:16px">
+<b>Land Area:</b> 631.52 sq. mi.<br>
+<b>State Land Area Rank:</b> #23<br><br>
+<b>Water Area:</b> 8 sq. mi. / 1.3%<br>
+<b>State Water Area Rank:</b> #50<br><br>
+<b>Year Founded:</b> 1842<br><br>
+<b>NWS Office:</b> Greenville-Spartanburg, SC (GSP)
+</p></div></div>
+<div class="info" >
+<div style="float: left; width: 32%;">
+<p style="font-size:16px">
+<b>County Population:</b> 60,791<br>
+<b>State Population Rank:</b> #43<br>
+<b>County Seat:</b> Albemarle</p>
+<p style="font-size:16px"><b><u>Cities with Population > 10,000:</u></b><br>
+<ul style="font-size:12.5px">
+<li>Albemarle: 16,007
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br></ul>
+</p></div>
+<div style="float: right; width: 32%;">
+<p><b>Mean Annual Severe Weather Days:</b> 22-34<br>
+<ul style="font-size:15px">
+<li>Mean Tornado Days: 1-2
+<li>Mean Damaging Wind Days: 16-25
+<li>Mean Hail Days: 5-8</ul>
+<b>Mean Annual Temperature:</b> 55-60&deg;F<br>
+<b>Mean Annual Precipitation:</b> 47-51"<br><br>
+<b>Highest Elevation:</b> 900'<br>
+<b>River Basin(s):</b> Yadkin-Pee Dee<br>
+<b>Tornadoes since 1950:</b> 13<br>
+</p></div>
+<div algin="center width: 32%;">
+<center><p style="font-size:22px"><b><u>STANLY County</u></b></p></center>
+<p style="font-size:16px">
+<b>Land Area:</b> 395.09 sq. mi.<br>
+<b>State Land Area Rank:</b> #64<br><br>
+<b>Water Area:</b> 9.8 sq. mi. / 2.4%<br>
+<b>State Water Area Rank:</b> #34<br><br>
+<b>Year Founded:</b> 1841<br><br>
+<b>NWS Office:</b> Raleigh, NC (RAH)
+</p></div></div>
+<div class="info" >
+<div style="float: left; width: 32%;">
+<p style="font-size:16px">
+<b>County Population:</b> 25,448<br>
+<b>State Population Rank:</b> #75<br>
+<b>County Seat:</b> Wadesboro</p>
+<p style="font-size:16px"><b><u>Cities with Population > 10,000:</u></b><br>
+<ul style="font-size:12.5px">
+<li>None
+<li>Largest City - Wadesboro: 5,693
+<br>
+<br>
+<br>
+<br>
+<br>
+<br></ul>
+</p></div>
+<div style="float: right; width: 32%;">
+<p><b>Mean Annual Severe Weather Days:</b> 31-34<br>
+<ul style="font-size:15px">
+<li>Mean Tornado Days: 1-2
+<li>Mean Damaging Wind Days: 17-23
+<li>Mean Hail Days: 5-7</ul>
+<b>Mean Annual Temperature:</b> 60-65&deg;F<br>
+<b>Mean Annual Precipitation:</b> 46-50"<br><br>
+<b>Highest Elevation:</b> 636'<br>
+<b>River Basin(s):</b> Yadkin-Pee Dee<br>
+<b>Tornadoes since 1950:</b> 5<br>
+</p></div>
+<div algin="center width: 32%;">
+<center><p style="font-size:22px"><b><u>ANSON County</u></b></p></center>
+<p style="font-size:16px">
+<b>Land Area:</b> 531.45 sq. mi.<br>
+<b>State Land Area Rank:</b> #36<br><br>
+<b>Water Area:</b> 5.6 sq. mi. / 1.1%<br>
+<b>State Water Area Rank:</b> #54<br><br>
+<b>Year Founded:</b> 1750<br><br>
+<b>NWS Office:</b> Raleigh, NC (RAH)
+</p></div></div>
+<div class="info" >
+<div style="float: left; width: 32%;">
+<p style="font-size:16px">
+<b>County Population:</b> 27,418<br>
+<b>State Population Rank:</b> #72<br>
+<b>County Seat:</b> Troy</p>
+<p style="font-size:16px"><b><u>Cities with Population > 10,000:</u></b><br>
+<ul style="font-size:12.5px">
+<li>None
+<li>Largest City - Troy: 3,466
+<br>
+<br>
+<br>
+<br>
+<br>
+<br></ul>
+</p></div>
+<div style="float: right; width: 32%;">
+<p><b>Mean Annual Severe Weather Days:</b> 22-34<br>
+<ul style="font-size:15px">
+<li>Mean Tornado Days: 1-2
+<li>Mean Damaging Wind Days: 16-25
+<li>Mean Hail Days: 5-8</ul>
+<b>Mean Annual Temperature:</b> 56-61&deg;F<br>
+<b>Mean Annual Precipitation:</b> 45-49"<br><br>
+<b>Highest Elevation:</b> 953'<br>
+<b>River Basin(s):</b> Yadkin-Pee Dee, Cape Fear, Lumber<br>
+<b>Tornadoes since 1950:</b> 8<br>
+</p></div>
+<div algin="center width: 32%;">
+<center><p style="font-size:22px"><b><u>MONTGOMERY County</u></b></p></center>
+<p style="font-size:16px">
+<b>Land Area:</b> 491.76 sq. mi.<br>
+<b>State Land Area Rank:</b> #44<br><br>
+<b>Water Area:</b> 10 sq. mi. / 2.0%<br>
+<b>State Water Area Rank:</b> #39<br><br>
+<b>Year Founded:</b> 1779<br><br>
+<b>NWS Office:</b> Raleigh, NC (RAH)
+</p></div></div>
+<div class="info" >
+<div style="float: left; width: 32%;">
+<p style="font-size:16px">
+<b>County Population:</b> 44,939<br>
+<b>State Population Rank:</b> #58<br>
+<b>County Seat:</b> Rockingham</p>
+<p style="font-size:16px"><b><u>Cities with Population > 10,000:</u></b><br>
+<ul style="font-size:12.5px">
+<li>None
+<li>Largest City - Rockingham: 9,478
+<br>
+<br>
+<br>
+<br>
+<br>
+<br></ul>
+</p></div>
+<div style="float: right; width: 32%;">
+<p><b>Mean Annual Severe Weather Days:</b> 25-31<br>
+<ul style="font-size:15px">
+<li>Mean Tornado Days: 1-2
+<li>Mean Damaging Wind Days: 12-17
+<li>Mean Hail Days: 5-7</ul>
+<b>Mean Annual Temperature:</b> 60-65&deg;F<br>
+<b>Mean Annual Precipitation:</b> 48-52"<br><br>
+<b>Highest Elevation:</b> 620'<br>
+<b>River Basin(s):</b> Yadkin-Pee Dee, Lumber<br>
+<b>Tornadoes since 1950:</b> 4<br>
+</p></div>
+<div algin="center width: 32%;">
+<center><p style="font-size:22px"><b><u>RICHMOND County</u></b></p></center>
+<p style="font-size:16px">
+<b>Land Area:</b> 473.82 sq. mi.<br>
+<b>State Land Area Rank:</b> #47<br><br>
+<b>Water Area:</b> 6.1 sq. mi. / 1.3%<br>
+<b>State Water Area Rank:</b> #50<br><br>
+<b>Year Founded:</b> 1779<br><br>
+<b>NWS Office:</b> Raleigh, NC (RAH)
+</p></div></div>
+<div class="info" >
+<div style="float: left; width: 32%;">
+<p style="font-size:16px">
+<b>County Population:</b> 95,776<br>
+<b>State Population Rank:</b> #29<br>
+<b>County Seat:</b> Carthage</p>
+<p style="font-size:16px"><b><u>Cities with Population > 10,000:</u></b><br>
+<ul style="font-size:12.5px">
+<li>Pinehurst: 15,752
+<li>Southern Pines: 13,539
+<br>
+<br>
+<br>
+<br>
+<br>
+<br></ul>
+</p></div>
+<div style="float: right; width: 32%;">
+<p><b>Mean Annual Severe Weather Days:</b> 22-25<br>
+<ul style="font-size:15px">
+<li>Mean Tornado Days: 1-2
+<li>Mean Damaging Wind Days: 12-16
+<li>Mean Hail Days: 5-7</ul>
+<b>Mean Annual Temperature:</b> 58-63&deg;F<br>
+<b>Mean Annual Precipitation:</b> 47-51"<br><br>
+<b>Highest Elevation:</b> 730'<br>
+<b>River Basin(s):</b> Cape Fear, Lumber<br>
+<b>Tornadoes since 1950:</b> 15<br>
+</p></div>
+<div algin="center width: 32%;">
+<center><p style="font-size:22px"><b><u>MOORE County</u></b></p></center>
+<p style="font-size:16px">
+<b>Land Area:</b> 697.84 sq. mi.<br>
+<b>State Land Area Rank:</b> #17<br><br>
+<b>Water Area:</b> 8 sq. mi. / 1.1%<br>
+<b>State Water Area Rank:</b> #54<br><br>
+<b>Year Founded:</b> 1784<br><br>
+<b>NWS Office:</b> Raleigh, NC (RAH)
+</p></div></div>
+<div class="info" >
+<div style="float: left; width: 32%;">
+<p style="font-size:16px">
+<b>County Population:</b> 59,616<br>
+<b>State Population Rank:</b> #45<br>
+<b>County Seat:</b> Sanford</p>
+<p style="font-size:16px"><b><u>Cities with Population > 10,000:</u></b><br>
+<ul style="font-size:12.5px">
+<li>Sanford: 29,470
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br></ul>
+</p></div>
+<div style="float: right; width: 32%;">
+<p><b>Mean Annual Severe Weather Days:</b> 22-27<br>
+<ul style="font-size:15px">
+<li>Mean Tornado Days: 1-2
+<li>Mean Damaging Wind Days: 16-18
+<li>Mean Hail Days: 5-7</ul>
+<b>Mean Annual Temperature:</b> 60-65&deg;F<br>
+<b>Mean Annual Precipitation:</b> 47-51"<br><br>
+<b>Highest Elevation:</b> 540'<br>
+<b>River Basin(s):</b> Cape Fear<br>
+<b>Tornadoes since 1950:</b> 5<br>
+</p></div>
+<div algin="center width: 32%;">
+<center><p style="font-size:22px"><b><u>LEE County</u></b></p></center>
+<p style="font-size:16px">
+<b>Land Area:</b> 254.96 sq. mi.<br>
+<b>State Land Area Rank:</b> #89<br><br>
+<b>Water Area:</b> 4.1 sq. mi. / 1.6%<br>
+<b>State Water Area Rank:</b> #43<br><br>
+<b>Year Founded:</b> 1907<br><br>
+<b>NWS Office:</b> Raleigh, NC (RAH)
+</p></div></div>
+<div class="info" >
+<div style="float: left; width: 32%;">
+<p style="font-size:16px">
+<b>County Population:</b> 35,244<br>
+<b>State Population Rank:</b> #67<br>
+<b>County Seat:</b> Laurinburg</p>
+<p style="font-size:16px"><b><u>Cities with Population > 10,000:</u></b><br>
+<ul style="font-size:12.5px">
+<li>Laurinburg: 15,774
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br></ul>
+</p></div>
+<div style="float: right; width: 32%;">
+<p><b>Mean Annual Severe Weather Days:</b> 25-31<br>
+<ul style="font-size:15px">
+<li>Mean Tornado Days: 1-2
+<li>Mean Damaging Wind Days: 12-17
+<li>Mean Hail Days: 5-7</ul>
+<b>Mean Annual Temperature:</b> 60-65&deg;F<br>
+<b>Mean Annual Precipitation:</b> 46-50"<br><br>
+<b>Highest Elevation:</b> 480'<br>
+<b>River Basin(s):</b> Lumber<br>
+<b>Tornadoes since 1950:</b> 11<br>
+</p></div>
+<div algin="center width: 32%;">
+<center><p style="font-size:22px"><b><u>SCOTLAND County</u></b></p></center>
+<p style="font-size:16px">
+<b>Land Area:</b> 318.85 sq. mi.<br>
+<b>State Land Area Rank:</b> #79<br><br>
+<b>Water Area:</b> 1.5 sq. mi. / 0.5%<br>
+<b>State Water Area Rank:</b> #79<br><br>
+<b>Year Founded:</b> 1899<br><br>
+<b>NWS Office:</b> Raleigh, NC (RAH)
+</p></div></div>
+<div class="info" >
+<div style="float: left; width: 32%;">
+<p style="font-size:16px">
+<b>County Population:</b> 53,262<br>
+<b>State Population Rank:</b> #53<br>
+<b>County Seat:</b> Raeford</p>
+<p style="font-size:16px"><b><u>Cities with Population > 10,000:</u></b><br>
+<ul style="font-size:12.5px">
+<li>None
+<li>Largest City - Raeford: 4,882
+<br>
+<br>
+<br>
+<br>
+<br>
+<br></ul>
+</p></div>
+<div style="float: right; width: 32%;">
+<p><b>Mean Annual Severe Weather Days:</b> 22-25<br>
+<ul style="font-size:15px">
+<li>Mean Tornado Days: 1-2
+<li>Mean Damaging Wind Days: 12-16
+<li>Mean Hail Days: 5-7</ul>
+<b>Mean Annual Temperature:</b> 60-65&deg;F<br>
+<b>Mean Annual Precipitation:</b> 44-48"<br><br>
+<b>Highest Elevation:</b> 550'<br>
+<b>River Basin(s):</b> Cape Fear, Lumber<br>
+<b>Tornadoes since 1950:</b> 10<br>
+</p></div>
+<div algin="center width: 32%;">
+<center><p style="font-size:22px"><b><u>HOKE County</u></b></p></center>
+<p style="font-size:16px">
+<b>Land Area:</b> 390.74 sq. mi.<br>
+<b>State Land Area Rank:</b> #66<br><br>
+<b>Water Area:</b> 1.6 sq. mi. / 0.4%<br>
+<b>State Water Area Rank:</b> #84<br><br>
+<b>Year Founded:</b> 1911<br><br>
+<b>NWS Office:</b> Raleigh, NC (RAH)
+</p></div></div>
+<div class="info" >
+<div style="float: left; width: 32%;">
+<p style="font-size:16px">
+<b>County Population:</b> 133,235<br>
+<b>State Population Rank:</b> #22<br>
+<b>County Seat:</b> Lumberton</p>
+<p style="font-size:16px"><b><u>Cities with Population > 10,000:</u></b><br>
+<ul style="font-size:12.5px">
+<li>Lumberton: 21,823
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br></ul>
+</p></div>
+<div style="float: right; width: 32%;">
+<p><b>Mean Annual Severe Weather Days:</b> 19-25<br>
+<ul style="font-size:15px">
+<li>Mean Tornado Days: 1-2
+<li>Mean Damaging Wind Days: 12-17
+<li>Mean Hail Days: 6-7</ul>
+<b>Mean Annual Temperature:</b> 60-65&deg;F<br>
+<b>Mean Annual Precipitation:</b> 46-50"<br><br>
+<b>Highest Elevation:</b> 240'<br>
+<b>River Basin(s):</b> Lumber<br>
+<b>Tornadoes since 1950:</b> 44<br>
+</p></div>
+<div algin="center width: 32%;">
+<center><p style="font-size:22px"><b><u>ROBESON County</u></b></p></center>
+<p style="font-size:16px">
+<b>Land Area:</b> 949.22 sq. mi.<br>
+<b>State Land Area Rank:</b> #1 (NC's largest county!)<br><br>
+<b>Water Area:</b> 1.8 sq. mi. / 0.2%<br>
+<b>State Water Area Rank:</b> #94<br><br>
+<b>Year Founded:</b> 1787<br><br>
+<b>NWS Office:</b> Wilmington, NC (ILM)
+</p></div></div>
+<div class="info" >
+<div style="float: left; width: 32%;">
+<p style="font-size:16px">
+<b>County Population:</b> 327,127<br>
+<b>State Population Rank:</b> #5<br>
+<b>County Seat:</b> Fayetteville</p>
+<p style="font-size:16px"><b><u>Cities with Population > 10,000:</u></b><br>
+<ul style="font-size:12.5px">
+<li>Fayetteville: 204,408
+<li>Hope Mills: 16,248
+<li>Spring Lake: 13,037
+<br>
+<br>
+<br>
+<br>
+<br></ul>
+</p></div>
+<div style="float: right; width: 32%;">
+<p><b>Mean Annual Severe Weather Days:</b> 19-27<br>
+<ul style="font-size:15px">
+<li>Mean Tornado Days: 1-2
+<li>Mean Damaging Wind Days: 12-18
+<li>Mean Hail Days: 5-7</ul>
+<b>Mean Annual Temperature:</b> 60-65&deg;F<br>
+<b>Mean Annual Precipitation:</b> 45-49"<br><br>
+<b>Highest Elevation:</b> 486'<br>
+<b>River Basin(s):</b> Cape Fear, Lumber<br>
+<b>Tornadoes since 1950:</b> 25<br>
+</p></div>
+<div algin="center width: 32%;">
+<center><p style="font-size:22px"><b><u>CUMBERLAND County</u></b></p></center>
+<p style="font-size:16px">
+<b>Land Area:</b> 652.32 sq. mi.<br>
+<b>State Land Area Rank:</b> #20<br><br>
+<b>Water Area:</b> 6.1 sq. mi. / 0.9%<br>
+<b>State Water Area Rank:</b> #60<br><br>
+<b>Year Founded:</b> 1754<br><br>
+<b>NWS Office:</b> Raleigh, NC (RAH)
+</p></div></div>
+<div class="info" >
+<div style="float: left; width: 32%;">
+<p style="font-size:16px">
+<b>County Population:</b> 63,124<br>
+<b>State Population Rank:</b> #42<br>
+<b>County Seat:</b> Clinton</p>
+<p style="font-size:16px"><b><u>Cities with Population > 10,000:</u></b><br>
+<ul style="font-size:12.5px">
+<li>None
+<li>Largest City - Clinton: 8,836
+<br>
+<br>
+<br>
+<br>
+<br>
+<br></ul>
+</p></div>
+<div style="float: right; width: 32%;">
+<p><b>Mean Annual Severe Weather Days:</b> 19-27<br>
+<ul style="font-size:15px">
+<li>Mean Tornado Days: 2-3
+<li>Mean Damaging Wind Days: 12-18
+<li>Mean Hail Days: 6-7</ul>
+<b>Mean Annual Temperature:</b> 60-65&deg;F<br>
+<b>Mean Annual Precipitation:</b> 48-52"<br><br>
+<b>Highest Elevation:</b> 230'<br>
+<b>River Basin(s):</b> Cape Fear<br>
+<b>Tornadoes since 1950:</b> 19<br>
+</p></div>
+<div algin="center width: 32%;">
+<center><p style="font-size:22px"><b><u>SAMPSON County</u></b></p></center>
+<p style="font-size:16px">
+<b>Land Area:</b> 944.74 sq. mi.<br>
+<b>State Land Area Rank:</b> #2<br><br>
+<b>Water Area:</b> 2 sq. mi. / 0.2%<br>
+<b>State Water Area Rank:</b> #94<br><br>
+<b>Year Founded:</b> 1784<br><br>
+<b>NWS Office:</b> Raleigh, NC (RAH)
+</p></div></div>
+<div class="info" >
+<div style="float: left; width: 32%;">
+<p style="font-size:16px">
+<b>County Population:</b> 124,150<br>
+<b>State Population Rank:</b> #25<br>
+<b>County Seat:</b> Goldsboro</p>
+<p style="font-size:16px"><b><u>Cities with Population > 10,000:</u></b><br>
+<ul style="font-size:12.5px">
+<li>Goldsboro: 36,306
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br></ul>
+</p></div>
+<div style="float: right; width: 32%;">
+<p><b>Mean Annual Severe Weather Days:</b> 25-27<br>
+<ul style="font-size:15px">
+<li>Mean Tornado Days: 2-3
+<li>Mean Damaging Wind Days: 4-15
+<li>Mean Hail Days: 6-7</ul>
+<b>Mean Annual Temperature:</b> 60-65&deg;F<br>
+<b>Mean Annual Precipitation:</b> 48-52"<br><br>
+<b>Highest Elevation:</b> 195'<br>
+<b>River Basin(s):</b> Neuse, Cape Fear<br>
+<b>Tornadoes since 1950:</b> 26<br>
+</p></div>
+<div algin="center width: 32%;">
+<center><p style="font-size:22px"><b><u>WAYNE County</u></b></p></center>
+<p style="font-size:16px">
+<b>Land Area:</b> 553.09 sq. mi.<br>
+<b>State Land Area Rank:</b> #30<br><br>
+<b>Water Area:</b> 3.8 sq. mi. / 0.7%<br>
+<b>State Water Area Rank:</b> #70<br><br>
+<b>Year Founded:</b> 1779<br><br>
+<b>NWS Office:</b> Raleigh, NC (RAH)
+</p></div></div>
+<div class="info" >
+<div style="float: left; width: 32%;">
+<p style="font-size:16px">
+<b>County Population:</b> 21,168<br>
+<b>State Population Rank:</b> #80<br>
+<b>County Seat:</b> Snow Hill</p>
+<p style="font-size:16px"><b><u>Cities with Population > 10,000:</u></b><br>
+<ul style="font-size:12.5px">
+<li>None
+<li>Largest City - Snow Hill: 1,594
+<br>
+<br>
+<br>
+<br>
+<br>
+<br></ul>
+</p></div>
+<div style="float: right; width: 32%;">
+<p><b>Mean Annual Severe Weather Days:</b> 9-25<br>
+<ul style="font-size:15px">
+<li>Mean Tornado Days: 3-4
+<li>Mean Damaging Wind Days: 4-15
+<li>Mean Hail Days: 2-6</ul>
+<b>Mean Annual Temperature:</b> 60-65&deg;F<br>
+<b>Mean Annual Precipitation:</b> 48-52"<br><br>
+<b>Highest Elevation:</b> 138'<br>
+<b>River Basin(s):</b> Neuse<br>
+<b>Tornadoes since 1950:</b> 19<br>
+</p></div>
+<div algin="center width: 32%;">
+<center><p style="font-size:22px"><b><u>GREENE County</u></b></p></center>
+<p style="font-size:16px">
+<b>Land Area:</b> 265.93 sq. mi.<br>
+<b>State Land Area Rank:</b> #85<br><br>
+<b>Water Area:</b> 0.5 sq. mi. / 0.2%<br>
+<b>State Water Area Rank:</b> #94<br><br>
+<b>Year Founded:</b> 1799<br><br>
+<b>NWS Office:</b> Newport/Morehead City, NC (MHX)
+</p></div></div>
+<div class="info" >
+<div style="float: left; width: 32%;">
+<p style="font-size:16px">
+<b>County Population:</b> 57,307<br>
+<b>State Population Rank:</b> #49<br>
+<b>County Seat:</b> Kinston</p>
+<p style="font-size:16px"><b><u>Cities with Population > 10,000:</u></b><br>
+<ul style="font-size:12.5px">
+<li>Kinston: 21,641
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br></ul>
+</p></div>
+<div style="float: right; width: 32%;">
+<p><b>Mean Annual Severe Weather Days:</b> 14-25<br>
+<ul style="font-size:15px">
+<li>Mean Tornado Days: 2-3
+<li>Mean Damaging Wind Days: 12-15
+<li>Mean Hail Days: 5-6</ul>
+<b>Mean Annual Temperature:</b> 60-65&deg;F<br>
+<b>Mean Annual Precipitation:</b> 48-52"<br><br>
+<b>Highest Elevation:</b> 164'<br>
+<b>River Basin(s):</b> Neuse<br>
+<b>Tornadoes since 1950:</b> 27<br>
+</p></div>
+<div algin="center width: 32%;">
+<center><p style="font-size:22px"><b><u>LENOIR County</u></b></p></center>
+<p style="font-size:16px">
+<b>Land Area:</b> 400.59 sq. mi.<br>
+<b>State Land Area Rank:</b> #61<br><br>
+<b>Water Area:</b> 2.2 sq. mi. / 0.6%<br>
+<b>State Water Area Rank:</b> #74<br><br>
+<b>Year Founded:</b> 1791<br><br>
+<b>NWS Office:</b> Newport/Morehead City, NC (MHX)
+</p></div></div>
+<div class="info" >
+<div style="float: left; width: 32%;">
+<p style="font-size:16px">
+<b>County Population:</b> 103,445<br>
+<b>State Population Rank:</b> #27<br>
+<b>County Seat:</b> New Bern</p>
+<p style="font-size:16px"><b><u>Cities with Population > 10,000:</u></b><br>
+<ul style="font-size:12.5px">
+<li>New Bern: 30,242
+<li>Havelock: 20,940
+<br>
+<br>
+<br>
+<br>
+<br>
+<br></ul>
+</p></div>
+<div style="float: right; width: 32%;">
+<p><b>Mean Annual Severe Weather Days:</b> 14-25<br>
+<ul style="font-size:15px">
+<li>Mean Tornado Days: 2-3
+<li>Mean Damaging Wind Days: 8-15
+<li>Mean Hail Days: 1-5</ul>
+<b>Mean Annual Temperature:</b> 60-65&deg;F<br>
+<b>Mean Annual Precipitation:</b> 52-56"<br><br>
+<b>Highest Elevation:</b> 76'<br>
+<b>River Basin(s):</b> Neuse, White Oak<br>
+<b>Tornadoes since 1950:</b> 33<br>
+</p></div>
+<div algin="center width: 32%;">
+<center><p style="font-size:22px"><b><u>CRAVEN County</u></b></p></center>
+<p style="font-size:16px">
+<b>Land Area:</b> 708.96 sq. mi.<br>
+<b>State Land Area Rank:</b> #15<br><br>
+<b>Water Area:</b> 65 sq. mi. / 8.4%<br>
+<b>State Water Area Rank:</b> #16<br><br>
+<b>Year Founded:</b> 1705<br><br>
+<b>NWS Office:</b> Newport/Morehead City, NC (MHX)
+</p></div></div>
+<div class="info" >
+<div style="float: left; width: 32%;">
+<p style="font-size:16px">
+<b>County Population:</b> 12,821<br>
+<b>State Population Rank:</b> #91<br>
+<b>County Seat:</b> Bayboro</p>
+<p style="font-size:16px"><b><u>Cities with Population > 10,000:</u></b><br>
+<ul style="font-size:12.5px">
+<li>None
+<li>Largest City - Bayboro: 1,251
+<br>
+<br>
+<br>
+<br>
+<br>
+<br></ul>
+</p></div>
+<div style="float: right; width: 32%;">
+<p><b>Mean Annual Severe Weather Days:</b> 9-14<br>
+<ul style="font-size:15px">
+<li>Mean Tornado Days: 2-3
+<li>Mean Damaging Wind Days: 4-15
+<li>Mean Hail Days: 1-2</ul>
+<b>Mean Annual Temperature:</b> 60-65&deg;F<br>
+<b>Mean Annual Precipitation:</b> 52-56"<br><br>
+<b>Highest Elevation:</b> 50'<br>
+<b>River Basin(s):</b> Neuse<br>
+<b>Tornadoes since 1950:</b> 14<br>
+</p></div>
+<div algin="center width: 32%;">
+<center><p style="font-size:22px"><b><u>PAMLICO County</u></b></p></center>
+<p style="font-size:16px">
+<b>Land Area:</b> 336.54 sq. mi.<br>
+<b>State Land Area Rank:</b> #77<br><br>
+<b>Water Area:</b> 230 sq. mi. / 41.0%<br>
+<b>State Water Area Rank:</b> #6<br><br>
+<b>Year Founded:</b> 1872<br><br>
+<b>NWS Office:</b> Newport/Morehead City, NC (MHX)
+</p></div></div>
+<div class="info" >
+<div style="float: left; width: 32%;">
+<p style="font-size:16px">
+<b>County Population:</b> 33,741<br>
+<b>State Population Rank:</b> #69<br>
+<b>County Seat:</b> Elizabethtown</p>
+<p style="font-size:16px"><b><u>Cities with Population > 10,000:</u></b><br>
+<ul style="font-size:12.5px">
+<li>None
+<li>Largest City - Elizabethtown: 3,634
+<br>
+<br>
+<br>
+<br>
+<br>
+<br></ul>
+</p></div>
+<div style="float: right; width: 32%;">
+<p><b>Mean Annual Severe Weather Days:</b> 19-25<br>
+<ul style="font-size:15px">
+<li>Mean Tornado Days: 1-2
+<li>Mean Damaging Wind Days: 8-12
+<li>Mean Hail Days: 3-6</ul>
+<b>Mean Annual Temperature:</b> 60-65&deg;F<br>
+<b>Mean Annual Precipitation:</b> 49-53"<br><br>
+<b>Highest Elevation:</b> 170'<br>
+<b>River Basin(s):</b> Cape Fear, Lumber<br>
+<b>Tornadoes since 1950:</b> 23<br>
+</p></div>
+<div algin="center width: 32%;">
+<center><p style="font-size:22px"><b><u>BLADEN County</u></b></p></center>
+<p style="font-size:16px">
+<b>Land Area:</b> 874.33 sq. mi.<br>
+<b>State Land Area Rank:</b> #4<br><br>
+<b>Water Area:</b> 13 sq. mi. / 1.4%<br>
+<b>State Water Area Rank:</b> #48<br><br>
+<b>Year Founded:</b> 1734<br><br>
+<b>NWS Office:</b> Wilmington, NC (ILM)
+</p></div></div>
+<div class="info" >
+<div style="float: left; width: 32%;">
+<p style="font-size:16px">
+<b>County Population:</b> 56,505<br>
+<b>State Population Rank:</b> #50<br>
+<b>County Seat:</b> Whiteville</p>
+<p style="font-size:16px"><b><u>Cities with Population > 10,000:</u></b><br>
+<ul style="font-size:12.5px">
+<li>None
+<li>Largest City - Whiteville: 5,596
+<br>
+<br>
+<br>
+<br>
+<br>
+<br></ul>
+</p></div>
+<div style="float: right; width: 32%;">
+<p><b>Mean Annual Severe Weather Days:</b> 19-25<br>
+<ul style="font-size:15px">
+<li>Mean Tornado Days: 1-2
+<li>Mean Damaging Wind Days: 3-12
+<li>Mean Hail Days: 3-6</ul>
+<b>Mean Annual Temperature:</b> 60-65&deg;F<br>
+<b>Mean Annual Precipitation:</b> 53-57"<br><br>
+<b>Highest Elevation:</b> 132'<br>
+<b>River Basin(s):</b> Lumber, Cape Fear<br>
+<b>Tornadoes since 1950:</b> 25<br>
+</p></div>
+<div algin="center width: 32%;">
+<center><p style="font-size:22px"><b><u>COLUMBUS County</u></b></p></center>
+<p style="font-size:16px">
+<b>Land Area:</b> 937.29 sq. mi.<br>
+<b>State Land Area Rank:</b> #3<br><br>
+<b>Water Area:</b> 16 sq. mi. / 1.7%<br>
+<b>State Water Area Rank:</b> #42<br><br>
+<b>Year Founded:</b> 1808<br><br>
+<b>NWS Office:</b> Wilmington, NC (ILM)
+</p></div></div>
+<div class="info" >
+<div style="float: left; width: 32%;">
+<p style="font-size:16px">
+<b>County Population:</b> 126,953<br>
+<b>State Population Rank:</b> #24<br>
+<b>County Seat:</b> Bolivia</p>
+<p style="font-size:16px"><b><u>Cities with Population > 10,000:</u></b><br>
+<ul style="font-size:12.5px">
+<li>Leland: 17,924
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br></ul>
+</p></div>
+<div style="float: right; width: 32%;">
+<p><b>Mean Annual Severe Weather Days:</b> 14-19<br>
+<ul style="font-size:15px">
+<li>Mean Tornado Days: 1-2
+<li>Mean Damaging Wind Days: 8-12
+<li>Mean Hail Days: 3-5</ul>
+<b>Mean Annual Temperature:</b> 60-65&deg;F<br>
+<b>Mean Annual Precipitation:</b> 57-61"<br><br>
+<b>Highest Elevation:</b> 75'<br>
+<b>River Basin(s):</b> Lumber, Cape Fear<br>
+<b>Tornadoes since 1950:</b> 24<br>
+</p></div>
+<div algin="center width: 32%;">
+<center><p style="font-size:22px"><b><u>BRUNSWICK County</u></b></p></center>
+<p style="font-size:16px">
+<b>Land Area:</b> 846.97 sq. mi.<br>
+<b>State Land Area Rank:</b> #6<br><br>
+<b>Water Area:</b> 203 sq. mi. / 19.0%<br>
+<b>State Water Area Rank:</b> #12<br><br>
+<b>Year Founded:</b> 1764<br><br>
+<b>NWS Office:</b> Wilmington, NC (ILM)
+</p></div></div>
+<div class="info" >
+<div style="float: left; width: 32%;">
+<p style="font-size:16px">
+<b>County Population:</b> 223,483<br>
+<b>State Population Rank:</b> #9<br>
+<b>County Seat:</b> Wilmington</p>
+<p style="font-size:16px"><b><u>Cities with Population > 10,000:</u></b><br>
+<ul style="font-size:12.5px">
+<li>Wilmington: 115,933
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br></ul>
+</p></div>
+<div style="float: right; width: 32%;">
+<p><b>Mean Annual Severe Weather Days:</b> 14-19<br>
+<ul style="font-size:15px">
+<li>Mean Tornado Days: 1-2
+<li>Mean Damaging Wind Days: 8-12
+<li>Mean Hail Days: 1-5</ul>
+<b>Mean Annual Temperature:</b> 60-65&deg;F<br>
+<b>Mean Annual Precipitation:</b> 57-61"<br><br>
+<b>Highest Elevation:</b> 75'<br>
+<b>River Basin(s):</b> Cape Fear<br>
+<b>Tornadoes since 1950:</b> 17<br>
+</p></div>
+<div algin="center width: 32%;">
+<center><p style="font-size:22px"><b><u>NEW HANOVER County</u></b></p></center>
+<p style="font-size:16px">
+<b>Land Area:</b> 191.53 sq. mi.<br>
+<b>State Land Area Rank:</b> #99<br><br>
+<b>Water Area:</b> 137 sq. mi. / 42.0%<br>
+<b>State Water Area Rank:</b> #5<br><br>
+<b>Year Founded:</b> 1729<br><br>
+<b>NWS Office:</b> Wilmington, NC (ILM)
+</p></div></div>
+<div class="info" >
+<div style="float: left; width: 32%;">
+<p style="font-size:16px">
+<b>County Population:</b> 59,090<br>
+<b>State Population Rank:</b> #46<br>
+<b>County Seat:</b> Burgaw</p>
+<p style="font-size:16px"><b><u>Cities with Population > 10,000:</u></b><br>
+<ul style="font-size:12.5px">
+<li>None
+<li>Largest City - Burgaw: 4,049
+<br>
+<br>
+<br>
+<br>
+<br>
+<br></ul>
+</p></div>
+<div style="float: right; width: 32%;">
+<p><b>Mean Annual Severe Weather Days:</b> 14-19<br>
+<ul style="font-size:15px">
+<li>Mean Tornado Days: 1-2
+<li>Mean Damaging Wind Days: 8-12
+<li>Mean Hail Days: 3-5</ul>
+<b>Mean Annual Temperature:</b> 60-65&deg;F<br>
+<b>Mean Annual Precipitation:</b> 54-58"<br><br>
+<b>Highest Elevation:</b> 115'<br>
+<b>River Basin(s):</b> Cape Fear<br>
+<b>Tornadoes since 1950:</b> 31<br>
+</p></div>
+<div algin="center width: 32%;">
+<center><p style="font-size:22px"><b><u>PENDER County</u></b></p></center>
+<p style="font-size:16px">
+<b>Land Area:</b> 869.80 sq. mi.<br>
+<b>State Land Area Rank:</b> #5<br><br>
+<b>Water Area:</b> 63 sq. mi. / 6.8%<br>
+<b>State Water Area Rank:</b> #17<br><br>
+<b>Year Founded:</b> 1875<br><br>
+<b>NWS Office:</b> Wilmington, NC (ILM)
+</p></div></div>
+<div class="info" >
+<div style="float: left; width: 32%;">
+<p style="font-size:16px">
+<b>County Population:</b> 58,969<br>
+<b>State Population Rank:</b> #48<br>
+<b>County Seat:</b> Kenansville</p>
+<p style="font-size:16px"><b><u>Cities with Population > 10,000:</u></b><br>
+<ul style="font-size:12.5px">
+<li>None
+<li>Largest City - Warsaw: 3,204
+<br>
+<br>
+<br>
+<br>
+<br>
+<br></ul>
+</p></div>
+<div style="float: right; width: 32%;">
+<p><b>Mean Annual Severe Weather Days:</b> 14-25<br>
+<ul style="font-size:15px">
+<li>Mean Tornado Days: 1-3
+<li>Mean Damaging Wind Days: 12-15
+<li>Mean Hail Days: 5-7</ul>
+<b>Mean Annual Temperature:</b> 60-65&deg;F<br>
+<b>Mean Annual Precipitation:</b> 49-53"<br><br>
+<b>Highest Elevation:</b> 170'<br>
+<b>River Basin(s):</b> Cape Fear<br>
+<b>Tornadoes since 1950:</b> 38<br>
+</p></div>
+<div algin="center width: 32%;">
+<center><p style="font-size:22px"><b><u>DUPLIN County</u></b></p></center>
+<p style="font-size:16px">
+<b>Land Area:</b> 816.22 sq. mi.<br>
+<b>State Land Area Rank:</b> #9<br><br>
+<b>Water Area:</b> 5.5 sq. mi. / 0.7%<br>
+<b>State Water Area Rank:</b> #70<br><br>
+<b>Year Founded:</b> 1750<br><br>
+<b>NWS Office:</b> Newport/Morehead City, NC (MHX)
+</p></div></div>
+<div class="info" >
+<div style="float: left; width: 32%;">
+<p style="font-size:16px">
+<b>County Population:</b> 187,136<br>
+<b>State Population Rank:</b> #13<br>
+<b>County Seat:</b> Jacksonville</p>
+<p style="font-size:16px"><b><u>Cities with Population > 10,000:</u></b><br>
+<ul style="font-size:12.5px">
+<li>Jacksonville: 69,079
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br></ul>
+</p></div>
+<div style="float: right; width: 32%;">
+<p><b>Mean Annual Severe Weather Days:</b> 5-14<br>
+<ul style="font-size:15px">
+<li>Mean Tornado Days: 2-3
+<li>Mean Damaging Wind Days: 8-12
+<li>Mean Hail Days: 1-5</ul>
+<b>Mean Annual Temperature:</b> 60-65&deg;F<br>
+<b>Mean Annual Precipitation:</b> 53-57"<br><br>
+<b>Highest Elevation:</b> 34'<br>
+<b>River Basin(s):</b> White Oak, Cape Fear<br>
+<b>Tornadoes since 1950:</b> 45<br>
+</p></div>
+<div algin="center width: 32%;">
+<center><p style="font-size:22px"><b><u>ONSLOW County</u></b></p></center>
+<p style="font-size:16px">
+<b>Land Area:</b> 762.74 sq. mi.<br>
+<b>State Land Area Rank:</b> #12<br><br>
+<b>Water Area:</b> 143 sq. mi. / 16.0%<br>
+<b>State Water Area Rank:</b> #14<br><br>
+<b>Year Founded:</b> 1734<br><br>
+<b>NWS Office:</b> Newport/Morehead City, NC (MHX)
+</p></div></div>
+<div class="info" >
+<div style="float: left; width: 32%;">
+<p style="font-size:16px">
+<b>County Population:</b> 9,845<br>
+<b>State Population Rank:</b> #97<br>
+<b>County Seat:</b> Trenton</p>
+<p style="font-size:16px"><b><u>Cities with Population > 10,000:</u></b><br>
+<ul style="font-size:12.5px">
+<li>None
+<li>Largest City - Maysville: 1,023
+<br>
+<br>
+<br>
+<br>
+<br>
+<br></ul>
+</p></div>
+<div style="float: right; width: 32%;">
+<p><b>Mean Annual Severe Weather Days:</b> 14-19<br>
+<ul style="font-size:15px">
+<li>Mean Tornado Days: 2-3
+<li>Mean Damaging Wind Days: 8-15
+<li>Mean Hail Days: 1-2</ul>
+<b>Mean Annual Temperature:</b> 60-65&deg;F<br>
+<b>Mean Annual Precipitation:</b> 53-57"<br><br>
+<b>Highest Elevation:</b> 125'<br>
+<b>River Basin(s):</b> Neuse, White Oak<br>
+<b>Tornadoes since 1950:</b> 18<br>
+</p></div>
+<div algin="center width: 32%;">
+<center><p style="font-size:22px"><b><u>JONES County</u></b></p></center>
+<p style="font-size:16px">
+<b>Land Area:</b> 470.71 sq. mi.<br>
+<b>State Land Area Rank:</b> #49<br><br>
+<b>Water Area:</b> 2.5 sq. mi. / 0.5%<br>
+<b>State Water Area Rank:</b> #79<br><br>
+<b>Year Founded:</b> 1779<br><br>
+<b>NWS Office:</b> Newport/Morehead City, NC (MHX)
+</p></div></div>
+<div class="info" >
+<div style="float: left; width: 32%;">
+<p style="font-size:16px">
+<b>County Population:</b> 68,890<br>
+<b>State Population Rank:</b> #38<br>
+<b>County Seat:</b> Beaufort</p>
+<p style="font-size:16px"><b><u>Cities with Population > 10,000:</u></b><br>
+<ul style="font-size:12.5px">
+<li>None
+<li>Largest City - Morehead City: 9,437
+<br>
+<br>
+<br>
+<br>
+<br>
+<br></ul>
+</p></div>
+<div style="float: right; width: 32%;">
+<p><b>Mean Annual Severe Weather Days:</b> 5-14<br>
+<ul style="font-size:15px">
+<li>Mean Tornado Days: 1-2
+<li>Mean Damaging Wind Days: 2-8
+<li>Mean Hail Days: 1-5</ul>
+<b>Mean Annual Temperature:</b> 55-60&deg;F<br>
+<b>Mean Annual Precipitation:</b> 56-60"<br><br>
+<b>Highest Elevation:</b> 51'<br>
+<b>River Basin(s):</b> White Oak, Neuse<br>
+<b>Tornadoes since 1950:</b> 63<br>
+</p></div>
+<div algin="center width: 32%;">
+<center><p style="font-size:22px"><b><u>CARTERET County</u></b></p></center>
+<p style="font-size:16px">
+<b>Land Area:</b> 506.25 sq. mi.<br>
+<b>State Land Area Rank:</b> #42<br><br>
+<b>Water Area:</b> 834 sq. mi. / 62.0%<br>
+<b>State Water Area Rank:</b> #2<br><br>
+<b>Year Founded:</b> 1722<br><br>
+<b>NWS Office:</b> Newport/Morehead City, NC (MHX)
+</p></div></div>
+<div class="info" >
+<center><p style="font-size:24px">Click on a North Carolina county to view city, county, and climate data.<br><br>Data was last updated on 15 August 2017.<br>Climate data are approximate and population data are estimations based upon 2015 U.S. Census data.<br>Note the links below for data sources.<br><br>&copy; 2011-2018 ANDREW'S WEATHER CENTER - SOME RIGHTS RESERVED</p></center></div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<map name="showcompartments">
+  <area shape="poly" coords="177,147,247,149,258,194,227,201,178,177" href="https://www.andrewswxcenter.com/ccci/#KAVL" onClick="showInfo('info',0)" >
+  <area shape="poly" coords="330,99,415,101,405,132,386,156,361,154,330,125" href="https://www.andrewswxcenter.com/ccci/#KHKY" onClick="showInfo('info',1)" >
+  <area shape="poly" coords="314,224,377,223,389,204,411,205,415,234,398,256,313,256" href="https://www.andrewswxcenter.com/ccci/#KAKH" onClick="showInfo('info',2)" >
+  <area shape="poly" coords="404,174,485,176,483,197,448,211,439,236,421,238" href="https://www.andrewswxcenter.com/ccci/#KCLT" onClick="showInfo('info',3)">
+  <area shape="poly" coords="464,208,543,209,541,236,488,240,479,265,447,261" href="https://www.andrewswxcenter.com/ccci/#KEQY" onClick="showInfo('info',4)">
+  <area shape="poly" coords="456,42,533,45,527,95,499,89,456,69" href="https://www.andrewswxcenter.com/ccci/#KINT" onClick="showInfo('info',5)">
+  <area shape="poly" coords="540,73,559,75,577,97,593,122,508,126" href="https://www.andrewswxcenter.com/ccci/#KGSO" onClick="showInfo('info',6)">
+  <area shape="poly" coords="564,53,648,58,640,79,616,107,596,111,574,84,562,63" href="https://www.andrewswxcenter.com/ccci/#KBUY" onClick="showInfo('info',7)">
+  <area shape="poly" coords="555,238,639,240,642,269,627,296,601,293,554,263" href="https://www.andrewswxcenter.com/ccci/#KMEB" onClick="showInfo('info',8)">
+  <area shape="poly" coords="645,289,671,295,671,310,724,319,723,342,641,343,636,308" href="https://www.andrewswxcenter.com/ccci/#KLBT" onClick="showInfo('info',9)">
+  <area shape="poly" coords="639,209,715,213,714,237,685,265,662,266,636,220" href="https://www.andrewswxcenter.com/ccci/#KFAY" onClick="showInfo('info',10)">
+  <area shape="poly" coords="647,83,732,84,729,108,698,133,671,134,645,109" href="https://www.andrewswxcenter.com/ccci/#KRDU" onClick="showInfo('info',11)">
+  <area shape="poly" coords="753,83,829,86,832,111,805,135,780,138,753,113" href="https://www.andrewswxcenter.com/ccci/#KRWI" onClick="showInfo('info',12)">
+  <area shape="poly" coords="757,314,827,316,823,346,804,372,774,370,755,334" href="https://www.andrewswxcenter.com/ccci/#KILM" onClick="showInfo('info',13)">
+  <area shape="poly" coords="846,199,940,198,930,233,905,249,875,252,850,227" href="https://www.andrewswxcenter.com/ccci/#KEWN" onClick="showInfo('info',14)">
+  <area shape="poly" coords="900,270,967,276,996,315,959,325,897,327" href="https://www.andrewswxcenter.com/ccci/#KMRH" onClick="showInfo('info',15)">
+  <area shape="poly" coords="934,27,1024,28,1025,70,1004,81,938,52" href="https://www.andrewswxcenter.com/ccci/#KECG" onClick="showInfo('info',16)">
+  <area shape="poly" coords="1022,176,1104,179,1105,217,1073,230,1041,222,1025,199" href="https://www.andrewswxcenter.com/ccci/#KHSE" onClick="showInfo('info',17)">
+  <area shape="poly" coords="-" href="#-" onClick="showInfo('info',18)">
+ </map>
+
+
+<br>
+<hr>
+<br>
+
+<div>
+<p style="font-size:20px"><b><u>Data Sources:</u></b></p>
+<a href="http://www.mob-rule.com/g25?0=Load&strokeColor=DD1188&q=North%20Carolina" target="_blank">Google Maps Interface with County Borders</a><br>
+<a href="http://www.econsultant.com/usa-state-maps-with-county-lines-county-names/nc-3-state-map-with-county-lines-county-names.gif" target="_blank">North Carolina County Names</a><br>
+<a href="https://www.census.gov/quickfacts/table/PST045216/00" target="_blank">Population Data</a><br>
+<a href="http://originlandsurveying.com/county-seats-of-nc/" target="_blank">County Seats</a><br>
+<a href="http://www.togetherweteach.com/TWTIC/uscityinfo/33nc/ncpopr/33ncpr.htm" target="_blank">North Carolina Cities with >10,000 Population</a><br>
+<a href="https://www.indexmundi.com/facts/united-states/quick-facts/north-carolina/land-area" target="_blank">Land Area Data</a><br>
+<a href="http://statelibrary.ncdcr.gov/ghl/genealogy/nc-county-formation" target="_blank">Foundation Year Data</a><br>
+<a href="https://coach4aday.files.wordpress.com/2016/05/nc-skywarn.png?w=640" target="_blank">NWS Office County Warning Areas</a><br>
+<a href="http://climate.ncsu.edu/climate/ncclimate.html" target="_blank">North Carolina Climate Data</a><br>
+<a href="http://www.spc.noaa.gov/wcm/" target="_blank">Severe Weather Days, Tornado, Wind, Hail Data</a><br>
+<a href="http://thomaslegion.net/highest_elevation_for_each_north_carolina_county.html" target="_blank">Highest Elevation Point Data</a><br>
+<a href="http://www.ncwildlife.org/portals/0/Conserving/Images/riverbasinmap.gif" target="_blank">River Basin Data</a><br>
+<a href="http://www.tornadohistoryproject.com/tornado/North-Carolina" target="_blank">North Carolina Tornado Data</a><br>
+
+<br>
+<hr>
+<br>
+
+<p style="font-size:15px; color:#C4C4C4">
+<i>"City-Climate-County Index" Web Tool<br>
+Developer: Andrew's Weather Center (Andrew H.)<br>
+Development time: ~20 hours<br>
+Contact: andrewswxcenter@gmail.com</i></p>
+</div>
+<br>
+<hr>
+<br>
+
+</body>
+
+
+</html>
